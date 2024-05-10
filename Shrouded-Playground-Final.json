@@ -10,7 +10,7 @@
     "adaptGameResolutionAtRuntime": true,
     "antialiasingMode": "MSAA",
     "antialisingEnabledOnMobile": false,
-    "folderProject": false,
+    "folderProject": true,
     "orientation": "landscape",
     "packageName": "com.example.gamename",
     "pixelsRounding": true,
@@ -63,7 +63,360 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Off.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Off.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/8215537950e4e02640f87df890132c2d9c19c42dbaf5d0cc8237272112941978_Saw_Off.png",
+          "name": "Saw_Off.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/8215537950e4e02640f87df890132c2d9c19c42dbaf5d0cc8237272112941978_Saw_On_1.png",
+          "name": "Saw_On_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/1d982f3e006a7ac6b76bca8cefbf716fd017b25f7e0218942276b4dd92ac1813_Saw_On_2.png",
+          "name": "Saw_On_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/b208726b0292bb1f401f3738902ec190c004841ae8c555b2817d9f19ef46ca62_Saw_On_3.png",
+          "name": "Saw_On_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/b6119060081879814ea630f152a39fb3c303d421b797515814c045b73b94abdf_Saw_On_4.png",
+          "name": "Saw_On_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/2cfa1cffe1380dd56016085e018c4b68844c6f669e67925dd365481f8ef26586_Saw_On_5.png",
+          "name": "Saw_On_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/75d8836f8bfc835f3217c0468d04f8aae970f136231c792f1251b73f5e868058_Saw_On_6.png",
+          "name": "Saw_On_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/6351b1a83d1930df91b19b49cc23a375aa154ee74f7a31280acc6abb6f1b1fd2_Saw_On_7.png",
+          "name": "Saw_On_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/63cce13ef5f9e917ed2de1359357510061e462e6cc8183553c0fb0c70a3c03f9_Saw_On_8.png",
+          "name": "Saw_On_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medieval Button Beige_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medieval Button Beige_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/6fad8e544ef611861ec9222dd95874cd2b011f1a98a4593372a25801f3236c1c_Medieval Button Beige_Hovered.png",
+          "name": "Medieval Button Beige_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medieval Button Beige_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medieval Button Beige_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/7366f06f5fb6f903e0745608c31da98b3d781c9f29af9016636619b32685ec97_Medieval Button Beige_Idle.png",
+          "name": "Medieval Button Beige_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Medieval Button Beige_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Medieval Button Beige_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/8ca64832a117b91bf3128f96ab66c83c7126c3ffb82909ac01ab1d687137997a_Medieval Button Beige_Pressed.png",
+          "name": "Medieval Button Beige_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/CaesarDressing-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "CaesarDressing-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "name": "CaesarDressing-Regular.ttf"
+        }
+      },
+      {
+        "file": "Pixel.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Pixel.fnt",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "Pixel2.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Pixel2.fnt",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixel3.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Pixel3.fnt",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixel4.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Pixel4.fnt",
+        "userAdded": false
+      },
+      {
+        "file": "Pixel5.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Pixel5.fnt",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixel6.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Pixel6.fnt",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixel7.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Pixel7.fnt",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixel8.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Pixel8.fnt",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixel9.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Pixel9.fnt",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "Pixel10.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Pixel10.fnt",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel10.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "Pixel11.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Pixel11.fnt",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Marker.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Marker.png\"}",
+        "name": "Marker",
+        "smoothed": false,
+        "userAdded": true
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
@@ -71,114 +424,39 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "SceneTransition",
+      "type": "string",
+      "value": ""
+    }
+  ],
   "layouts": [
     {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene",
-      "name": "Untitled scene",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [],
-      "objects": [],
-      "objectsFolderStructure": {
-        "folderName": "__ROOT"
-      },
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlayerAuthentication::DisplayAuthenticationBanner"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ]
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Light",
-              "doubleParameters": {
-                "elevation": 45,
-                "intensity": 1,
-                "rotation": 0
-              },
-              "stringParameters": {
-                "groundColor": "64;64;64",
-                "skyColor": "255;255;255",
-                "top": "Y-"
-              },
-              "booleanParameters": {}
-            }
-          ]
-        }
-      ],
-      "behaviorsSharedData": []
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menuscene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/firstscene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/transitionscene"
     }
   ],
   "externalEvents": [],
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/buttonstates"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    }
+  ],
   "externalLayouts": [],
   "externalSourceFiles": []
 }
