@@ -18,7 +18,7 @@
     "gridColor": 12632256,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.39251611754882637,
+    "zoomFactor": 0.37971210019479423,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -60,13 +60,12 @@
       "angle": 360,
       "customSize": true,
       "depth": 1,
-      "height": 119,
-      "keepRatio": true,
-      "layer": "Title",
+      "height": 120,
+      "layer": "Transition",
       "name": "Title",
       "persistentUuid": "7c6b1bca-6665-4973-a1a7-a19842332a3a",
-      "width": 1220,
-      "x": 31,
+      "width": 1280,
+      "x": 40,
       "y": 41,
       "zOrder": 4,
       "numberProperties": [],
@@ -82,7 +81,7 @@
       "name": "Play",
       "persistentUuid": "b56d57d3-932b-4d4d-8829-8771c4a07cdb",
       "width": 0,
-      "x": 552,
+      "x": 540,
       "y": 240,
       "zOrder": 5,
       "numberProperties": [],
@@ -98,8 +97,8 @@
       "name": "Setting",
       "persistentUuid": "dba575a2-b4a6-4b22-a245-252710d4db5a",
       "width": 0,
-      "x": 460,
-      "y": 390,
+      "x": 463,
+      "y": 385,
       "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
@@ -114,8 +113,8 @@
       "name": "Quit",
       "persistentUuid": "527abf75-12e5-4c9f-b71a-262329a2a715",
       "width": 0,
-      "x": 554,
-      "y": 560,
+      "x": 557,
+      "y": 538,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -124,12 +123,12 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 0.9922480620155039,
-      "height": 29.767441860465116,
+      "depth": 1,
+      "height": 40,
       "keepRatio": true,
       "layer": "",
       "name": "MenuMarker",
-      "persistentUuid": "7bb06964-825a-449e-835d-c2e14b4f4c5b",
+      "persistentUuid": "dc2673c3-4b2a-498e-9c3e-abd46577bb27",
       "width": 1280,
       "x": 0,
       "y": 0,
@@ -140,15 +139,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 40,
       "keepRatio": true,
       "layer": "",
-      "name": "SoundVolume",
-      "persistentUuid": "5d85585f-b912-4411-8456-448575bfb3e3",
-      "width": 0,
-      "x": 1898,
-      "y": 196,
+      "name": "SettingsMarker",
+      "persistentUuid": "a9b797c1-5b69-44d0-96a2-7144fcc8c789",
+      "width": 1280,
+      "x": 1520,
+      "y": 0,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -160,11 +160,11 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "MusicVolume",
-      "persistentUuid": "b16a15ea-0b8d-4c3c-a856-c01969ef47c1",
+      "name": "SoundVolume",
+      "persistentUuid": "75bd26c6-542b-4749-a0be-7a0ea98f68d2",
       "width": 0,
-      "x": 1915,
-      "y": 420,
+      "x": 1860,
+      "y": 206,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -172,15 +172,15 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 58.18181818181817,
-      "height": 40,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
       "layer": "",
-      "name": "SoundSlider",
-      "persistentUuid": "7e3fc04a-46df-48ab-a3be-414ceed7e269",
-      "width": 600,
-      "x": 1905,
-      "y": 300,
+      "name": "MusicVolume",
+      "persistentUuid": "7d318fd1-3640-4f91-878b-8e50bb773b77",
+      "width": 0,
+      "x": 1873,
+      "y": 400,
       "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
@@ -189,15 +189,33 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48.00000000000001,
-      "height": 40,
+      "depth": 35,
+      "height": 50,
+      "keepRatio": true,
+      "layer": "",
+      "name": "SoundSlider",
+      "persistentUuid": "87c6773b-6484-4cae-b255-2f5a960d66ce",
+      "width": 800,
+      "x": 1760,
+      "y": 310,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 86,
+      "height": 50,
+      "keepRatio": true,
       "layer": "",
       "name": "MusicSlider",
-      "persistentUuid": "5de2a6a6-d336-4b5f-8c2f-4abb88e4d112",
-      "width": 600,
-      "x": 1905,
-      "y": 530,
-      "zOrder": 11,
+      "persistentUuid": "b4ed2057-186b-42cb-b1b3-ecb26ca9e798",
+      "width": 800,
+      "x": 1760,
+      "y": 510,
+      "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -209,27 +227,10 @@
       "keepRatio": true,
       "layer": "",
       "name": "Back",
-      "persistentUuid": "118b2cb5-d523-4018-869e-d3da212240a2",
+      "persistentUuid": "46659a58-ce25-4957-bdcd-2ea727e38cdc",
       "width": 0,
-      "x": 2089,
-      "y": 617,
-      "zOrder": 12,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1.0158730158730158,
-      "height": 30.47619047619047,
-      "keepRatio": true,
-      "layer": "",
-      "name": "SettingsMarker",
-      "persistentUuid": "c4cb9d7d-0913-44a4-be03-6c3183e11809",
-      "width": 1280,
-      "x": 1540,
-      "y": 0,
+      "x": 2040,
+      "y": 600,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -408,6 +409,67 @@
       ]
     },
     {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "SettingsMarker",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "MenuMarker",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Marker",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "assetStoreId": "",
       "name": "SoundVolume",
       "type": "BitmapText::BitmapTextObject",
@@ -431,8 +493,8 @@
         "scale": 1.2,
         "fontSize": 20,
         "tint": "255;255;255",
-        "bitmapFontResourceName": "Pixel11.fnt",
-        "textureAtlasResourceName": "Pixel11.png",
+        "bitmapFontResourceName": "Pixel8.fnt",
+        "textureAtlasResourceName": "Pixel8.png",
         "align": "left",
         "wordWrap": true
       }
@@ -461,8 +523,8 @@
         "scale": 1.2,
         "fontSize": 20,
         "tint": "255;255;255",
-        "bitmapFontResourceName": "Pixel11.fnt",
-        "textureAtlasResourceName": "Pixel11.png",
+        "bitmapFontResourceName": "Pixel8.fnt",
+        "textureAtlasResourceName": "Pixel8.png",
         "align": "left",
         "wordWrap": true
       }
@@ -655,72 +717,11 @@
         "scale": 1.2,
         "fontSize": 20,
         "tint": "255;255;255",
-        "bitmapFontResourceName": "Pixel11.fnt",
-        "textureAtlasResourceName": "Pixel11.png",
+        "bitmapFontResourceName": "Pixel8.fnt",
+        "textureAtlasResourceName": "Pixel8.png",
         "align": "left",
         "wordWrap": true
       }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "SettingsMarker",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "Marker",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Marker",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 64
-                      },
-                      {
-                        "x": 0,
-                        "y": 64
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ],
   "objectsFolderStructure": {
@@ -739,25 +740,25 @@
         "objectName": "Quit"
       },
       {
-        "objectName": "SoundVolume"
-      },
-      {
-        "objectName": "MusicVolume"
-      },
-      {
         "objectName": "MenuMarker"
       },
       {
         "objectName": "SettingsMarker"
       },
       {
+        "objectName": "SoundVolume"
+      },
+      {
+        "objectName": "MusicVolume"
+      },
+      {
+        "objectName": "Back"
+      },
+      {
         "objectName": "SoundSlider"
       },
       {
         "objectName": "MusicSlider"
-      },
-      {
-        "objectName": "Back"
       }
     ]
   },
@@ -820,7 +821,7 @@
           "parameters": [
             "",
             "\"CameraMove\"",
-            "SettingsMarker.CenterX()",
+            "SettingsMarker.BoundingBoxCenterX()",
             "CameraCenterY()",
             "",
             "\"easeInOutQuad\"",
@@ -884,58 +885,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
-          },
-          "parameters": [
-            "SoundSlider",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "ModVarGlobal"
-          },
-          "parameters": [
-            "Settings.Sound",
-            "=",
-            "SoundSlider.Value()"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
-          },
-          "parameters": [
-            "MusicSlider",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "ModVarGlobal"
-          },
-          "parameters": [
-            "Settings.Music",
-            "=",
-            "SoundSlider.Value()"
-          ]
-        }
-      ]
     }
   ],
   "layers": [
@@ -994,7 +943,7 @@
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "isLocked": false,
-      "name": "Title",
+      "name": "Transition",
       "renderingType": "",
       "visibility": true,
       "cameras": [],
