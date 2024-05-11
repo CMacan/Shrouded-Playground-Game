@@ -18,7 +18,7 @@
     "gridColor": 12632256,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.3325387091250781,
+    "zoomFactor": 0.37971210019479423,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -61,7 +61,7 @@
       "customSize": true,
       "depth": 1,
       "height": 120,
-      "layer": "",
+      "layer": "Transition",
       "name": "Title",
       "persistentUuid": "7c6b1bca-6665-4973-a1a7-a19842332a3a",
       "width": 1280,
@@ -127,12 +127,111 @@
       "height": 40,
       "keepRatio": true,
       "layer": "",
-      "name": "Marker",
+      "name": "MenuMarker",
       "persistentUuid": "dc2673c3-4b2a-498e-9c3e-abd46577bb27",
       "width": 1280,
       "x": 0,
       "y": 0,
       "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 40,
+      "keepRatio": true,
+      "layer": "",
+      "name": "SettingsMarker",
+      "persistentUuid": "a9b797c1-5b69-44d0-96a2-7144fcc8c789",
+      "width": 1280,
+      "x": 1520,
+      "y": 0,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "SoundVolume",
+      "persistentUuid": "75bd26c6-542b-4749-a0be-7a0ea98f68d2",
+      "width": 0,
+      "x": 1860,
+      "y": 206,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "MusicVolume",
+      "persistentUuid": "7d318fd1-3640-4f91-878b-8e50bb773b77",
+      "width": 0,
+      "x": 1873,
+      "y": 400,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 35,
+      "height": 50,
+      "keepRatio": true,
+      "layer": "",
+      "name": "SoundSlider",
+      "persistentUuid": "87c6773b-6484-4cae-b255-2f5a960d66ce",
+      "width": 800,
+      "x": 1760,
+      "y": 310,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 86,
+      "height": 50,
+      "keepRatio": true,
+      "layer": "",
+      "name": "MusicSlider",
+      "persistentUuid": "b4ed2057-186b-42cb-b1b3-ecb26ca9e798",
+      "width": 800,
+      "x": 1760,
+      "y": 510,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Back",
+      "persistentUuid": "46659a58-ce25-4957-bdcd-2ea727e38cdc",
+      "width": 0,
+      "x": 2040,
+      "y": 600,
+      "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -194,7 +293,18 @@
       "type": "BitmapText::BitmapTextObject",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
       "content": {
         "text": "Settings",
         "opacity": 255,
@@ -213,7 +323,18 @@
       "type": "BitmapText::BitmapTextObject",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
       "content": {
         "text": "Quit",
         "opacity": 255,
@@ -229,7 +350,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Marker",
+      "name": "MenuMarker",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -286,6 +407,321 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "SettingsMarker",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "MenuMarker",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Marker",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "SoundVolume",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "content": {
+        "text": "Sound Volume",
+        "opacity": 255,
+        "scale": 1.2,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "Pixel8.fnt",
+        "textureAtlasResourceName": "Pixel8.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "MusicVolume",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "content": {
+        "text": "Music Volume",
+        "opacity": 255,
+        "scale": 1.2,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "Pixel8.fnt",
+        "textureAtlasResourceName": "Pixel8.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "bfeeb465a4a164b560a2215e3ff9e78e66123af43cbf7ef1f22d56fca4271c80",
+      "name": "SoundSlider",
+      "type": "PanelSpriteSlider::PanelSpriteSlider",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "BarTopPadding": 6,
+        "BarLeftPadding": 6,
+        "BarRightPadding": 6,
+        "BarBottomPadding": 6,
+        "LabelMargin": 6
+      },
+      "childrenContent": {
+        "Background": {
+          "bottomMargin": 4,
+          "height": 28,
+          "leftMargin": 2,
+          "rightMargin": 2,
+          "texture": "Square White Slider Border.png",
+          "tiled": false,
+          "topMargin": 4,
+          "width": 265
+        },
+        "FillBar": {
+          "bottomMargin": 2,
+          "height": 16,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Square White Slider Fill Bar.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 16
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "It displays the value when it changes.",
+          "font": "",
+          "textAlignment": "",
+          "characterSize": 20,
+          "color": {
+            "b": 221,
+            "g": 221,
+            "r": 221
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "It displays the value when it changes.",
+            "font": "",
+            "textAlignment": "",
+            "characterSize": 20,
+            "color": "221;221;221"
+          }
+        },
+        "Thumb": {
+          "bottomMargin": 2,
+          "height": 36,
+          "leftMargin": 1,
+          "rightMargin": 1,
+          "texture": "Square White Slider Thumb.png",
+          "tiled": false,
+          "topMargin": 2,
+          "width": 22
+        }
+      }
+    },
+    {
+      "assetStoreId": "bfeeb465a4a164b560a2215e3ff9e78e66123af43cbf7ef1f22d56fca4271c80",
+      "name": "MusicSlider",
+      "type": "PanelSpriteSlider::PanelSpriteSlider",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "BarTopPadding": 6,
+        "BarLeftPadding": 6,
+        "BarRightPadding": 6,
+        "BarBottomPadding": 6,
+        "LabelMargin": 6
+      },
+      "childrenContent": {
+        "Background": {
+          "bottomMargin": 4,
+          "height": 28,
+          "leftMargin": 2,
+          "rightMargin": 2,
+          "texture": "Square White Slider Border.png",
+          "tiled": false,
+          "topMargin": 4,
+          "width": 265
+        },
+        "FillBar": {
+          "bottomMargin": 2,
+          "height": 16,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Square White Slider Fill Bar.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 16
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "It displays the value when it changes.",
+          "font": "",
+          "textAlignment": "",
+          "characterSize": 20,
+          "color": {
+            "b": 221,
+            "g": 221,
+            "r": 221
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "It displays the value when it changes.",
+            "font": "",
+            "textAlignment": "",
+            "characterSize": 20,
+            "color": "221;221;221"
+          }
+        },
+        "Thumb": {
+          "bottomMargin": 2,
+          "height": 36,
+          "leftMargin": 1,
+          "rightMargin": 1,
+          "texture": "Square White Slider Thumb.png",
+          "tiled": false,
+          "topMargin": 2,
+          "width": 22
+        }
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "Back",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "content": {
+        "text": "Back",
+        "opacity": 255,
+        "scale": 1.2,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "Pixel8.fnt",
+        "textureAtlasResourceName": "Pixel8.png",
+        "align": "left",
+        "wordWrap": true
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -304,7 +740,25 @@
         "objectName": "Quit"
       },
       {
-        "objectName": "Marker"
+        "objectName": "MenuMarker"
+      },
+      {
+        "objectName": "SettingsMarker"
+      },
+      {
+        "objectName": "SoundVolume"
+      },
+      {
+        "objectName": "MusicVolume"
+      },
+      {
+        "objectName": "Back"
+      },
+      {
+        "objectName": "SoundSlider"
+      },
+      {
+        "objectName": "MusicSlider"
       }
     ]
   },
@@ -344,6 +798,93 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "Setting",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenCameraPosition2"
+          },
+          "parameters": [
+            "",
+            "\"CameraMove\"",
+            "SettingsMarker.BoundingBoxCenterX()",
+            "CameraCenterY()",
+            "",
+            "\"easeInOutQuad\"",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "Back",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenCameraPosition2"
+          },
+          "parameters": [
+            "",
+            "\"CameraMove\"",
+            "MenuMarker.CenterX()",
+            "CameraCenterY()",
+            "",
+            "\"easeInOutQuad\"",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "Quit",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Quit"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
@@ -373,6 +914,39 @@
           "width": 0
         }
       ],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Transition",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
       "effects": [
         {
           "effectType": "Scene3D::HemisphereLight",
