@@ -18,7 +18,7 @@
     "gridColor": 12632256,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.3925161175488233,
+    "zoomFactor": 0.3325387091250781,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -124,7 +124,7 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 200,
+      "height": 40,
       "keepRatio": true,
       "layer": "",
       "name": "Marker",
