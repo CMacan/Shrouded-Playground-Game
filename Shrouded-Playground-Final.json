@@ -3338,6 +3338,578 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Flat Dark/cb2f532a9cd3feb7cb8af6cdcb1de5ec074dc6aacf5c851dcd243c407aedd605_Right arrow button.png",
           "name": "Right arrow button.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 10_Walking Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "b1f39416e199570811f71b85b7d15a7a5436ccc12a732f74f01eadc07aed79cc_Male Character 10_Walking Left_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/b1f39416e199570811f71b85b7d15a7a5436ccc12a732f74f01eadc07aed79cc_Male Character 10_Walking Left_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Double Jump_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Double Jump_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/b5e42eb8f60672fb136ff34cbd46bed24e25efeee4880d2b4dc7dba641a88286_Pink Man_Double Jump_1.png",
+          "name": "Pink Man_Double Jump_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Double Jump_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Double Jump_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/b5e42eb8f60672fb136ff34cbd46bed24e25efeee4880d2b4dc7dba641a88286_Pink Man_Double Jump_2.png",
+          "name": "Pink Man_Double Jump_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Double Jump_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Double Jump_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/280304affdf683464f81640dd23958777dfc10ab627546760f73cfe556dc857e_Pink Man_Double Jump_3.png",
+          "name": "Pink Man_Double Jump_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Double Jump_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Double Jump_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/280304affdf683464f81640dd23958777dfc10ab627546760f73cfe556dc857e_Pink Man_Double Jump_4.png",
+          "name": "Pink Man_Double Jump_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Double Jump_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Double Jump_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/9f21e6cc60496b521a451b0082ff65e06a9a77bdf396684c3208b4ff57143021_Pink Man_Double Jump_5.png",
+          "name": "Pink Man_Double Jump_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Double Jump_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Double Jump_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/9f21e6cc60496b521a451b0082ff65e06a9a77bdf396684c3208b4ff57143021_Pink Man_Double Jump_6.png",
+          "name": "Pink Man_Double Jump_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Fall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Fall.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/b6b6870938b9d4e0fc2462d6b2d6af7f745b11b2fe231178607989661d725694_Pink Man_Fall.png",
+          "name": "Pink Man_Fall.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Hit_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/48d985a023a14e4c16bc160cad6eba514ed0f80eae56596715d0ae0ee4588f9d_Pink Man_Hit_1.png",
+          "name": "Pink Man_Hit_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Hit_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Hit_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/48d985a023a14e4c16bc160cad6eba514ed0f80eae56596715d0ae0ee4588f9d_Pink Man_Hit_2.png",
+          "name": "Pink Man_Hit_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Hit_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Hit_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/2b6d767393a9e1e168c1ae58f31a0308f1923195727d1fae37b15c6464edf6dc_Pink Man_Hit_3.png",
+          "name": "Pink Man_Hit_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Hit_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Hit_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/88eb7b51c72f2d3876d6f4aabca52f438d173d786fc93065b37d36a96116afe9_Pink Man_Hit_4.png",
+          "name": "Pink Man_Hit_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Hit_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Hit_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/b2a3426617b93d60e59fbaa24159a03e18d2566e638456bb368a7daacb1e731d_Pink Man_Hit_5.png",
+          "name": "Pink Man_Hit_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Hit_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Hit_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/88eb7b51c72f2d3876d6f4aabca52f438d173d786fc93065b37d36a96116afe9_Pink Man_Hit_6.png",
+          "name": "Pink Man_Hit_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Hit_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Hit_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/329dfffc7705e1d63bf613cd597bc6e9fc9cb4fd06140e1df53de0973ade3b19_Pink Man_Hit_7.png",
+          "name": "Pink Man_Hit_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/d69b8a06da8e3a3b6001ce1ac5387959dffa39fd4c37c99224e10dc9aa409c10_Pink Man_Idle_1.png",
+          "name": "Pink Man_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/052979581b4f8a0d1c006f1e8f644f362a263e68a26a8dc5a62f75a7e70bd1e9_Pink Man_Idle_10.png",
+          "name": "Pink Man_Idle_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Idle_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Idle_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/052979581b4f8a0d1c006f1e8f644f362a263e68a26a8dc5a62f75a7e70bd1e9_Pink Man_Idle_11.png",
+          "name": "Pink Man_Idle_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/e9f77b4e0e5c05b44cbdda84fb72e46b6bbdf085e6343307e1b4b5605bdd657f_Pink Man_Idle_2.png",
+          "name": "Pink Man_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/e9f77b4e0e5c05b44cbdda84fb72e46b6bbdf085e6343307e1b4b5605bdd657f_Pink Man_Idle_3.png",
+          "name": "Pink Man_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/60e3aa2e89ffc8156a0a390eeb6875363b6bd9404fb4b8bc7b97fa10cc418239_Pink Man_Idle_4.png",
+          "name": "Pink Man_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/60e3aa2e89ffc8156a0a390eeb6875363b6bd9404fb4b8bc7b97fa10cc418239_Pink Man_Idle_5.png",
+          "name": "Pink Man_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/7bf13f19f24f85dc0483d9e3cfbdff582d5350135809d6504cd634687f67f3aa_Pink Man_Idle_6.png",
+          "name": "Pink Man_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/7bf13f19f24f85dc0483d9e3cfbdff582d5350135809d6504cd634687f67f3aa_Pink Man_Idle_7.png",
+          "name": "Pink Man_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/7bf13f19f24f85dc0483d9e3cfbdff582d5350135809d6504cd634687f67f3aa_Pink Man_Idle_8.png",
+          "name": "Pink Man_Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/7bf13f19f24f85dc0483d9e3cfbdff582d5350135809d6504cd634687f67f3aa_Pink Man_Idle_9.png",
+          "name": "Pink Man_Idle_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Jump.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/03a3b88bb8436761f385ae06ab81b13e93ed75bc85515fada56d5b739ad94289_Pink Man_Jump.png",
+          "name": "Pink Man_Jump.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/734825a71ef683c0b8a082d73e36bf9a8d504059b75433f02f39b1ebea348db8_Pink Man_Run_1.png",
+          "name": "Pink Man_Run_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/fc0ef49a6fad06084469680cfebb80a6f0270bd3989da12e9c88196ca396e172_Pink Man_Run_10.png",
+          "name": "Pink Man_Run_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/50f0c8f82ceb04f5118f5862a6d4c92cea19829fcb0ffd5624303fe5389c3ed3_Pink Man_Run_11.png",
+          "name": "Pink Man_Run_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/50f0c8f82ceb04f5118f5862a6d4c92cea19829fcb0ffd5624303fe5389c3ed3_Pink Man_Run_12.png",
+          "name": "Pink Man_Run_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/86fa9521837530e0cc79ca6ce953ea05acf2b12345694cf497b27996ba71a5f9_Pink Man_Run_2.png",
+          "name": "Pink Man_Run_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/86fa9521837530e0cc79ca6ce953ea05acf2b12345694cf497b27996ba71a5f9_Pink Man_Run_3.png",
+          "name": "Pink Man_Run_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/b62bb4db8582fa7a4180dd8479f308a96694c9467577683b5261b8a6c72ead59_Pink Man_Run_4.png",
+          "name": "Pink Man_Run_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/c2b1eefa4f0d5032e38ae0ce297a757b3e1ac0f673080be256b6a99623f2a136_Pink Man_Run_5.png",
+          "name": "Pink Man_Run_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/c2b1eefa4f0d5032e38ae0ce297a757b3e1ac0f673080be256b6a99623f2a136_Pink Man_Run_6.png",
+          "name": "Pink Man_Run_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/c0fd27adf9abe9b9e1148d8e334e02b3542ff94f70b9dd654ca46d3cadbafe06_Pink Man_Run_7.png",
+          "name": "Pink Man_Run_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/3f49b4ba7e8554b0ef248869333208ed5a41cab01e512d56eafcda38670048b2_Pink Man_Run_8.png",
+          "name": "Pink Man_Run_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Run_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Run_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/3f49b4ba7e8554b0ef248869333208ed5a41cab01e512d56eafcda38670048b2_Pink Man_Run_9.png",
+          "name": "Pink Man_Run_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Wall Jump_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Wall Jump_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/1c6ae271a12d5459f1495e43feb15bc90ba8545aa38129b0b20a11a2839cef35_Pink Man_Wall Jump_1.png",
+          "name": "Pink Man_Wall Jump_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Wall Jump_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Wall Jump_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/1c6ae271a12d5459f1495e43feb15bc90ba8545aa38129b0b20a11a2839cef35_Pink Man_Wall Jump_2.png",
+          "name": "Pink Man_Wall Jump_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Wall Jump_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Wall Jump_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/108416b938ee4c88bb17f448cded996c705d583bf3d4695a62996d877af44882_Pink Man_Wall Jump_3.png",
+          "name": "Pink Man_Wall Jump_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Wall Jump_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Wall Jump_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/108416b938ee4c88bb17f448cded996c705d583bf3d4695a62996d877af44882_Pink Man_Wall Jump_4.png",
+          "name": "Pink Man_Wall Jump_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pink Man_Wall Jump_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pink Man_Wall Jump_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/108416b938ee4c88bb17f448cded996c705d583bf3d4695a62996d877af44882_Pink Man_Wall Jump_5.png",
+          "name": "Pink Man_Wall Jump_5.png"
+        }
       }
     ],
     "resourceFolders": []

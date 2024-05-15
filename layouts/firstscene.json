@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.6897782140104511,
+    "zoomFactor": 0.8993607583666647,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -47,12 +47,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 57,
-      "height": 76,
+      "height": 50,
       "keepRatio": true,
       "layer": "",
       "name": "Menu_Button",
       "persistentUuid": "f100d094-0f4b-430b-8fe0-2d49d5675b56",
-      "width": 229,
+      "width": 103,
       "x": 31,
       "y": 21,
       "zOrder": 2,
@@ -69,8 +69,8 @@
       "layer": "",
       "name": "OrangeGrass9patch",
       "persistentUuid": "15910d0d-df9a-41d5-bf2a-b52746a597d8",
-      "width": 1851,
-      "x": -163,
+      "width": 1692,
+      "x": -4,
       "y": 659,
       "zOrder": 44,
       "numberProperties": [],
@@ -87,8 +87,8 @@
       "name": "MaleCharacter12",
       "persistentUuid": "2f6a5543-1584-4081-89df-8ec4288750c0",
       "width": 38,
-      "x": 20,
-      "y": 620,
+      "x": 266,
+      "y": 471,
       "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
@@ -189,8 +189,8 @@
       "name": "Box2",
       "persistentUuid": "326a895d-5224-41a6-a138-5d49fa1c1ca5",
       "width": 64,
-      "x": 119,
-      "y": 610,
+      "x": 111,
+      "y": 609,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -206,7 +206,7 @@
       "name": "Box2",
       "persistentUuid": "a6621e4e-d626-433f-b4cf-fbbcbb1c8b12",
       "width": 111,
-      "x": 141,
+      "x": 143,
       "y": 570,
       "zOrder": 15,
       "numberProperties": [],
@@ -223,7 +223,7 @@
       "name": "Box2",
       "persistentUuid": "5bc7b63d-48ce-4789-a665-e567395a0097",
       "width": 155,
-      "x": 203,
+      "x": 208,
       "y": 529,
       "zOrder": 14,
       "numberProperties": [],
@@ -290,8 +290,8 @@
       "name": "CaveBackgroundHole",
       "persistentUuid": "ab2c59ae-0fae-4d90-8bcf-1db1b098585a",
       "width": 0,
-      "x": 1605,
-      "y": 539,
+      "x": 1606,
+      "y": 544,
       "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
@@ -596,7 +596,7 @@
       "persistentUuid": "1628def6-f409-412f-b0ae-781fac6031cc",
       "width": 0,
       "x": 355,
-      "y": 630,
+      "y": 644,
       "zOrder": 43,
       "numberProperties": [],
       "stringProperties": [],
@@ -612,7 +612,7 @@
       "persistentUuid": "672e0d78-32bc-480a-b4a7-4c28b81e9487",
       "width": 0,
       "x": 399,
-      "y": 631,
+      "y": 644,
       "zOrder": 43,
       "numberProperties": [],
       "stringProperties": [],
@@ -628,7 +628,7 @@
       "persistentUuid": "1da00983-669b-412d-ab57-f8e3c5cb8149",
       "width": 0,
       "x": 443,
-      "y": 631,
+      "y": 644,
       "zOrder": 43,
       "numberProperties": [],
       "stringProperties": [],
@@ -644,7 +644,7 @@
       "persistentUuid": "41f8543c-2625-4c9c-8202-f29c31b4b0a5",
       "width": 0,
       "x": 491,
-      "y": 631,
+      "y": 643,
       "zOrder": 43,
       "numberProperties": [],
       "stringProperties": [],
@@ -697,6 +697,23 @@
       "x": 734,
       "y": 619,
       "zOrder": 47,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 47,
+      "keepRatio": true,
+      "layer": "",
+      "name": "PinkMan",
+      "persistentUuid": "b3a26e1a-38fc-43c6-965f-a340c725c4f5",
+      "width": 49,
+      "x": 27,
+      "y": 613,
+      "zOrder": 48,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1474,10 +1491,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -1543,10 +1560,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ]
@@ -2971,6 +2988,1650 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "b367633a42cc9d5f60f210cc09db68893d954553440842a40d4045a040b63b6b",
+      "name": "PinkMan",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.0909,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Idle_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Idle_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Idle_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Idle_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Idle_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Idle_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Idle_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Idle_8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Idle_9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Idle_10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Idle_11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Run",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.0833,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Run_12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Jump.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fall",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Fall.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hit",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.1429,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Hit_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Hit_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Hit_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Hit_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Hit_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Hit_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Hit_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Double Jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.1667,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Double Jump_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Double Jump_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Double Jump_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Double Jump_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Double Jump_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Double Jump_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Wall Jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Wall Jump_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Wall Jump_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Wall Jump_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Wall Jump_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pink Man_Wall Jump_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 7
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -3056,6 +4717,9 @@
       },
       {
         "objectName": "RightArrowButton"
+      },
+      {
+        "objectName": "PinkMan"
       }
     ]
   },
@@ -3113,7 +4777,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "MaleCharacter12",
+                "PinkMan",
                 "Saw",
                 "",
                 "",
@@ -3156,7 +4820,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "MaleCharacter12",
+                "PinkMan",
                 "GoldCoin",
                 "",
                 "",
@@ -3216,7 +4880,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "MaleCharacter12",
+                "PinkMan",
                 "GloppySlime",
                 "",
                 "",
@@ -3244,7 +4908,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "MaleCharacter12",
+                "PinkMan",
                 "GloppySlime",
                 "",
                 "",
@@ -3402,6 +5066,67 @@
                 "Flippable",
                 "yes"
               ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "PLAYER MOVEMENTS",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "PinkMan",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "Animation",
+                    "=",
+                    "\"Run\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             }
           ]
         }
