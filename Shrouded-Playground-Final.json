@@ -748,6 +748,26 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "file": "MI_SFX 03.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "MI_SFX 03.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "MI_SFX 15.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "MI_SFX 15.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
