@@ -2811,6 +2811,533 @@
         "name": "Terrain (16 x 16)17",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Fall Trees Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Fall Trees Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/d9232895a8d5a45f7276ced919edba583b90d6335098b6cc886c6e72101334b4_tiled_Fall Trees Background.png",
+          "name": "tiled_Fall Trees Background.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Merged Full Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merged Full Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Backgrounds/34a4293e3c14f3b014e5d97a5faee8d20ad65701e29c0d651fba8e300188c595_Merged Full Background.png",
+          "name": "Merged Full Background.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red house 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red house 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Building/97f43b82f8d684d117850dd17046e2dcbcefed77949765000028734703e6d6ad_Red house 2.png",
+          "name": "Red house 2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green house 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green house 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Building/329265dcade5ee224ead6052df1b12d2178504372a107b9fafacad651d4251de_Green house 2.png",
+          "name": "Green house 2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Small Castle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Small Castle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Building/b2fbe1a2f415ce60468957326d91d1c9b18ecc71fd15b657712da112e09d4147_Small Castle.png",
+          "name": "Small Castle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alternative Small Castle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alternative Small Castle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Building/e4a97f52a3356edda45a153bd52a7917d2d2fe5509ccc0917e8306b67fb9673d_Alternative Small Castle.png",
+          "name": "Alternative Small Castle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_black space.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_black space.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/Backgrounds/82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
+          "name": "tiled_black space.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Starry Background Solid Colour.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Starry Background Solid Colour.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/FoozleCC/Void Collection/Environment Pack/Backgrounds/0c1c754c8dbb456e059f31544e5cb51ee3de171b0a70c482d1d144c3e1bc2156_tiled_Starry Background Solid Colour.png",
+          "name": "tiled_Starry Background Solid Colour.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box2_Break_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box2_Break_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/572015850c8c8304f54c04f2651dc81c79d6e066d1006d189cba727a1a1d9bd6_Box2_Break_1.png",
+          "name": "Box2_Break_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box2_Break_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box2_Break_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/16a57f65c973b78a874bee3833f8b57e20175b74349b84301901bfc96770bc86_Box2_Break_2.png",
+          "name": "Box2_Break_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box2_Break_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box2_Break_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/6c3ae888a4ffd78c5c98c6910440c088b9b22b679a52118dc103492eaa670eac_Box2_Break_3.png",
+          "name": "Box2_Break_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box2_Break_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box2_Break_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/3a8cee6eeefab111a0faf15287e411ed4fec4a46b0d76f396761cdaa912a7e0b_Box2_Break_4.png",
+          "name": "Box2_Break_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box2_Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box2_Hit_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/dd7e194e9bb66c967296fdc6ed37f2424967becda48ffb67a580b74e779b484b_Box2_Hit_1.png",
+          "name": "Box2_Hit_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box2_Hit_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box2_Hit_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/9cbce8212515286e0d7f54470023e1e716a8f37e7f938b0ff959d4de978ec9b6_Box2_Hit_2.png",
+          "name": "Box2_Hit_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box2_Hit_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box2_Hit_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/0761ed7b1e180323658897262c34206e7881bc82597ab89154a0c77862a3f953_Box2_Hit_3.png",
+          "name": "Box2_Hit_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box2_Hit_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box2_Hit_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/d411447b9a334626788b067a3c0452335ae52acdbc2a70ab7c7491f232f83140_Box2_Hit_4.png",
+          "name": "Box2_Hit_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box2_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box2_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/690ceb198a197196ab8e0e575ab878f634d3ad3a299c6a6e21a5f0cfd7d54f80_Box2_Idle.png",
+          "name": "Box2_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tile 18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tile 18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/aae647007307002e4ff30e944b69f77d93eaadd0cae2992cfae5ed32a059f702_Tile 18.png",
+          "name": "Tile 18.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Tile 30 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tile 30 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/05c0e3769ed6fff507341e7a0cad20cde0ad9ca25c307c0f9f88b1e5079e46be_tiled_Tile 30 tiled sprite.png",
+          "name": "tiled_Tile 30 tiled sprite.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tile 31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tile 31.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/5827e4e837725d7478852187545b0882c91bb704413875ffd6d71deb7d4ca62e_Tile 31.png",
+          "name": "Tile 31.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Tile 3 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tile 3 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/139f3b36f1420a4639943066a9d8d6a0229d18b0f29c00368da47d61c9b7993b_tiled_Tile 3 tiled sprite.png",
+          "name": "tiled_Tile 3 tiled sprite.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bush Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bush Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Plant/b23e0c1e6295e32b1c0dd42e7f212466c60c5db35ae9f6c4a3b4622f9b8d10a6_Bush Background.png",
+          "name": "Bush Background.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grass background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grass background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Plant/f01e72e0ce285488fac52165de275fbfac4824a321fbad8a3aa444f45d4e1daf_Grass background.png",
+          "name": "Grass background.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/House small background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "House small background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Building/ee9ee8b5e075a6500199770cc0049f351a2d03f9f46e4ca13048d763efff41a4_House small background.png",
+          "name": "House small background.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/House tall foreground.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "House tall foreground.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Building/86cd1f21406274903810c5bbd5364b5375703132099f6b9b80bf7e08b2dc1c04_House tall foreground.png",
+          "name": "House tall foreground.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cave Background Hole.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cave Background Hole.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Misc/e892f2a9d2fca2c95c8f124cfd88d5dbd4f8357a0747e6a53f995f2f5d0ed47f_Cave Background Hole.png",
+          "name": "Cave Background Hole.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/House.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "House.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Building/25a026f33b5e093c8924530e3c5d5cb269192d57720b1ae766d8350f1d1f5667_House.png",
+          "name": "House.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/House tall background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "House tall background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Building/c32bc9f1bca8e45f0e42b165cd1b02374e0a7284472670311990f028eb408d84_House tall background.png",
+          "name": "House tall background.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gold Coin.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gold Coin.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art RPG Items/Collectable items/5344a18114b8923e086ed815c87b6790693e4df78490071c1b120ffc6c00fea9_Gold Coin.png",
+          "name": "Gold Coin.png"
+        }
+      },
+      {
+        "file": "Pixellari.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Pixellari.ttf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gloppy Slime_Hurt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gloppy Slime_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 1/Gloppy Slime/61c8e1d677cb56b601b39e99f92cc7b70cef949415c9fe270381f47304f36d28_Gloppy Slime_Hurt.png",
+          "name": "Gloppy Slime_Hurt.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gloppy Slime_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gloppy Slime_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 1/Gloppy Slime/12525d528422d7071f840987a8e900c6728d7820b0bb3fa96f27d458bff9116c_Gloppy Slime_Idle_1.png",
+          "name": "Gloppy Slime_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gloppy Slime_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gloppy Slime_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 1/Gloppy Slime/c9f9327108e2f90fc1ad7660b0430f6a39944add2bc1e8718fbea13150bbe7dc_Gloppy Slime_Idle_2.png",
+          "name": "Gloppy Slime_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gloppy Slime_Pop out_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gloppy Slime_Pop out_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 1/Gloppy Slime/9a4b7eae3517e22288ee4ff2febea13ac5bd07de6db7c5d9b158187e0772e9d0_Gloppy Slime_Pop out_1.png",
+          "name": "Gloppy Slime_Pop out_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gloppy Slime_Pop out_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gloppy Slime_Pop out_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 1/Gloppy Slime/eb87f438646b3e30a2068a66d86e9a973dee40da1fb813b3ad8cd6859b55223c_Gloppy Slime_Pop out_2.png",
+          "name": "Gloppy Slime_Pop out_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gloppy Slime_Pop out_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gloppy Slime_Pop out_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 1/Gloppy Slime/9db44b6f9f015fc9f5d7419245a48fe760605bb84ed8d9a09a51ae6a622cb584_Gloppy Slime_Pop out_3.png",
+          "name": "Gloppy Slime_Pop out_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gloppy Slime_Sinking_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gloppy Slime_Sinking_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 1/Gloppy Slime/9db44b6f9f015fc9f5d7419245a48fe760605bb84ed8d9a09a51ae6a622cb584_Gloppy Slime_Sinking_1.png",
+          "name": "Gloppy Slime_Sinking_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gloppy Slime_Sinking_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gloppy Slime_Sinking_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 1/Gloppy Slime/eb87f438646b3e30a2068a66d86e9a973dee40da1fb813b3ad8cd6859b55223c_Gloppy Slime_Sinking_2.png",
+          "name": "Gloppy Slime_Sinking_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gloppy Slime_Sinking_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gloppy Slime_Sinking_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 1/Gloppy Slime/9a4b7eae3517e22288ee4ff2febea13ac5bd07de6db7c5d9b158187e0772e9d0_Gloppy Slime_Sinking_3.png",
+          "name": "Gloppy Slime_Sinking_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Left arrow button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Left arrow button.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Flat Dark/69b5c8f8989a271fbbe9d2f68763f7e820044f505b0d0b66874bd20f70935a3c_Left arrow button.png",
+          "name": "Left arrow button.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Right arrow button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Right arrow button.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Flat Dark/cb2f532a9cd3feb7cb8af6cdcb1de5ec074dc6aacf5c851dcd243c407aedd605_Right arrow button.png",
+          "name": "Right arrow button.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -2828,6 +3355,7 @@
       "value": ""
     },
     {
+      "folded": true,
       "name": "Settings",
       "type": "structure",
       "children": [
@@ -2844,6 +3372,12 @@
           "value": 0
         }
       ]
+    },
+    {
+      "folded": true,
+      "name": "score",
+      "type": "string",
+      "value": "0"
     }
   ],
   "layouts": [
