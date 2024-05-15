@@ -18,7 +18,7 @@
     "gridColor": 12632256,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.3673257545058831,
+    "zoomFactor": 0.3437520241612327,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -132,7 +132,7 @@
       "width": 1280,
       "x": 0,
       "y": 0,
-      "zOrder": 1,
+      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -232,6 +232,23 @@
       "x": 2040,
       "y": 600,
       "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 924,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bg",
+      "persistentUuid": "4297c79a-970e-4ce7-a3cc-6574c75aa65d",
+      "width": 1280,
+      "x": 0,
+      "y": 0,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -722,6 +739,66 @@
         "align": "left",
         "wordWrap": true
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "bg",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "_Complete_static_BG_(288 x 208)2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 288,
+                        "y": 0
+                      },
+                      {
+                        "x": 288,
+                        "y": 208
+                      },
+                      {
+                        "x": 0,
+                        "y": 208
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -759,6 +836,9 @@
       },
       {
         "objectName": "MusicSlider"
+      },
+      {
+        "objectName": "bg"
       }
     ]
   },
@@ -794,13 +874,14 @@
         },
         {
           "type": {
-            "value": "PlaySound"
+            "value": "PlaySoundCanal"
           },
           "parameters": [
             "",
             "JDSherbert - Ambiences Music Pack - The Blackpenny Pub.mp3",
-            "yes",
-            "GlobalVariable(Settings.Music)",
+            "1",
+            "no",
+            "",
             ""
           ]
         }
@@ -852,6 +933,17 @@
           },
           "parameters": [
             "Settings.Music",
+            "=",
+            "MusicSlider.Value()"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVolumeSoundCanal"
+          },
+          "parameters": [
+            "",
+            "1",
             "=",
             "MusicSlider.Value()"
           ]
