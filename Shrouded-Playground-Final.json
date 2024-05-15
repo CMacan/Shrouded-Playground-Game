@@ -753,6 +753,24 @@
       "name": "SceneTransition",
       "type": "string",
       "value": ""
+    },
+    {
+      "name": "Settings",
+      "type": "structure",
+      "children": [
+        {
+          "folded": true,
+          "name": "Music",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "Sound",
+          "type": "number",
+          "value": 0
+        }
+      ]
     }
   ],
   "layouts": [
