@@ -738,6 +738,16 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/848f861767e7ce4581dba9e122ee7bafeaca57987655cebe1f78ab31d1300f0f_Square White Slider Thumb.png",
           "name": "Square White Slider Thumb.png"
         }
+      },
+      {
+        "file": "JDSherbert - Ambiences Music Pack - The Blackpenny Pub.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "JDSherbert - Ambiences Music Pack - The Blackpenny Pub.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

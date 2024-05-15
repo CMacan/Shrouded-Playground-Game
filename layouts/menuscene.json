@@ -791,6 +791,18 @@
           "parameters": [
             "SettingsMarker"
           ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "JDSherbert - Ambiences Music Pack - The Blackpenny Pub.mp3",
+            "yes",
+            "",
+            ""
+          ]
         }
       ]
     },
