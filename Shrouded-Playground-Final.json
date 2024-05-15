@@ -750,1446 +750,1172 @@
         "userAdded": true
       },
       {
-        "file": "MI_SFX 03.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "MI_SFX 03.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "MI_SFX 15.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "MI_SFX 15.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "postapocalypse3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "postapocalypse3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0000.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0000.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0001.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0001.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0002.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0002.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0003.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0003.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0004.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0004.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0005.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0005.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0006.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0006.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0007.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0007.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0008.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0008.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0009.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0009.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0010.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0010.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0011.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0011.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0012.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0012.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0013.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0013.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0014.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0014.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0015.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0015.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0016.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0016.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0017.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0017.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0018.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0018.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0019.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0019.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0020.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0020.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0021.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0021.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0022.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0022.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0023.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0023.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0024.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0024.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0025.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0025.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0026.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0026.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0027.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0027.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0028.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0028.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0029.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0029.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0030.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0030.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0031.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0031.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0032.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0032.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0033.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0033.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0034.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0034.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0035.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0035.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0036.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0036.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0037.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0037.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0038.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0038.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0039.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0039.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0040.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0040.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0041.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0041.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0042.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0042.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0043.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0043.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0044.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0044.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0045.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0045.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0046.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0046.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0047.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0047.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0048.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0048.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0049.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0049.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0050.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0050.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0051.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0051.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0052.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0052.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0053.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0053.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0054.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0054.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0055.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0055.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0056.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0056.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0057.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0057.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "alwaysLoaded": false,
-        "file": "frame0058.png",
+        "file": "assets/9patch_Stone 9Patch_all_17.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0058.png",
+        "name": "9patch_Stone 9Patch_all_16.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/0d4e1fc25b009b7424360bba5f4cb126c82390b044aabce180aebf4806b9aff2_9patch_Stone 9Patch_all_16.png",
+          "name": "9patch_Stone 9Patch_all_16.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0059.png",
+        "file": "assets/9patch_Wood 9Patch_all_16.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0059.png",
+        "name": "9patch_Wood 9Patch_all_16.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/3822dec39b16fd3c1767f113a4e99024533cec47dc38fe0664902ca2a6950ce9_9patch_Wood 9Patch_all_16.png",
+          "name": "9patch_Wood 9Patch_all_16.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0060.png",
+        "file": "assets/9patch_Leaves 9Patch_all_16.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0060.png",
+        "name": "9patch_Leaves 9Patch_all_16.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/97c06143667dd091a9fd270eec0f17dce22326dbf6b74feb405cc8f943527106_9patch_Leaves 9Patch_all_16.png",
+          "name": "9patch_Leaves 9Patch_all_16.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0061.png",
+        "file": "assets/tiled_Blue Background.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0061.png",
+        "name": "tiled_Blue Background.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Background/52670a0931709d806cf7bb5d2f15d278f7be2a11576faaaedf4102eb11739484_tiled_Blue Background.png",
+          "name": "tiled_Blue Background.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0062.png",
+        "file": "assets/Mask Dude_Double Jump_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0062.png",
+        "name": "Mask Dude_Double Jump_1.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/40df336b5eaea883f93aaa3344bee98c830ffc5e6a34d6f686502539cdb05629_Mask Dude_Double Jump_1.png",
+          "name": "Mask Dude_Double Jump_1.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0063.png",
+        "file": "assets/Mask Dude_Double Jump_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0063.png",
+        "name": "Mask Dude_Double Jump_2.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/40df336b5eaea883f93aaa3344bee98c830ffc5e6a34d6f686502539cdb05629_Mask Dude_Double Jump_2.png",
+          "name": "Mask Dude_Double Jump_2.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0064.png",
+        "file": "assets/Mask Dude_Double Jump_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0064.png",
+        "name": "Mask Dude_Double Jump_3.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/e0bf720f3cfd90899ccb8f5b2e45b2e4dc427d90a71d774c06f65063e8862c2d_Mask Dude_Double Jump_3.png",
+          "name": "Mask Dude_Double Jump_3.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0065.png",
+        "file": "assets/Mask Dude_Double Jump_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0065.png",
+        "name": "Mask Dude_Double Jump_4.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/e0bf720f3cfd90899ccb8f5b2e45b2e4dc427d90a71d774c06f65063e8862c2d_Mask Dude_Double Jump_4.png",
+          "name": "Mask Dude_Double Jump_4.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0066.png",
+        "file": "assets/Mask Dude_Double Jump_5.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0066.png",
+        "name": "Mask Dude_Double Jump_5.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/0bd4ea6930c56ff7d88a0b3997fbb3f81593b0058c033ad3961eacfcd5dc7569_Mask Dude_Double Jump_5.png",
+          "name": "Mask Dude_Double Jump_5.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0067.png",
+        "file": "assets/Mask Dude_Double Jump_6.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0067.png",
+        "name": "Mask Dude_Double Jump_6.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/0bd4ea6930c56ff7d88a0b3997fbb3f81593b0058c033ad3961eacfcd5dc7569_Mask Dude_Double Jump_6.png",
+          "name": "Mask Dude_Double Jump_6.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0068.png",
+        "file": "assets/Mask Dude_Fall.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0068.png",
+        "name": "Mask Dude_Fall.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/46d7471df49547e969601e3ee2d8479acd9ffdf54d4cd91ed6c182a0fb8e1315_Mask Dude_Fall.png",
+          "name": "Mask Dude_Fall.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0069.png",
+        "file": "assets/Mask Dude_Hit_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0069.png",
+        "name": "Mask Dude_Hit_1.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/fe2a4b06d6a68241bc5e12d5c4593d32685dbab9f982b3a42a64b564680c3df3_Mask Dude_Hit_1.png",
+          "name": "Mask Dude_Hit_1.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0070.png",
+        "file": "assets/Mask Dude_Hit_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0070.png",
+        "name": "Mask Dude_Hit_2.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/fe2a4b06d6a68241bc5e12d5c4593d32685dbab9f982b3a42a64b564680c3df3_Mask Dude_Hit_2.png",
+          "name": "Mask Dude_Hit_2.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0071.png",
+        "file": "assets/Mask Dude_Hit_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0071.png",
+        "name": "Mask Dude_Hit_3.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/374f109f76b6fad08e980247fc121c13e2daa460bfe80c8be420f7510c9946f9_Mask Dude_Hit_3.png",
+          "name": "Mask Dude_Hit_3.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0072.png",
+        "file": "assets/Mask Dude_Hit_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0072.png",
+        "name": "Mask Dude_Hit_4.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/4f21c05fb01f7f2232c2442340f2684cafed8742c53858ae97d07229cef6d9ce_Mask Dude_Hit_4.png",
+          "name": "Mask Dude_Hit_4.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0073.png",
+        "file": "assets/Mask Dude_Hit_5.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0073.png",
+        "name": "Mask Dude_Hit_5.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/aae52c134fff87f0bd7069f70db224f130ec2d6218245bd2975b693538864e4f_Mask Dude_Hit_5.png",
+          "name": "Mask Dude_Hit_5.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0074.png",
+        "file": "assets/Mask Dude_Hit_6.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0074.png",
+        "name": "Mask Dude_Hit_6.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/4f21c05fb01f7f2232c2442340f2684cafed8742c53858ae97d07229cef6d9ce_Mask Dude_Hit_6.png",
+          "name": "Mask Dude_Hit_6.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0075.png",
+        "file": "assets/Mask Dude_Hit_7.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0075.png",
+        "name": "Mask Dude_Hit_7.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/5c463a4e562047d48515bdb9f8be68e75ea103a312ecee9005d7efd6e3f17da0_Mask Dude_Hit_7.png",
+          "name": "Mask Dude_Hit_7.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0076.png",
+        "file": "assets/Mask Dude_Idle_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0076.png",
+        "name": "Mask Dude_Idle_1.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/9928a8ae566c02da66833f5eb601adf11b942091be38dfaec8261d925df1e48c_Mask Dude_Idle_1.png",
+          "name": "Mask Dude_Idle_1.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0077.png",
+        "file": "assets/Mask Dude_Idle_10.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0077.png",
+        "name": "Mask Dude_Idle_10.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/8537fbf0cf05422ddaba74d5929e1ea14a53d77f5e0b7e114702b30f8eb4c0cd_Mask Dude_Idle_10.png",
+          "name": "Mask Dude_Idle_10.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0078.png",
+        "file": "assets/Mask Dude_Idle_11.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0078.png",
+        "name": "Mask Dude_Idle_11.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/8537fbf0cf05422ddaba74d5929e1ea14a53d77f5e0b7e114702b30f8eb4c0cd_Mask Dude_Idle_11.png",
+          "name": "Mask Dude_Idle_11.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0079.png",
+        "file": "assets/Mask Dude_Idle_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0079.png",
+        "name": "Mask Dude_Idle_2.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/aa9eefc32fb94ca8bbc892fc8076a81ac0382ac8cc6a88c524a901996f5d62c3_Mask Dude_Idle_2.png",
+          "name": "Mask Dude_Idle_2.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0080.png",
+        "file": "assets/Mask Dude_Idle_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0080.png",
+        "name": "Mask Dude_Idle_3.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/aa9eefc32fb94ca8bbc892fc8076a81ac0382ac8cc6a88c524a901996f5d62c3_Mask Dude_Idle_3.png",
+          "name": "Mask Dude_Idle_3.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0081.png",
+        "file": "assets/Mask Dude_Idle_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0081.png",
+        "name": "Mask Dude_Idle_4.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/299d6b4d314bbb1a94aa7b9d0e5a1b4ac6c01f5aace6a7e54da0892969389499_Mask Dude_Idle_4.png",
+          "name": "Mask Dude_Idle_4.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0082.png",
+        "file": "assets/Mask Dude_Idle_5.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0082.png",
+        "name": "Mask Dude_Idle_5.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/299d6b4d314bbb1a94aa7b9d0e5a1b4ac6c01f5aace6a7e54da0892969389499_Mask Dude_Idle_5.png",
+          "name": "Mask Dude_Idle_5.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0083.png",
+        "file": "assets/Mask Dude_Idle_6.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0083.png",
+        "name": "Mask Dude_Idle_6.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/64c6a637fb25c44b953085dc13e0e17462aa9fa4f31ebdc6c567039271678d69_Mask Dude_Idle_6.png",
+          "name": "Mask Dude_Idle_6.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0084.png",
+        "file": "assets/Mask Dude_Idle_7.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0084.png",
+        "name": "Mask Dude_Idle_7.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/64c6a637fb25c44b953085dc13e0e17462aa9fa4f31ebdc6c567039271678d69_Mask Dude_Idle_7.png",
+          "name": "Mask Dude_Idle_7.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0085.png",
+        "file": "assets/Mask Dude_Idle_8.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0085.png",
+        "name": "Mask Dude_Idle_8.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/64c6a637fb25c44b953085dc13e0e17462aa9fa4f31ebdc6c567039271678d69_Mask Dude_Idle_8.png",
+          "name": "Mask Dude_Idle_8.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0086.png",
+        "file": "assets/Mask Dude_Idle_9.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0086.png",
+        "name": "Mask Dude_Idle_9.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/64c6a637fb25c44b953085dc13e0e17462aa9fa4f31ebdc6c567039271678d69_Mask Dude_Idle_9.png",
+          "name": "Mask Dude_Idle_9.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0087.png",
+        "file": "assets/Mask Dude_Jump.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0087.png",
+        "name": "Mask Dude_Jump.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/becf699c7796062b90facf8fb36cbd33d952a87fe5672468b5820c4dd7ec1d3a_Mask Dude_Jump.png",
+          "name": "Mask Dude_Jump.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0088.png",
+        "file": "assets/Mask Dude_Run_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0088.png",
+        "name": "Mask Dude_Run_1.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/080aa0e2f1ccf16a80da8e57eb1bc52bc6c6c706409f447f95dfef87bdaffdeb_Mask Dude_Run_1.png",
+          "name": "Mask Dude_Run_1.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0089.png",
+        "file": "assets/Mask Dude_Run_10.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0089.png",
+        "name": "Mask Dude_Run_10.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/04fab692cf38b85c9abeca079b4bcaca7e839d42685fcdb7a0475f23e7a6c7d2_Mask Dude_Run_10.png",
+          "name": "Mask Dude_Run_10.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0090.png",
+        "file": "assets/Mask Dude_Run_11.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0090.png",
+        "name": "Mask Dude_Run_11.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/9f1a0ed1f3ad6abc985f5166b73cdd7c92f380339f5d0a9b16b416153c34eeb8_Mask Dude_Run_11.png",
+          "name": "Mask Dude_Run_11.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0091.png",
+        "file": "assets/Mask Dude_Run_12.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0091.png",
+        "name": "Mask Dude_Run_12.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/9f1a0ed1f3ad6abc985f5166b73cdd7c92f380339f5d0a9b16b416153c34eeb8_Mask Dude_Run_12.png",
+          "name": "Mask Dude_Run_12.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0092.png",
+        "file": "assets/Mask Dude_Run_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0092.png",
+        "name": "Mask Dude_Run_2.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/2a7bbb666b99e7fd061c5f4d4281a972c7a4407a66fd1c092eb223a6e3a05ab5_Mask Dude_Run_2.png",
+          "name": "Mask Dude_Run_2.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0093.png",
+        "file": "assets/Mask Dude_Run_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0093.png",
+        "name": "Mask Dude_Run_3.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/2a7bbb666b99e7fd061c5f4d4281a972c7a4407a66fd1c092eb223a6e3a05ab5_Mask Dude_Run_3.png",
+          "name": "Mask Dude_Run_3.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0094.png",
+        "file": "assets/Mask Dude_Run_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0094.png",
+        "name": "Mask Dude_Run_4.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/06fb287bfb9f02f79ba71e937977bca6e3b531cc0e4cf87cfa221b5972f24ba1_Mask Dude_Run_4.png",
+          "name": "Mask Dude_Run_4.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0095.png",
+        "file": "assets/Mask Dude_Run_5.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0095.png",
+        "name": "Mask Dude_Run_5.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/ded4aebb735edeb5e3f615783125e5548a539eab0fce990487242f18860ccb8e_Mask Dude_Run_5.png",
+          "name": "Mask Dude_Run_5.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0096.png",
+        "file": "assets/Mask Dude_Run_6.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0096.png",
+        "name": "Mask Dude_Run_6.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/ded4aebb735edeb5e3f615783125e5548a539eab0fce990487242f18860ccb8e_Mask Dude_Run_6.png",
+          "name": "Mask Dude_Run_6.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0097.png",
+        "file": "assets/Mask Dude_Run_7.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0097.png",
+        "name": "Mask Dude_Run_7.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/bfa8b80d8bddc696fdf0547617a7ff81b0337897f6cf97e0a42e0f97e3f439ce_Mask Dude_Run_7.png",
+          "name": "Mask Dude_Run_7.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0098.png",
+        "file": "assets/Mask Dude_Run_8.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0098.png",
+        "name": "Mask Dude_Run_8.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/abaf8169122fbec36b64e89679a3c616c30d619657fa20f12bb94829f65341cb_Mask Dude_Run_8.png",
+          "name": "Mask Dude_Run_8.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0099.png",
+        "file": "assets/Mask Dude_Run_9.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0099.png",
+        "name": "Mask Dude_Run_9.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/abaf8169122fbec36b64e89679a3c616c30d619657fa20f12bb94829f65341cb_Mask Dude_Run_9.png",
+          "name": "Mask Dude_Run_9.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0100.png",
+        "file": "assets/Mask Dude_Wall Jump_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0100.png",
+        "name": "Mask Dude_Wall Jump_1.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/ef9d50c2ffa719bf8b2c07061a75bfb585a732f4520919f9952f7e3af85e4543_Mask Dude_Wall Jump_1.png",
+          "name": "Mask Dude_Wall Jump_1.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0101.png",
+        "file": "assets/Mask Dude_Wall Jump_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0101.png",
+        "name": "Mask Dude_Wall Jump_2.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/ef9d50c2ffa719bf8b2c07061a75bfb585a732f4520919f9952f7e3af85e4543_Mask Dude_Wall Jump_2.png",
+          "name": "Mask Dude_Wall Jump_2.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0102.png",
+        "file": "assets/Mask Dude_Wall Jump_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0102.png",
+        "name": "Mask Dude_Wall Jump_3.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/f651d24d5d9cfbf828246699022eb06d949f512f3609603637fc63451801a723_Mask Dude_Wall Jump_3.png",
+          "name": "Mask Dude_Wall Jump_3.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0103.png",
+        "file": "assets/Mask Dude_Wall Jump_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0103.png",
+        "name": "Mask Dude_Wall Jump_4.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/f651d24d5d9cfbf828246699022eb06d949f512f3609603637fc63451801a723_Mask Dude_Wall Jump_4.png",
+          "name": "Mask Dude_Wall Jump_4.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0104.png",
+        "file": "assets/Mask Dude_Wall Jump_5.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0104.png",
+        "name": "Mask Dude_Wall Jump_5.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/f651d24d5d9cfbf828246699022eb06d949f512f3609603637fc63451801a723_Mask Dude_Wall Jump_5.png",
+          "name": "Mask Dude_Wall Jump_5.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0105.png",
+        "file": "assets/Colored Confetti_Blue.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0105.png",
+        "name": "Colored Confetti_Blue.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/e323648e73761f9b81cffc728e01fc0baf61e8dfdb14e7dc42acd94c0b4ee3ac_Colored Confetti_Blue.png",
+          "name": "Colored Confetti_Blue.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0106.png",
+        "file": "assets/Colored Confetti_Green.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0106.png",
+        "name": "Colored Confetti_Green.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/ec74871b200005ca4fd1e5c81c2fa0d63690f037b7f5a0ac77033fd21cf49445_Colored Confetti_Green.png",
+          "name": "Colored Confetti_Green.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0107.png",
+        "file": "assets/Colored Confetti_Orange.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0107.png",
+        "name": "Colored Confetti_Orange.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/6fec305f58aac94cf12b1a2fe5d5d234bebd7893c55ea8a7c3fd523b8c7cdc2e_Colored Confetti_Orange.png",
+          "name": "Colored Confetti_Orange.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0108.png",
+        "file": "assets/Colored Confetti_Pink.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0108.png",
+        "name": "Colored Confetti_Pink.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/0917d43e91d1dc35987d51594ecceb10dd7a222fab6061f74a4b419bc574e8de_Colored Confetti_Pink.png",
+          "name": "Colored Confetti_Pink.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0109.png",
+        "file": "assets/Colored Confetti_Red.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0109.png",
+        "name": "Colored Confetti_Red.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/d11c4a76b8da82d457744b6cc92445c257798eee3b2a618b601fdd6d3019d8d5_Colored Confetti_Red.png",
+          "name": "Colored Confetti_Red.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0110.png",
+        "file": "assets/Colored Confetti_Yellow.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0110.png",
+        "name": "Colored Confetti_Yellow.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/630609decd39a51ab6b84a0a003e856c00a540bffcf7efcaa5d2b2b1577a63b3_Colored Confetti_Yellow.png",
+          "name": "Colored Confetti_Yellow.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0111.png",
+        "file": "assets/Appearing_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0111.png",
+        "name": "Appearing_1.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/FX/Appearing/d69018edcc9a411020fec2774b436f7abaf940d5c08e2f7a81e823ecae8909ad_Appearing_1.png",
+          "name": "Appearing_1.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0112.png",
+        "file": "assets/Appearing_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0112.png",
+        "name": "Appearing_2.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/FX/Appearing/bf615ccb41bc6cd774b51cc9809b8f08148da0b651b60aa91c46b2b3e1ea74bd_Appearing_2.png",
+          "name": "Appearing_2.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0113.png",
+        "file": "assets/Appearing_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0113.png",
+        "name": "Appearing_3.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/FX/Appearing/b1266ed67f330ba92c20cab119e3dbbacffda89f0291f7d142c0b671c21e0765_Appearing_3.png",
+          "name": "Appearing_3.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0114.png",
+        "file": "assets/Appearing_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0114.png",
+        "name": "Appearing_4.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/FX/Appearing/b611bc2bedb69df69168966136ce82f0b1a10cbdfbaf8d917bb92f9cd501fedc_Appearing_4.png",
+          "name": "Appearing_4.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0115.png",
+        "file": "assets/Appearing_5.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0115.png",
+        "name": "Appearing_5.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/FX/Appearing/123b84f3350e436782835bb3f11ba6ee5629d02d0684193c3f6b720444dda023_Appearing_5.png",
+          "name": "Appearing_5.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0116.png",
+        "file": "assets/Appearing_6.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0116.png",
+        "name": "Appearing_6.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/FX/Appearing/a804d089f78e13833fc4d607f5938c2f1f42a7cd874a36a138197cbf43037888_Appearing_6.png",
+          "name": "Appearing_6.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0117.png",
+        "file": "assets/Appearing_7.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0117.png",
+        "name": "Appearing_7.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/FX/Appearing/3f1322c0db597d7257341f0940297a39dc626df3fac02a3dbfc8aa52bd4bc154_Appearing_7.png",
+          "name": "Appearing_7.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0118.png",
+        "file": "assets/Appearing_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0118.png",
+        "name": "assets\\Appearing_1.png",
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0119.png",
+        "file": "assets/Appearing_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0119.png",
+        "name": "assets\\Appearing_2.png",
         "smoothed": false,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0120.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0120.png",
-        "smoothed": false,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0121.png",
+        "file": "assets/Appearing_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0121.png",
+        "name": "assets\\Appearing_3.png",
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0122.png",
+        "file": "assets/Appearing_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0122.png",
+        "name": "assets\\Appearing_4.png",
         "smoothed": false,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0123.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0123.png",
-        "smoothed": false,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0124.png",
+        "file": "assets/Appearing_5.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0124.png",
+        "name": "assets\\Appearing_5.png",
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0125.png",
+        "file": "assets/Appearing_6.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0125.png",
+        "name": "assets\\Appearing_6.png",
         "smoothed": false,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0126.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0126.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0127.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0127.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "frame0128.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frame0128.png",
-        "smoothed": false,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0129.png",
+        "file": "assets/Appearing_7.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0129.png",
+        "name": "assets\\Appearing_7.png",
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0130.png",
+        "file": "assets/tiled_Forest Background.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0130.png",
+        "name": "tiled_Forest Background.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/9c836518da4f93f1a442e4beaa4023bdde907296b1a03f5562a73693fac0f778_tiled_Forest Background.png",
+          "name": "tiled_Forest Background.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0131.png",
+        "file": "assets/Plant_Attack_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0131.png",
+        "name": "Plant_Attack_1.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/ba23721cde9390c86dc05dcf95d900a6d72ecc2f61ae2bfba2e25adbbbca71cb_Plant_Attack_1.png",
+          "name": "Plant_Attack_1.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0132.png",
+        "file": "assets/Plant_Attack_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0132.png",
+        "name": "Plant_Attack_2.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/e41f7e38e257b768a0265da6d6132d2dd5a825926186ce9ff0a2048a9f9a877e_Plant_Attack_2.png",
+          "name": "Plant_Attack_2.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0133.png",
+        "file": "assets/Plant_Attack_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0133.png",
+        "name": "Plant_Attack_3.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/e41f7e38e257b768a0265da6d6132d2dd5a825926186ce9ff0a2048a9f9a877e_Plant_Attack_3.png",
+          "name": "Plant_Attack_3.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0134.png",
+        "file": "assets/Plant_Attack_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0134.png",
+        "name": "Plant_Attack_4.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/7ab6617936d1a89a09677667184a817fac06ea42d8bec7adcb55028356016bae_Plant_Attack_4.png",
+          "name": "Plant_Attack_4.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0135.png",
+        "file": "assets/Plant_Attack_5.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0135.png",
+        "name": "Plant_Attack_5.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/d3cb890843928e6541f87ce596992bfd7bb33adacaca192ff8ef6c9ac402257b_Plant_Attack_5.png",
+          "name": "Plant_Attack_5.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0136.png",
+        "file": "assets/Plant_Attack_6.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0136.png",
+        "name": "Plant_Attack_6.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/788881a3758a02f56745192aac19e7b6cb080d6d1ba52682b153fafacfd25126_Plant_Attack_6.png",
+          "name": "Plant_Attack_6.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0137.png",
+        "file": "assets/Plant_Attack_7.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0137.png",
+        "name": "Plant_Attack_7.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/788881a3758a02f56745192aac19e7b6cb080d6d1ba52682b153fafacfd25126_Plant_Attack_7.png",
+          "name": "Plant_Attack_7.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0138.png",
+        "file": "assets/Plant_Attack_8.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0138.png",
+        "name": "Plant_Attack_8.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/781ba9ee4465912b932dd554b6b7a41fdd8ae39343c26bedd34c48d903d2230b_Plant_Attack_8.png",
+          "name": "Plant_Attack_8.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0139.png",
+        "file": "assets/Plant_Hit_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0139.png",
+        "name": "Plant_Hit_1.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/974c7a734033357bfc642b4ece215957df7ab10f2c5d230dc6fe129ce1fdfd75_Plant_Hit_1.png",
+          "name": "Plant_Hit_1.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0140.png",
+        "file": "assets/Plant_Hit_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0140.png",
+        "name": "Plant_Hit_2.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/974c7a734033357bfc642b4ece215957df7ab10f2c5d230dc6fe129ce1fdfd75_Plant_Hit_2.png",
+          "name": "Plant_Hit_2.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0141.png",
+        "file": "assets/Plant_Hit_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0141.png",
+        "name": "Plant_Hit_3.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/44f9a98b814f62dfccec46757dcec01dff8dccb9c913bcb5a81fb47e530069cf_Plant_Hit_3.png",
+          "name": "Plant_Hit_3.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0142.png",
+        "file": "assets/Plant_Hit_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0142.png",
+        "name": "Plant_Hit_4.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/e9344424e37f136ca3b371a2b3fcefb54e01551af0ca147851021cdc2acc44a8_Plant_Hit_4.png",
+          "name": "Plant_Hit_4.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0143.png",
+        "file": "assets/Plant_Hit_5.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0143.png",
+        "name": "Plant_Hit_5.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/256590feae50230f8e6fec115b271221b893026463279125f211089748216481_Plant_Hit_5.png",
+          "name": "Plant_Hit_5.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0144.png",
+        "file": "assets/Plant_Idle_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0144.png",
+        "name": "Plant_Idle_1.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/68c66381e16bc428a8426f860a8851df5cb8a37ba45aa84d724bbb6ae8353667_Plant_Idle_1.png",
+          "name": "Plant_Idle_1.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0145.png",
+        "file": "assets/Plant_Idle_10.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0145.png",
+        "name": "Plant_Idle_10.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/d6e59c4a39bb2f2302a286649fb3731968d0ee42b1bdbcb6182bfbea03af6830_Plant_Idle_10.png",
+          "name": "Plant_Idle_10.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0146.png",
+        "file": "assets/Plant_Idle_11.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0146.png",
+        "name": "Plant_Idle_11.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/d48bf88b773a364b708f6cb17001b7f49647bd1ae735c6df80bb11baf11536b7_Plant_Idle_11.png",
+          "name": "Plant_Idle_11.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0147.png",
+        "file": "assets/Plant_Idle_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0147.png",
+        "name": "Plant_Idle_2.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/68c66381e16bc428a8426f860a8851df5cb8a37ba45aa84d724bbb6ae8353667_Plant_Idle_2.png",
+          "name": "Plant_Idle_2.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0148.png",
+        "file": "assets/Plant_Idle_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0148.png",
+        "name": "Plant_Idle_3.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/68c66381e16bc428a8426f860a8851df5cb8a37ba45aa84d724bbb6ae8353667_Plant_Idle_3.png",
+          "name": "Plant_Idle_3.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0149.png",
+        "file": "assets/Plant_Idle_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0149.png",
+        "name": "Plant_Idle_4.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/68c66381e16bc428a8426f860a8851df5cb8a37ba45aa84d724bbb6ae8353667_Plant_Idle_4.png",
+          "name": "Plant_Idle_4.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0150.png",
+        "file": "assets/Plant_Idle_5.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0150.png",
+        "name": "Plant_Idle_5.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/68c66381e16bc428a8426f860a8851df5cb8a37ba45aa84d724bbb6ae8353667_Plant_Idle_5.png",
+          "name": "Plant_Idle_5.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0151.png",
+        "file": "assets/Plant_Idle_6.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0151.png",
+        "name": "Plant_Idle_6.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/eab0ede7908181f75997dd959dd4ad1145d8c5dbc14f6aae7c82a952aedd031d_Plant_Idle_6.png",
+          "name": "Plant_Idle_6.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "frame0152.png",
+        "file": "assets/Plant_Idle_7.png",
         "kind": "image",
         "metadata": "",
-        "name": "frame0152.png",
+        "name": "Plant_Idle_7.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/432ec892f18fa4fd4a0707e12eab828d3a82a7efbb58ac749bdd3b7f3f5570e5_Plant_Idle_7.png",
+          "name": "Plant_Idle_7.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "_Complete_static_BG_(288 x 208).png",
+        "file": "assets/Plant_Idle_8.png",
         "kind": "image",
         "metadata": "",
-        "name": "_Complete_static_BG_(288 x 208).png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/_Complete_static_BG_(288 x 208).png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "_Complete_static_BG_(288 x 208)",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/_Complete_static_BG_(288 x 208)2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "_Complete_static_BG_(288 x 208)2",
+        "name": "Plant_Idle_8.png",
         "smoothed": false,
-        "userAdded": true
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/67dfaa1726eca1159f432c3c592c7a35644901307cc15d04fe1b8c7e494e6e29_Plant_Idle_8.png",
+          "name": "Plant_Idle_8.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "_Complete_static_BG_(288 x 208)2.png",
+        "file": "assets/Plant_Idle_9.png",
         "kind": "image",
         "metadata": "",
-        "name": "_Complete_static_BG_(288 x 208)2.png",
+        "name": "Plant_Idle_9.png",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Plant/386b14a5f086f51361ffe94fde6a7a73382b46123aeef08b8b5eb81b2d7434ac_Plant_Idle_9.png",
+          "name": "Plant_Idle_9.png"
+        }
       }
     ],
     "resourceFolders": []
