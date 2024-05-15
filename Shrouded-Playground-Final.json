@@ -2190,6 +2190,24 @@
         "name": "_Complete_static_BG_(288 x 208)2.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile000.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"tile000.png\",\"extension\":\".png\"}",
+        "name": "tile000.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile001.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"tile001.png\",\"extension\":\".png\"}",
+        "name": "tile001.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
