@@ -16,7 +16,7 @@
     "pixelsRounding": true,
     "projectUuid": "1d1bed99-1be6-46de-97a9-3c9b812460a5",
     "scaleMode": "nearest",
-    "sizeOnStartupMode": "adaptWidth",
+    "sizeOnStartupMode": "",
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
@@ -2726,7 +2726,7 @@
         "alwaysLoaded": false,
         "file": "assets/Terrain (16 x 16)12.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Terrain (16 x 16)12.png\"}",
         "name": "Terrain (16 x 16)12",
         "smoothed": false,
         "userAdded": true
@@ -2735,10 +2735,82 @@
         "alwaysLoaded": false,
         "file": "assets/Terrain (16 x 16)13.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Terrain (16 x 16)13.png\"}",
         "name": "Terrain (16 x 16)13",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Terrain (16 x 16)6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Terrain (16 x 16)6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Terrain (16 x 16)14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Terrain (16 x 16)14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Terrain (16 x 16)7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Terrain (16 x 16)7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Terrain (16 x 16)15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Terrain (16 x 16)15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Terrain (16 x 16)8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Terrain (16 x 16)8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Terrain (16 x 16)16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Terrain (16 x 16)16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Terrain (16 x 16)9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Terrain (16 x 16)9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Terrain (16 x 16)17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Terrain (16 x 16)17",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
