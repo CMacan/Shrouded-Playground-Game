@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.195611005367695,
+    "zoomFactor": 0.5117784035210259,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -714,6 +714,57 @@
       "x": 33,
       "y": 20,
       "zOrder": 49,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2.3255813953488373,
+      "height": 40.69767441860465,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hp_1",
+      "persistentUuid": "93d6d1a6-e3f2-4029-9908-041cd1470acb",
+      "width": 50,
+      "x": 253,
+      "y": 29,
+      "zOrder": 50,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 41.07142857142857,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hp_2",
+      "persistentUuid": "d1d1db60-0b2d-43b9-a76e-5afc3a49873c",
+      "width": 50,
+      "x": 313,
+      "y": 30,
+      "zOrder": 51,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 37,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hp_3",
+      "persistentUuid": "b6cab9d5-d056-4613-921d-9b1884dc7a9d",
+      "width": 45,
+      "x": 371,
+      "y": 32,
+      "zOrder": 52,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -4703,6 +4754,336 @@
           "width": 256
         }
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "hp_1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "full",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pixel Heart Sprite Sheet 32x32",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 23
+                      },
+                      {
+                        "x": 0,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "empty",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pixel Heart Sprite Sheet 32x33",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 23
+                      },
+                      {
+                        "x": 0,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "hp_2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "full",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pixel Heart Sprite Sheet 32x32",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 23
+                      },
+                      {
+                        "x": 0,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "empty",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pixel Heart Sprite Sheet 32x33",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 23
+                      },
+                      {
+                        "x": 0,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "hp_3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "full",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pixel Heart Sprite Sheet 32x32",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 23
+                      },
+                      {
+                        "x": 0,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "empty",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pixel Heart Sprite Sheet 32x33",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 23
+                      },
+                      {
+                        "x": 0,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -4725,6 +5106,15 @@
       },
       {
         "objectName": "FallTreesBackground"
+      },
+      {
+        "objectName": "hp_1"
+      },
+      {
+        "objectName": "hp_2"
+      },
+      {
+        "objectName": "hp_3"
       },
       {
         "objectName": "MergedFullBackground"
@@ -4852,12 +5242,18 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "PinkMan",
+                "MaleCharacter12",
                 "Saw",
                 "",
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -4871,6 +5267,43 @@
                 "20",
                 "=",
                 "620"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "hp_3",
+                "Animation",
+                "=",
+                "\"empty\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "hp_2",
+                    "Animation",
+                    "=",
+                    "\"empty\""
+                  ]
+                }
               ]
             }
           ]
@@ -4895,7 +5328,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "PinkMan",
+                "MaleCharacter12",
                 "GoldCoin",
                 "",
                 "",
@@ -4930,7 +5363,7 @@
               "parameters": [
                 "ScoreText",
                 "=",
-                "\"Score: \" + GlobalVariableString(score)"
+                "\"Score: \" + ToString(GlobalVariable(score))"
               ]
             }
           ]
