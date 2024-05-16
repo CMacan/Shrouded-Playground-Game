@@ -18,7 +18,7 @@
     "gridColor": 12632256,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.6244537826600354,
+    "zoomFactor": 0.5117784035210475,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1862,7 +1862,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.5,
               "sprites": [
