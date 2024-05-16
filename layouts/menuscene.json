@@ -18,11 +18,7 @@
     "gridColor": 12632256,
     "gridAlpha": 0.8,
     "snap": true,
-<<<<<<< Updated upstream
     "zoomFactor": 0.16572117247527862,
-=======
-    "zoomFactor": 0.5653158055126571,
->>>>>>> Stashed changes
     "windowMask": false
   },
   "objectsGroups": [],
@@ -474,7 +470,6 @@
     },
     {
       "angle": 0,
-<<<<<<< Updated upstream
       "customSize": false,
       "height": 0,
       "keepRatio": true,
@@ -485,19 +480,6 @@
       "x": 1040,
       "y": 360,
       "zOrder": 113,
-=======
-      "customSize": true,
-      "depth": 4,
-      "height": 761,
-      "keepRatio": true,
-      "layer": "",
-      "name": "settings_bg",
-      "persistentUuid": "573e39e6-70d2-4ac8-9b21-b8c3801cc0bb",
-      "width": 1288,
-      "x": 1520,
-      "y": -1,
-      "zOrder": 1,
->>>>>>> Stashed changes
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []

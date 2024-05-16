@@ -18,11 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-<<<<<<< Updated upstream
     "zoomFactor": 0.2636457673770843,
-=======
-    "zoomFactor": 0.4481978045410386,
->>>>>>> Stashed changes
     "windowMask": false
   },
   "objectsGroups": [],
@@ -60,6 +56,23 @@
       "x": -4,
       "y": 659,
       "zOrder": 44,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 39,
+      "keepRatio": true,
+      "layer": "",
+      "name": "MaleCharacter12",
+      "persistentUuid": "2f6a5543-1584-4081-89df-8ec4288750c0",
+      "width": 38,
+      "x": 266,
+      "y": 471,
+      "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -108,15 +121,15 @@
       "name": "RedHouse2",
       "persistentUuid": "8d46b249-af6a-4724-a05c-f9d5dab59db5",
       "width": 88,
-      "x": 1018,
-      "y": 166,
+      "x": 809,
+      "y": 361,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
-      "angle": 356,
+      "angle": 0,
       "customSize": true,
       "depth": 1,
       "height": 121,
@@ -125,8 +138,8 @@
       "name": "GreenHouse2",
       "persistentUuid": "0b721bd2-7592-4ddd-a2c5-3886a43fc539",
       "width": 178,
-      "x": 1299,
-      "y": 400,
+      "x": 1070,
+      "y": 419,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -144,7 +157,7 @@
       "width": 132,
       "x": -28,
       "y": 440,
-      "zOrder": 5,
+      "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -658,14 +671,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 33,
+      "height": 39,
       "keepRatio": true,
       "layer": "",
       "name": "GloppySlime",
       "persistentUuid": "6c1c23a0-e6d7-4609-94c0-7120a02dab41",
-      "width": 36,
-      "x": 739,
-      "y": 627,
+      "width": 41,
+      "x": 734,
+      "y": 619,
       "zOrder": 47,
       "numberProperties": [],
       "stringProperties": [],
@@ -675,14 +688,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 43,
+      "height": 47,
       "keepRatio": true,
       "layer": "",
       "name": "PinkMan",
       "persistentUuid": "b3a26e1a-38fc-43c6-965f-a340c725c4f5",
-      "width": 41,
-      "x": 26,
-      "y": 617,
+      "width": 49,
+      "x": 27,
+      "y": 613,
       "zOrder": 48,
       "numberProperties": [],
       "stringProperties": [],
@@ -691,7 +704,6 @@
     {
       "angle": 0,
       "customSize": true,
-<<<<<<< Updated upstream
       "depth": 27,
       "height": 59,
       "keepRatio": true,
@@ -736,18 +748,6 @@
       "x": 313,
       "y": 30,
       "zOrder": 51,
-=======
-      "depth": 1,
-      "height": 158,
-      "keepRatio": true,
-      "layer": "",
-      "name": "OrangeGrass9patch",
-      "persistentUuid": "abd44fe4-dbf1-41ec-9446-08346a654f6e",
-      "width": 213,
-      "x": 902,
-      "y": 242,
-      "zOrder": 42,
->>>>>>> Stashed changes
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -756,7 +756,6 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-<<<<<<< Updated upstream
       "height": 37,
       "keepRatio": true,
       "layer": "",
@@ -766,323 +765,6 @@
       "x": 371,
       "y": 32,
       "zOrder": 52,
-=======
-      "height": 160,
-      "keepRatio": true,
-      "layer": "",
-      "name": "OrangeGrass9patch2",
-      "persistentUuid": "4ce95d38-a9d3-44d4-8b5a-fc9bc876339c",
-      "width": 119,
-      "x": 788,
-      "y": 515,
-      "zOrder": 40,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 57,
-      "keepRatio": true,
-      "layer": "",
-      "name": "OrangeGrass9patch",
-      "persistentUuid": "f161c3f3-57e5-4cb6-954f-4bc3b6797823",
-      "width": 165,
-      "x": 787,
-      "y": 516,
-      "zOrder": 49,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 282,
-      "keepRatio": true,
-      "layer": "",
-      "name": "OrangeGrass9patch2",
-      "persistentUuid": "98eb6313-ed69-431d-abc5-b66c3118659d",
-      "width": 212,
-      "x": 902,
-      "y": 385,
-      "zOrder": 40,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 289,
-      "customSize": true,
-      "depth": 2,
-      "height": 54,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WoodPlatform",
-      "persistentUuid": "44f73b99-dcb0-488f-83cf-6ca717dd08f9",
-      "width": 67,
-      "x": 1104,
-      "y": 399,
-      "zOrder": 41,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 90,
-      "customSize": true,
-      "depth": 1,
-      "height": 50,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WoodPlatform",
-      "persistentUuid": "b92ec217-7ae2-4c65-b09a-cea620780457",
-      "width": 240,
-      "x": 973,
-      "y": 536,
-      "zOrder": 43,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 25,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "769dc0e1-020e-4b17-9adb-297aa57fe716",
-      "width": 26,
-      "x": 1098,
-      "y": 423,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 22,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "2c9a28d2-4976-4b38-ad4f-ee9e17e01da2",
-      "width": 21,
-      "x": 1111,
-      "y": 437,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 22,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "595c2c99-015f-44ca-8173-0ba845370fbf",
-      "width": 21,
-      "x": 1122,
-      "y": 423,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 25,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "a69bb7eb-c047-4716-903b-6e2fc6b4c77d",
-      "width": 26,
-      "x": 1113,
-      "y": 409,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "e160eeb0-d4f5-4928-b676-c6f143e3d3d9",
-      "width": 29,
-      "x": 1078,
-      "y": 434,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "b5eeee56-40f3-4367-a6f9-2df14c8e879f",
-      "width": 29,
-      "x": 1055,
-      "y": 427,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "6fef9579-be0e-46d8-acdb-fcd73ee504ca",
-      "width": 29,
-      "x": 1124,
-      "y": 448,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 283,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "39bcf5b9-da08-4565-9ae3-819f9447d8fa",
-      "width": 29,
-      "x": 1121,
-      "y": 393,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "cb252a39-9ae2-4f6c-bea6-88062edb8d8d",
-      "width": 15,
-      "x": 1093,
-      "y": 407,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "912d5675-5aaa-4401-ac59-1dea51510019",
-      "width": 15,
-      "x": 1121,
-      "y": 371,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "3b60fba1-ee99-49d0-b42e-dd916f807c68",
-      "width": 19,
-      "x": 1107,
-      "y": 391,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 18,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "da8cd54e-bd13-44b9-aecc-fb6b53401d18",
-      "width": 29,
-      "x": 1130,
-      "y": 410,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "47e3670b-ff7e-4642-8c48-de7b60bb8197",
-      "width": 29,
-      "x": 1090,
-      "y": 445,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 48,
-      "height": 21,
-      "keepRatio": true,
-      "layer": "",
-      "name": "PixelHeartBar",
-      "persistentUuid": "0222fad5-8851-4238-9577-610327d57e80",
-      "width": 78,
-      "x": 1047,
-      "y": 15,
-      "zOrder": 51,
->>>>>>> Stashed changes
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1105,11 +787,392 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": false,
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
           "platformType": "NormalPlatform",
           "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "ff79c0bbb0f74a5fb5a5e15b8adb257d6d58ef987e809119a6bb2fafe4001099",
+      "name": "MaleCharacter12",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "Walking Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 12_Walking Right_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 12_Walking Right_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 12_Walking Right_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ladder",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Male Character 12_Walking Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Male Character 12_Walking Down_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Male Character 12_Walking Down_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Male Character 12_Walking Down_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Male Character 12_Walking Down_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Male Character 12_Walking Down_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 1
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1121,15 +1184,7 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [
-        {
-          "canBeGrabbed": false,
-          "name": "Platform",
-          "platformType": "NormalPlatform",
-          "type": "PlatformBehavior::PlatformBehavior",
-          "yGrabOffset": 0
-        }
-      ],
+      "behaviors": [],
       "animations": [
         {
           "name": "",
@@ -1395,7 +1450,7 @@
       "behaviors": []
     },
     {
-      "adaptCollisionMaskAutomatically": false,
+      "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "030af2ec7c2f588451e32db2beee4e67ca32353109915f203fece3f8c6035601",
       "name": "Box2",
       "type": "Sprite",
@@ -1404,9 +1459,9 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": false,
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
           "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
@@ -1438,24 +1493,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 23.5,
-                        "y": 21
+                        "x": 4,
+                        "y": 2
                       },
                       {
-                        "x": 4.5,
-                        "y": 21.5
+                        "x": 24,
+                        "y": 2
                       },
                       {
-                        "x": 4.5,
-                        "y": 2.5
+                        "x": 24,
+                        "y": 22
                       },
                       {
-                        "x": 14,
-                        "y": 2.5
-                      },
-                      {
-                        "x": 23.5,
-                        "y": 2.5
+                        "x": 4,
+                        "y": 22
                       }
                     ]
                   ]
@@ -2396,27 +2447,13 @@
           "name": "direction",
           "type": "string",
           "value": "left"
-        },
-        {
-          "folded": true,
-          "name": "death",
-          "type": "boolean",
-          "value": false
         }
       ],
       "effects": [],
-      "behaviors": [
-        {
-          "name": "AnimatedBackAndForthMirroredMovement",
-          "type": "AnimatedBackAndForthMovement::AnimatedBackAndForthMirroredMovement",
-          "SpeedX": 20,
-          "DistanceX": 200,
-          "InitialX": 0
-        }
-      ],
+      "behaviors": [],
       "animations": [
         {
-          "name": "GoLeft",
+          "name": "Idle",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -2548,7 +2585,7 @@
           ]
         },
         {
-          "name": "TurnLeft",
+          "name": "Pop out",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -2926,65 +2963,9 @@
       "name": "PinkMan",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [
-        {
-          "folded": true,
-          "name": "death",
-          "type": "boolean",
-          "value": false
-        }
-      ],
+      "variables": [],
       "effects": [],
-      "behaviors": [
-        {
-          "name": "Health",
-          "type": "Health::Health",
-          "Health": 100,
-          "CurrentHealth": 0,
-          "MaxHealth": 100,
-          "DamageCooldown": 0,
-          "AllowOverHealing": false,
-          "IsHealthJustDamaged": false,
-          "DamageToBeApplied": 0,
-          "HitAtLeastOnce": false,
-          "ChanceToDodge": 0,
-          "IsJustDodged": false,
-          "HealToBeApplied": 0,
-          "HealthRegenRate": 0,
-          "HealthRegenDelay": 0,
-          "IsJustHealed": false,
-          "CurrentShieldPoints": 2.0247e-320,
-          "MaxShieldPoints": 0,
-          "ShieldDuration": 5,
-          "ShieldRegenRate": 0,
-          "BlockExcessDamage": false,
-          "ShieldRegenDelay": 0,
-          "IsShieldJustDamaged": false,
-          "ShieldDamageTaken": 2.0247e-320,
-          "FlatDamageReduction": 0,
-          "PercentDamageReduction": 0
-        },
-        {
-          "acceleration": 1500,
-          "canGoDownFromJumpthru": true,
-          "canGrabPlatforms": false,
-          "canGrabWithoutMoving": true,
-          "deceleration": 2000,
-          "gravity": 1000,
-          "ignoreDefaultControls": false,
-          "jumpSpeed": 600,
-          "jumpSustainTime": 0.2,
-          "ladderClimbingSpeed": 150,
-          "maxFallingSpeed": 700,
-          "maxSpeed": 250,
-          "name": "PlatformerObject",
-          "slopeMaxAngle": 60,
-          "type": "PlatformBehavior::PlatformerObjectBehavior",
-          "useLegacyTrajectory": false,
-          "xGrabTolerance": 10,
-          "yGrabOffset": 0
-        }
-      ],
+      "behaviors": [],
       "animations": [
         {
           "name": "Idle",
@@ -4621,36 +4602,13 @@
       ]
     },
     {
-<<<<<<< Updated upstream
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "04702415b2659bd59f81e6a4e59f641557d6d1e8786f30ebfd1b2a1b981deff6",
       "name": "Config",
-=======
-      "assetStoreId": "92d63781ba23572df91b5dc4093b6825f8aab015160bd715265d73a319c29b6b",
-      "bottomMargin": 16,
-      "height": 48,
-      "leftMargin": 16,
-      "name": "OrangeGrass9patch2",
-      "rightMargin": 16,
-      "texture": "9patch_Orange Grass 9Patch_all_16.png",
-      "tiled": true,
-      "topMargin": 16,
-      "type": "PanelSpriteObject::PanelSprite",
-      "width": 48,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "319522814a301a2649784df125b9fbe6104f7b11f7b81455995f2a38ac40c3dd",
-      "name": "WoodPlatform2",
->>>>>>> Stashed changes
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-<<<<<<< Updated upstream
       "behaviors": [
         {
           "name": "ButtonFSM",
@@ -4663,9 +4621,6 @@
           "Index": 2.0247e-320
         }
       ],
-=======
-      "behaviors": [],
->>>>>>> Stashed changes
       "animations": [
         {
           "name": "",
@@ -4677,11 +4632,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-<<<<<<< Updated upstream
                   "image": "Config.png",
-=======
-                  "image": "Wood Platform.png",
->>>>>>> Stashed changes
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4701,7 +4652,6 @@
                         "y": 0
                       },
                       {
-<<<<<<< Updated upstream
                         "x": 113,
                         "y": 0
                       },
@@ -4712,18 +4662,6 @@
                       {
                         "x": 0,
                         "y": 125
-=======
-                        "x": 48,
-                        "y": 0
-                      },
-                      {
-                        "x": 48,
-                        "y": 5
-                      },
-                      {
-                        "x": 0,
-                        "y": 5
->>>>>>> Stashed changes
                       }
                     ]
                   ]
@@ -4735,68 +4673,13 @@
       ]
     },
     {
-<<<<<<< Updated upstream
       "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
       "name": "SettingsBtn",
       "type": "PanelSpriteButton::PanelSpriteButton",
-=======
-      "assetStoreId": "001e8a2ceeb769fc7a3baa2fca55fa7062e3631619b291da4794954ec1835c2a",
-      "bottomMargin": 16,
-      "height": 48,
-      "leftMargin": 16,
-      "name": "Leaves9patch",
-      "rightMargin": 16,
-      "texture": "9patch_Leaves 9Patch_all_16.png",
-      "tiled": true,
-      "topMargin": 16,
-      "type": "PanelSpriteObject::PanelSprite",
-      "width": 48,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "assetStoreId": "001e8a2ceeb769fc7a3baa2fca55fa7062e3631619b291da4794954ec1835c2a",
-      "bottomMargin": 16,
-      "height": 48,
-      "leftMargin": 16,
-      "name": "Leaves9patch2",
-      "rightMargin": 16,
-      "texture": "9patch_Leaves 9Patch_all_16.png",
-      "tiled": true,
-      "topMargin": 16,
-      "type": "PanelSpriteObject::PanelSprite",
-      "width": 48,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "assetStoreId": "3e56813675876f13850daf2ed490547f41632560b706af19a8ff9eb0f030315c",
-      "bottomMargin": 16,
-      "height": 48,
-      "leftMargin": 16,
-      "name": "Wood9patch",
-      "rightMargin": 16,
-      "texture": "9patch_Wood 9Patch_all_16.png",
-      "tiled": true,
-      "topMargin": 16,
-      "type": "PanelSpriteObject::PanelSprite",
-      "width": 48,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "assetStoreId": "db57d0bcdc074868304ca46431ac85fcef3f613be5fba73ae0adc26ee2c8629b",
-      "name": "PixelHeartBar",
-      "type": "TiledUnitsBar::TiledUnitsBar",
->>>>>>> Stashed changes
       "variables": [],
       "effects": [],
       "behaviors": [],
       "content": {
-<<<<<<< Updated upstream
         "LeftPadding": 16,
         "RightPadding": 16,
         "PressedLabelOffsetY": 10,
@@ -4869,37 +4752,10 @@
           "tiled": true,
           "topMargin": 32,
           "width": 256
-=======
-        "UnitWidth": 16,
-        "HideBackground": true,
-        "ShowBackground": false
-      },
-      "childrenContent": {
-        "Background": {
-          "bottomMargin": 0,
-          "height": 16,
-          "leftMargin": 0,
-          "rightMargin": 0,
-          "texture": "tiled_Tiled Empty UI Heart.png",
-          "tiled": true,
-          "topMargin": 0,
-          "width": 48
-        },
-        "Bar": {
-          "height": 16,
-          "texture": "tiled_Tiled Empty UI Heart.png",
-          "width": 48
-        },
-        "FillBar": {
-          "height": 16,
-          "texture": "tiled_Tiled Filler UI Heart.png",
-          "width": 16
->>>>>>> Stashed changes
         }
       }
     },
     {
-<<<<<<< Updated upstream
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "hp_1",
@@ -5228,41 +5084,6 @@
           ]
         }
       ]
-=======
-      "assetStoreId": "db57d0bcdc074868304ca46431ac85fcef3f613be5fba73ae0adc26ee2c8629b",
-      "name": "PixelHeartBar2",
-      "type": "TiledUnitsBar::TiledUnitsBar",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "UnitWidth": 16,
-        "HideBackground": true,
-        "ShowBackground": false
-      },
-      "childrenContent": {
-        "Background": {
-          "bottomMargin": 0,
-          "height": 16,
-          "leftMargin": 0,
-          "rightMargin": 0,
-          "texture": "tiled_Tiled Empty UI Heart.png",
-          "tiled": true,
-          "topMargin": 0,
-          "width": 48
-        },
-        "Bar": {
-          "height": 16,
-          "texture": "tiled_Tiled Empty UI Heart.png",
-          "width": 48
-        },
-        "FillBar": {
-          "height": 16,
-          "texture": "tiled_Tiled Filler UI Heart.png",
-          "width": 16
-        }
-      }
->>>>>>> Stashed changes
     }
   ],
   "objectsFolderStructure": {
@@ -5275,34 +5096,13 @@
         "objectName": "OrangeGrass9patch"
       },
       {
-        "objectName": "OrangeGrass9patch2"
-      },
-      {
-        "objectName": "PinkMan"
-      },
-      {
-        "objectName": "WoodPlatform"
-      },
-      {
-        "objectName": "WoodPlatform2"
-      },
-      {
-        "objectName": "Leaves9patch"
-      },
-      {
-        "objectName": "Leaves9patch2"
-      },
-      {
-        "objectName": "Wood9patch"
-      },
-      {
-        "objectName": "PixelHeartBar"
-      },
-      {
-        "objectName": "PixelHeartBar2"
+        "objectName": "MaleCharacter12"
       },
       {
         "objectName": "NewTiledSprite"
+      },
+      {
+        "objectName": "WoodPlatform"
       },
       {
         "objectName": "FallTreesBackground"
@@ -5378,15 +5178,12 @@
       },
       {
         "objectName": "RightArrowButton"
-<<<<<<< Updated upstream
       },
       {
         "objectName": "PinkMan"
       },
       {
         "objectName": "SettingsBtn"
-=======
->>>>>>> Stashed changes
       }
     ]
   },
@@ -5465,7 +5262,7 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "PinkMan",
+                "MaleCharacter12",
                 "=",
                 "20",
                 "=",
@@ -5589,14 +5386,32 @@
           "conditions": [
             {
               "type": {
-                "value": "ObjectVariableAsBoolean"
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "PinkMan",
+                "GloppySlime",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
               },
               "parameters": [
                 "GloppySlime",
-                "death",
-                "False"
+                ""
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
               "type": {
                 "value": "CollisionNP"
@@ -5606,133 +5421,159 @@
                 "GloppySlime",
                 "",
                 "",
-                "yes"
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "MaleCharacter12",
+                "=",
+                "20",
+                "=",
+                "620"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "GloppySlime",
+                "LeftArrowButton",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjetTxt"
+              },
+              "parameters": [
+                "GloppySlime",
+                "direction",
+                "=",
+                "\"left\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "GloppySlime",
+                "RightArrowButton",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjetTxt"
+              },
+              "parameters": [
+                "GloppySlime",
+                "direction2",
+                "=",
+                "\"right\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarObjetTxt"
+              },
+              "parameters": [
+                "GloppySlime",
+                "direction",
+                "=",
+                "\"left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "GloppySlime",
+                "-100",
+                "0",
+                ""
               ]
             },
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Once"
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
               },
-              "parameters": []
+              "parameters": [
+                "GloppySlime",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarObjetTxt"
+              },
+              "parameters": [
+                "GloppySlime",
+                "direction2",
+                "=",
+                "\"right\""
+              ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PlatformBehavior::IsFalling"
-                  },
-                  "parameters": [
-                    "PinkMan",
-                    "PlatformerObject"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ToggleObjectVariableAsBoolean"
-                  },
-                  "parameters": [
-                    "GloppySlime",
-                    "death"
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SetCanJump"
-                      },
-                      "parameters": [
-                        "PinkMan",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateControl"
-                      },
-                      "parameters": [
-                        "PinkMan",
-                        "PlatformerObject",
-                        "\"Jump\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "GloppySlime",
-                        "AnimatedBackAndForthMirroredMovement",
-                        "no"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "GloppySlime",
-                        ""
-                      ]
-                    }
-                  ]
-                }
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "GloppySlime",
+                "-100",
+                "0",
+                ""
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "PlatformBehavior::IsFalling"
-                  },
-                  "parameters": [
-                    "PinkMan",
-                    "PlatformerObject"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ToggleObjectVariableAsBoolean"
-                  },
-                  "parameters": [
-                    "PinkMan",
-                    "death"
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "PinkMan",
-                        "=",
-                        "27",
-                        "=",
-                        "617"
-                      ]
-                    }
-                  ]
-                }
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "GloppySlime",
+                "Flippable",
+                "yes"
               ]
             }
           ]
@@ -5794,196 +5635,13 @@
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PlatformBehavior::IsJumping"
-                  },
-                  "parameters": [
-                    "PinkMan",
-                    "PlatformerObject"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "PinkMan",
-                    "Animation",
-                    "=",
-                    "\"Jump\""
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-              },
-              "parameters": [
-                "PinkMan",
-                "PlatformerObject"
-              ]
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PlatformBehavior::IsOnFloor"
-                  },
-                  "parameters": [
-                    "PinkMan",
-                    "PlatformerObject"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "PinkMan",
-                    "Animation",
-                    "=",
-                    "\"Idle\""
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
-              },
-              "parameters": [
-                "PinkMan",
-                "PlatformerObject",
-                "\"Left\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "FlippableCapability::FlippableBehavior::FlipX"
-              },
-              "parameters": [
-                "PinkMan",
-                "Flippable",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
-              },
-              "parameters": [
-                "PinkMan",
-                "PlatformerObject",
-                "\"Right\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "FlippableCapability::FlippableBehavior::FlipX"
-              },
-              "parameters": [
-                "PinkMan",
-                "Flippable",
-                ""
-              ]
+              "conditions": [],
+              "actions": []
             }
           ]
         }
       ],
       "parameters": []
-    },
-    {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "RANDOM",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PosY"
-              },
-              "parameters": [
-                "PinkMan",
-                ">",
-                "720"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "PinkMan",
-                "=",
-                "27",
-                "=",
-                "617"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        }
-      ],
-      "parameters": []
-    },
-    {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "PLAYER HEALTH",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [],
-      "parameters": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
     }
   ],
   "layers": [
@@ -6034,10 +5692,6 @@
   ],
   "behaviorsSharedData": [
     {
-      "name": "AnimatedBackAndForthMirroredMovement",
-      "type": "AnimatedBackAndForthMovement::AnimatedBackAndForthMirroredMovement"
-    },
-    {
       "name": "Animation",
       "type": "AnimatableCapability::AnimatableBehavior"
     },
@@ -6052,10 +5706,6 @@
     {
       "name": "Flippable",
       "type": "FlippableCapability::FlippableBehavior"
-    },
-    {
-      "name": "Health",
-      "type": "Health::Health"
     },
     {
       "name": "Opacity",

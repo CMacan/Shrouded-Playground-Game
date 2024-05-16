@@ -3913,7 +3913,6 @@
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "Blocks (16 x 16)4.png",
         "kind": "image",
         "metadata": "",
@@ -9314,22 +9313,10 @@
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Characters/Big Guy/4a8d680e5238ef15e49df407ab76d75962def9db813155f4614b67421d782167_Big Guy_Run_9.png",
           "name": "gdevelop-asset-store"
-=======
-        "file": "assets/Green bush 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Green bush 3.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/683475754a64caa9967c7efefd956f654f817472e0a6a5fb59ed30e7e0638d42_Green bush 3.png",
-          "name": "Green bush 3.png"
->>>>>>> Stashed changes
         }
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "Terrain (16 x 16)10.png",
         "kind": "image",
         "metadata": "",
@@ -9384,22 +9371,10 @@
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/Casual Buttons Pack/49c02b78cfcb8e5a9c14acc334011b64a703d86f268342a41d0b5cc0422b3fca_Config.png",
           "name": "Config.png"
-=======
-        "file": "assets/9patch_Leaves 9Patch_all_16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "9patch_Leaves 9Patch_all_16.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/97c06143667dd091a9fd270eec0f17dce22326dbf6b74feb405cc8f943527106_9patch_Leaves 9Patch_all_16.png",
-          "name": "9patch_Leaves 9Patch_all_16.png"
->>>>>>> Stashed changes
         }
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "assets/Config2.png",
         "kind": "image",
         "metadata": "",
@@ -9422,22 +9397,10 @@
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/bff6adc488c7379b21ceba34e9104e861791b2fbb54b4aae167fe90115b92fa3_Green Button_Hovered.png",
           "name": "Green Button_Hovered.png"
-=======
-        "file": "assets/9patch_Wood 9Patch_all_16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "9patch_Wood 9Patch_all_16.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/3822dec39b16fd3c1767f113a4e99024533cec47dc38fe0664902ca2a6950ce9_9patch_Wood 9Patch_all_16.png",
-          "name": "9patch_Wood 9Patch_all_16.png"
->>>>>>> Stashed changes
         }
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "assets/Green Button_Idle.png",
         "kind": "image",
         "metadata": "",
@@ -9567,9 +9530,6 @@
       {
         "alwaysLoaded": false,
         "file": "assets/tiled_Tiled Empty UI Heart2.png",
-=======
-        "file": "assets/tiled_Tiled Empty UI Heart.png",
->>>>>>> Stashed changes
         "kind": "image",
         "metadata": "",
         "name": "tiled_Tiled Empty UI Heart.png",
@@ -9582,11 +9542,7 @@
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "assets/tiled_Tiled Filler UI Heart2.png",
-=======
-        "file": "assets/tiled_Tiled Filler UI Heart.png",
->>>>>>> Stashed changes
         "kind": "image",
         "metadata": "",
         "name": "tiled_Tiled Filler UI Heart.png",
@@ -9596,7 +9552,6 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/5b5c6c85ec4e1f5b6688be565c9a06920a76ee191915738afd61da1481fd6493_tiled_Tiled Filler UI Heart.png",
           "name": "tiled_Tiled Filler UI Heart.png"
         }
-<<<<<<< Updated upstream
       },
       {
         "alwaysLoaded": false,
@@ -9633,8 +9588,6 @@
         "name": "Pixel Heart Sprite Sheet 32x33",
         "smoothed": false,
         "userAdded": true
-=======
->>>>>>> Stashed changes
       }
     ],
     "resourceFolders": []
@@ -9707,29 +9660,6 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-<<<<<<< Updated upstream
-=======
-      "referenceTo": "/eventsFunctionsExtensions/health"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/drawpathfinding"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/animatedbackandforthmovement"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/linearmovement"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/rectanglemovement"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
->>>>>>> Stashed changes
       "referenceTo": "/eventsFunctionsExtensions/panelspriteslider"
     },
     {
