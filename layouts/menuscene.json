@@ -18,7 +18,7 @@
     "gridColor": 12632256,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.39251611754884064,
+    "zoomFactor": 0.6244537826600354,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -511,7 +511,7 @@
       "name": "block1",
       "persistentUuid": "f72702c5-a9da-4e99-8c29-11c0988e7346",
       "width": 40,
-      "x": 440,
+      "x": 480,
       "y": 520,
       "zOrder": 114,
       "numberProperties": [],
@@ -528,7 +528,7 @@
       "name": "block1",
       "persistentUuid": "bc4640a8-7a10-4848-a210-753631e9f872",
       "width": 40,
-      "x": 360,
+      "x": 400,
       "y": 520,
       "zOrder": 114,
       "numberProperties": [],
@@ -545,7 +545,7 @@
       "name": "block1",
       "persistentUuid": "2da66f12-382f-47a3-8c0a-6c063e1abf32",
       "width": 40,
-      "x": 400,
+      "x": 440,
       "y": 520,
       "zOrder": 114,
       "numberProperties": [],
@@ -563,7 +563,7 @@
       "persistentUuid": "fa942e05-5a7a-458b-8477-b7013ba7a67a",
       "width": 1000,
       "x": 0,
-      "y": 40,
+      "y": 37,
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
@@ -717,7 +717,7 @@
       "width": 122,
       "x": 255,
       "y": 677,
-      "zOrder": 115,
+      "zOrder": 116,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -939,6 +939,363 @@
       "x": 840,
       "y": 674,
       "zOrder": 124,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 80,
+      "keepRatio": true,
+      "layer": "",
+      "name": "block2",
+      "persistentUuid": "80fa6dd9-5645-4851-984c-4f48fc3312fc",
+      "width": 40,
+      "x": 40,
+      "y": 482,
+      "zOrder": 128,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 40,
+      "keepRatio": true,
+      "layer": "",
+      "name": "purple_block",
+      "persistentUuid": "62a60751-d38e-4948-8acb-566f59fb8df1",
+      "width": 40,
+      "x": 80,
+      "y": 520,
+      "zOrder": 129,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 162,
+      "keepRatio": true,
+      "layer": "",
+      "name": "tree2",
+      "persistentUuid": "9973597b-3555-406b-94fa-bbf2766ccf3a",
+      "width": 154,
+      "x": -46,
+      "y": 400,
+      "zOrder": 115,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 126,
+      "keepRatio": true,
+      "layer": "",
+      "name": "tree",
+      "persistentUuid": "8bd15397-ec1c-4fa2-8f5a-5ecad5cee22e",
+      "width": 120,
+      "x": 163,
+      "y": 520,
+      "zOrder": 115,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 40,
+      "keepRatio": true,
+      "layer": "",
+      "name": "block3",
+      "persistentUuid": "d1eb3eb6-29ea-4815-91aa-98841ae4c55b",
+      "width": 80,
+      "x": 293,
+      "y": 605,
+      "zOrder": 130,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 40,
+      "keepRatio": true,
+      "layer": "",
+      "name": "block3_reverse",
+      "persistentUuid": "49cb9809-2640-4c9d-b135-cf1aa3cd1451",
+      "width": 80,
+      "x": 293,
+      "y": 566,
+      "zOrder": 131,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 80,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bridge",
+      "persistentUuid": "fe4ec0b4-109c-405f-8315-53ddde8f6bce",
+      "width": 185,
+      "x": 621,
+      "y": 646,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 62,
+      "keepRatio": true,
+      "layer": "",
+      "name": "water",
+      "persistentUuid": "c0050ad1-818c-48e7-9ab1-d6452a7934b8",
+      "width": 80,
+      "x": 691,
+      "y": 661,
+      "zOrder": 115,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 80,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bridge",
+      "persistentUuid": "c2b1c7e6-92fd-4dec-ba86-a6512d04fcbc",
+      "width": 185,
+      "x": 382,
+      "y": 646,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 80,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bridge",
+      "persistentUuid": "18f7feea-f7a9-4559-b88f-cbf9bba05ca7",
+      "width": 185,
+      "x": 541,
+      "y": 646,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 62,
+      "keepRatio": true,
+      "layer": "",
+      "name": "water",
+      "persistentUuid": "4b247e3d-f312-423c-b4bf-1b94bd69d742",
+      "width": 80,
+      "x": 611,
+      "y": 661,
+      "zOrder": 115,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 62,
+      "keepRatio": true,
+      "layer": "",
+      "name": "water",
+      "persistentUuid": "f51a35d2-daf4-4d7a-9674-463e3614a70e",
+      "width": 80,
+      "x": 360,
+      "y": 661,
+      "zOrder": 115,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 62,
+      "keepRatio": true,
+      "layer": "",
+      "name": "water",
+      "persistentUuid": "70255217-d806-4a91-8c9a-825cf0c77a2a",
+      "width": 80,
+      "x": 440,
+      "y": 661,
+      "zOrder": 115,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 62,
+      "keepRatio": true,
+      "layer": "",
+      "name": "water",
+      "persistentUuid": "03102031-616a-4b60-84a3-eb5a930e61bf",
+      "width": 80,
+      "x": 520,
+      "y": 661,
+      "zOrder": 115,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 62,
+      "keepRatio": true,
+      "layer": "",
+      "name": "water",
+      "persistentUuid": "b8dff745-2ebf-42db-8f09-2d43cd1917e0",
+      "width": 80,
+      "x": 600,
+      "y": 661,
+      "zOrder": 115,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 40,
+      "keepRatio": true,
+      "layer": "",
+      "name": "rock",
+      "persistentUuid": "e7a31023-ada1-4e81-9b10-075a3a37d9e2",
+      "width": 53,
+      "x": 787,
+      "y": 600,
+      "zOrder": 132,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 40,
+      "keepRatio": true,
+      "layer": "",
+      "name": "fence",
+      "persistentUuid": "38bcca79-ddf9-4bb8-9843-935733815c7f",
+      "width": 125,
+      "x": 1178,
+      "y": 600,
+      "zOrder": 131,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 40,
+      "keepRatio": true,
+      "layer": "",
+      "name": "fence",
+      "persistentUuid": "8b5b2908-44f2-4f3d-bf23-00c13b1b640e",
+      "width": 125,
+      "x": 763,
+      "y": 599,
+      "zOrder": 131,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 40,
+      "keepRatio": true,
+      "layer": "",
+      "name": "flower",
+      "persistentUuid": "10469c48-ee38-4bfd-9936-f67d91857287",
+      "width": 160,
+      "x": 1120,
+      "y": 600,
+      "zOrder": 133,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 120,
+      "keepRatio": true,
+      "layer": "",
+      "name": "tree",
+      "persistentUuid": "d9e83a1e-d3c8-4da3-8b8f-5dcc7d57f678",
+      "width": 114,
+      "x": 1166,
+      "y": 520,
+      "zOrder": 132,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 40,
+      "keepRatio": true,
+      "layer": "",
+      "name": "fence",
+      "persistentUuid": "b8872dd7-27ea-4897-95be-1e09a68b03be",
+      "width": 125,
+      "x": 1071,
+      "y": 600,
+      "zOrder": 131,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2751,11 +3108,12 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "Water_frames (16 x 32)",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Water_frames (16 x 32)\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":32,\\\"width\\\":32,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAJtJREFUWEdjZBhgwDjA9jOMOmA0BEZDYDQEGBWmnf0PKozsHJWwlkmH9t8DiyPLo4thUwPSAxNH1o8uxqiWtBrsgIECZDvgl4kSA9sZSOhQAvA6gFqWYHMgyGwQADsAxAHFMSh+yPEVTD8s3kFmwCwgZB5JUUCJQ7E5Eh4ClMQhpXpJCgFKLcOmf9QBoyEwGgKjITAaAqMhMBoCAEm+Yq7LSKM+AAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAC1JREFUWEft0EERAAAAAUH6lxbDZxU4s815PffjAAECBAgQIECAAAECBAgQIDAaPwAh6O5R/QAAAABJRU5ErkJggg==\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"Water_frames (16 x 32).png\"],\"name\":\"Water_frames (16 x 32)\"}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -3165,6 +3523,372 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "purple_block",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Blocks (16 x 16)4",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blocks (16 x 16)7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "block3_reverse",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Blocks (16 x 16)5",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blocks (16 x 16)8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 32,
+                        "y": 0
+                      },
+                      {
+                        "x": 32,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "bridge",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Autumn_entities (16 x 16)3",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Autumn_entities (16 x 16)5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 74,
+                        "y": 0
+                      },
+                      {
+                        "x": 74,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "rock",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Autumn_entities (16 x 16)4",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Autumn_entities (16 x 16)6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 12
+                      },
+                      {
+                        "x": 0,
+                        "y": 12
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "fence",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Autumn_entities (16 x 16)5",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Autumn_entities (16 x 16)7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 47,
+                        "y": 0
+                      },
+                      {
+                        "x": 47,
+                        "y": 15
+                      },
+                      {
+                        "x": 0,
+                        "y": 15
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "flower",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Flowers (16 x 16)",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Flowers (16 x 16).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 7
+                      },
+                      {
+                        "x": 60,
+                        "y": 7
+                      },
+                      {
+                        "x": 60,
+                        "y": 16
+                      },
+                      {
+                        "x": 3,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -3279,6 +4003,9 @@
         "objectName": "block3"
       },
       {
+        "objectName": "block3_reverse"
+      },
+      {
         "objectName": "water"
       },
       {
@@ -3286,6 +4013,21 @@
       },
       {
         "objectName": "tree2"
+      },
+      {
+        "objectName": "purple_block"
+      },
+      {
+        "objectName": "bridge"
+      },
+      {
+        "objectName": "rock"
+      },
+      {
+        "objectName": "fence"
+      },
+      {
+        "objectName": "flower"
       }
     ]
   },
@@ -3330,6 +4072,17 @@
             "no",
             "",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "water",
+            "Opacity",
+            "=",
+            "180"
           ]
         }
       ]

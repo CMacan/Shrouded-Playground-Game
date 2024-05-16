@@ -2546,7 +2546,7 @@
         "alwaysLoaded": false,
         "file": "Water_frames (16 x 32).png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Water_frames (16 x 32).png\",\"extension\":\".png\"}",
         "name": "Water_frames (16 x 32).png",
         "smoothed": false,
         "userAdded": true
@@ -3910,6 +3910,105 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Pink Man/108416b938ee4c88bb17f448cded996c705d583bf3d4695a62996d877af44882_Pink Man_Wall Jump_5.png",
           "name": "Pink Man_Wall Jump_5.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Blocks (16 x 16)4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blocks (16 x 16)4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blocks (16 x 16)7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Blocks (16 x 16)7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Blocks (16 x 16)5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blocks (16 x 16)5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blocks (16 x 16)8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Blocks (16 x 16)8.png\"}",
+        "name": "Blocks (16 x 16)8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Autumn_entities (16 x 16)3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Autumn_entities (16 x 16)3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Autumn_entities (16 x 16)5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Autumn_entities (16 x 16)5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Autumn_entities (16 x 16)4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Autumn_entities (16 x 16)4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Autumn_entities (16 x 16)6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Autumn_entities (16 x 16)6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Autumn_entities (16 x 16)5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Autumn_entities (16 x 16)5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Autumn_entities (16 x 16)7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Autumn_entities (16 x 16)7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Flowers (16 x 16).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Flowers (16 x 16).png\",\"extension\":\".png\"}",
+        "name": "Flowers (16 x 16).png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
