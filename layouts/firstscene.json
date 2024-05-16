@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5290357402156857,
+    "zoomFactor": 0.195611005367695,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -43,23 +43,6 @@
     }
   ],
   "instances": [
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 57,
-      "height": 50,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Menu_Button",
-      "persistentUuid": "f100d094-0f4b-430b-8fe0-2d49d5675b56",
-      "width": 103,
-      "x": 31,
-      "y": 21,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
     {
       "angle": 0,
       "customSize": true,
@@ -717,92 +700,26 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 27,
+      "height": 59,
+      "keepRatio": true,
+      "layer": "",
+      "name": "SettingsBtn",
+      "persistentUuid": "056567b9-4470-45f4-8a8b-9a583b6e21c3",
+      "width": 142,
+      "x": 33,
+      "y": 20,
+      "zOrder": 49,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
-    {
-      "assetStoreId": "1cacfe2713f10642e8079542f28282d52f1bf46ae2dc27dc6c291a2970c90971",
-      "name": "Menu_Button",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "LeftPadding": 0,
-        "RightPadding": 0,
-        "PressedLabelOffsetY": 4,
-        "BottomPadding": 10,
-        "TopPadding": 0,
-        "HoveredFadeOutDuration": 0.2
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 11,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Beige_Hovered.png",
-          "tiled": true,
-          "topMargin": 7,
-          "width": 192
-        },
-        "Idle": {
-          "bottomMargin": 11,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Beige_Idle.png",
-          "tiled": true,
-          "topMargin": 7,
-          "width": 192
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "Menu",
-          "font": "CaesarDressing-Regular.ttf",
-          "textAlignment": "center",
-          "characterSize": 40,
-          "color": {
-            "b": 64,
-            "g": 99,
-            "r": 133
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Menu",
-            "font": "CaesarDressing-Regular.ttf",
-            "textAlignment": "center",
-            "characterSize": 40,
-            "color": "133;99;64"
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 7,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Beige_Pressed.png",
-          "tiled": true,
-          "topMargin": 11,
-          "width": 192
-        }
-      }
-    },
     {
       "assetStoreId": "92d63781ba23572df91b5dc4093b6825f8aab015160bd715265d73a319c29b6b",
       "bottomMargin": 16,
@@ -4632,13 +4549,167 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "04702415b2659bd59f81e6a4e59f641557d6d1e8786f30ebfd1b2a1b981deff6",
+      "name": "Config",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Config.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 113,
+                        "y": 0
+                      },
+                      {
+                        "x": 113,
+                        "y": 125
+                      },
+                      {
+                        "x": 0,
+                        "y": 125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
+      "name": "SettingsBtn",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "LeftPadding": 16,
+        "RightPadding": 16,
+        "PressedLabelOffsetY": 10,
+        "BottomPadding": 32,
+        "TopPadding": 16,
+        "HoveredFadeOutDuration": 0.25
+      },
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 32,
+          "height": 106,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Blue Button_Hovered.png",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 256
+        },
+        "Idle": {
+          "bottomMargin": 32,
+          "height": 106,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Blue Button_Idle.png",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 256
+        },
+        "Label": {
+          "bold": true,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Settings",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 25,
+          "color": {
+            "b": 99,
+            "g": 69,
+            "r": 28
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Settings",
+            "font": "",
+            "textAlignment": "center",
+            "characterSize": 25,
+            "color": "28;69;99"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 16,
+          "height": 106,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Blue Button_Pressed.png",
+          "tiled": true,
+          "topMargin": 32,
+          "width": 256
+        }
+      }
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "Menu_Button"
+        "objectName": "Config"
       },
       {
         "objectName": "OrangeGrass9patch"
@@ -4720,6 +4791,9 @@
       },
       {
         "objectName": "PinkMan"
+      },
+      {
+        "objectName": "SettingsBtn"
       }
     ]
   },
@@ -4732,7 +4806,8 @@
             "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
           },
           "parameters": [
-            "Menu_Button",
+            "SettingsBtn",
+            "ButtonFSM",
             ""
           ]
         }
@@ -4868,6 +4943,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "ENEMY",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5077,6 +5153,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "PLAYER MOVEMENTS",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5184,6 +5261,10 @@
     {
       "name": "Animation",
       "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "ButtonFSM",
+      "type": "ButtonStates::ButtonFSM"
     },
     {
       "name": "Effect",

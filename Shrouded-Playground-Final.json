@@ -9350,6 +9350,169 @@
         "name": "Terrain (16 x 16)19",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../Gdevelop Resources/Animated Space bg/tile002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\Gdevelop Resources\\Animated Space bg\\tile002.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Config.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Config.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/Casual Buttons Pack/49c02b78cfcb8e5a9c14acc334011b64a703d86f268342a41d0b5cc0422b3fca_Config.png",
+          "name": "Config.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Config2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "49c02b78cfcb8e5a9c14acc334011b64a703d86f268342a41d0b5cc0422b3fca_Config.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/Casual Buttons Pack/49c02b78cfcb8e5a9c14acc334011b64a703d86f268342a41d0b5cc0422b3fca_Config.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Button_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/bff6adc488c7379b21ceba34e9104e861791b2fbb54b4aae167fe90115b92fa3_Green Button_Hovered.png",
+          "name": "Green Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Button_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f46d20e99495562ee66ee2f26defdb0788588184bd30b1f7b951ae728ce63d2a_Green Button_Idle.png",
+          "name": "Green Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Button_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ecb33703984d3107196efce7335025d7ec104351fe8cdeb581c73fe0b8038c34_Green Button_Pressed.png",
+          "name": "Green Button_Pressed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On Screen Controls Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "On Screen Controls Button_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/16e804dda11f82902d6b7469420d7b3b81d68ef00af71783070dd284114e8cdc_On Screen Controls Button_Hovered.png",
+          "name": "On Screen Controls Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On Screen Controls Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "On Screen Controls Button_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/174644b98156cc55e10a4eb991aebb06e0a2c9f98915abb1422cababc3124de3_On Screen Controls Button_Idle.png",
+          "name": "On Screen Controls Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On Screen Controls Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "On Screen Controls Button_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5a44f1cb97ef7da59c97179346b71d3f5b913af0208795784707c062fc20749f_On Screen Controls Button_Pressed.png",
+          "name": "On Screen Controls Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Roboto-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Roboto-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
+          "name": "Roboto-Regular.ttf"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1ffd07cb739df2a909155dd3057f6def46b833ced6ef1a09527b6ea59e88e464_Blue Button_Hovered.png",
+          "name": "Blue Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/eeac55458b66fb84f756b38085fbf7d1e079c39363c942abd35ea9d0939465ce_Blue Button_Idle.png",
+          "name": "Blue Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f0ede8843d544f6e84bc09299a8aabffbce558966f25af98f7b47ab1648217ce_Blue Button_Pressed.png",
+          "name": "Blue Button_Pressed.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -9395,6 +9558,10 @@
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/transitionscene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/menuscene"
     },
     {
@@ -9403,7 +9570,11 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/transitionscene"
+      "referenceTo": "/layouts/secondscene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/thirdscene"
     }
   ],
   "externalEvents": [],
