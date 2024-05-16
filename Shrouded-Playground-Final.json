@@ -9314,6 +9314,42 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Characters/Big Guy/4a8d680e5238ef15e49df407ab76d75962def9db813155f4614b67421d782167_Big Guy_Run_9.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Terrain (16 x 16)10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Terrain (16 x 16)10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Terrain (16 x 16)18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Terrain (16 x 16)18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Terrain (16 x 16)11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Terrain (16 x 16)11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Terrain (16 x 16)19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Terrain (16 x 16)19",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
