@@ -18,7 +18,7 @@
     "gridColor": 4670532,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 1.134371579716097,
+    "zoomFactor": 0.4633111824513987,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -7902,19 +7902,7 @@
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Player",
-                "Animation",
-                "=",
-                "\"run\""
-              ]
-            }
-          ],
+          "actions": [],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -7938,7 +7926,7 @@
                     "Player",
                     "Animation",
                     "=",
-                    "\"idle\""
+                    "\"run\""
                   ]
                 }
               ]
@@ -8182,6 +8170,33 @@
               ]
             }
           ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "PLAYER ATTACK",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "a"
+              ]
+            }
+          ],
+          "actions": []
         }
       ],
       "parameters": []
