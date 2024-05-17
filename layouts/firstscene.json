@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5468750000000075,
+    "zoomFactor": 0.584378441074101,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -40,6 +40,12 @@
       "name": "direction2",
       "type": "string",
       "value": "right"
+    },
+    {
+      "folded": true,
+      "name": "Life",
+      "type": "number",
+      "value": 3
     }
   ],
   "instances": [
@@ -3008,6 +3014,8 @@
           "PercentDamageReduction": 0
         },
         {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -3020,9 +3028,7 @@
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 700,
           "maxSpeed": 250,
-          "name": "PlatformerObject",
           "slopeMaxAngle": 60,
-          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "useLegacyTrajectory": false,
           "xGrabTolerance": 10,
           "yGrabOffset": 0
@@ -5358,32 +5364,17 @@
                 "",
                 ""
               ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
-              },
-              "parameters": [
-                "PinkMan",
-                "Animation",
-                "startsWith",
-                "\"Hit\""
-              ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "Health::Health::Hit"
+                "value": "ModVarScene"
               },
               "parameters": [
-                "PinkMan",
-                "Health",
-                "10",
-                "",
-                "",
-                ""
+                "Life",
+                "-",
+                "1"
               ]
             },
             {
@@ -5395,6 +5386,18 @@
                 "Animation",
                 "=",
                 "\"Hit\""
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "PinkMan",
+                "=",
+                "27",
+                "=",
+                "617"
               ]
             }
           ]
@@ -5598,6 +5601,16 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Life",
+                    "-",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "ToggleObjectVariableAsBoolean"
@@ -5848,6 +5861,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "OFF SCREEN OF CHARACTER TRAPPING",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5877,6 +5891,118 @@
                 "27",
                 "=",
                 "617"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "PLAYER LIFE",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Life",
+                "=",
+                "3"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Life",
+                "=",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "hp_3"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Life",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "hp_2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Life",
+                "=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "hp_1"
               ]
             }
           ]
