@@ -11433,6 +11433,657 @@
         "name": "Tile-Sets (64-64)11",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "8215537950e4e02640f87df890132c2d9c19c42dbaf5d0cc8237272112941978_Saw_On_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/8215537950e4e02640f87df890132c2d9c19c42dbaf5d0cc8237272112941978_Saw_On_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1d982f3e006a7ac6b76bca8cefbf716fd017b25f7e0218942276b4dd92ac1813_Saw_On_2.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/1d982f3e006a7ac6b76bca8cefbf716fd017b25f7e0218942276b4dd92ac1813_Saw_On_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "b208726b0292bb1f401f3738902ec190c004841ae8c555b2817d9f19ef46ca62_Saw_On_3.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/b208726b0292bb1f401f3738902ec190c004841ae8c555b2817d9f19ef46ca62_Saw_On_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "b6119060081879814ea630f152a39fb3c303d421b797515814c045b73b94abdf_Saw_On_4.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/b6119060081879814ea630f152a39fb3c303d421b797515814c045b73b94abdf_Saw_On_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2cfa1cffe1380dd56016085e018c4b68844c6f669e67925dd365481f8ef26586_Saw_On_5.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/2cfa1cffe1380dd56016085e018c4b68844c6f669e67925dd365481f8ef26586_Saw_On_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "75d8836f8bfc835f3217c0468d04f8aae970f136231c792f1251b73f5e868058_Saw_On_6.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/75d8836f8bfc835f3217c0468d04f8aae970f136231c792f1251b73f5e868058_Saw_On_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "6351b1a83d1930df91b19b49cc23a375aa154ee74f7a31280acc6abb6f1b1fd2_Saw_On_7.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/6351b1a83d1930df91b19b49cc23a375aa154ee74f7a31280acc6abb6f1b1fd2_Saw_On_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "63cce13ef5f9e917ed2de1359357510061e462e6cc8183553c0fb0c70a3c03f9_Saw_On_8.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/63cce13ef5f9e917ed2de1359357510061e462e6cc8183553c0fb0c70a3c03f9_Saw_On_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite2.png\"}",
+        "name": "NewSprite2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box3_Break_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box3_Break_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/a3f3cf69cc95725dc3563137948cc8ce78d1b16a3a4924af6c25ddb337ca2fbe_Box3_Break_1.png",
+          "name": "Box3_Break_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box3_Break_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box3_Break_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/b2263f3f0f3a4a182ac35865d38cfdba7be29e43600b20affcf16b11a46e8454_Box3_Break_2.png",
+          "name": "Box3_Break_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box3_Break_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box3_Break_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/842b98c707bc543d352fbb67637cc81188dd2d6c15e0e03224c0bff9d4c1472d_Box3_Break_3.png",
+          "name": "Box3_Break_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box3_Break_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box3_Break_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/c73e0922fc56c0f93864630a12941643f03953ef121a97be3e224e7158be3747_Box3_Break_4.png",
+          "name": "Box3_Break_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box3_Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box3_Hit_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/f937266e8797a1b5f6381dc4f23bf3f2b0fe871b99fb2e0f96ba8cb30b0f258e_Box3_Hit_1.png",
+          "name": "Box3_Hit_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box3_Hit_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box3_Hit_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/cc61fdac9adec03b8c0f407fe2a8f86be2c3589c099236b8813a3df56cfa1b36_Box3_Hit_2.png",
+          "name": "Box3_Hit_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box3_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box3_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/1cee8a0f662a4dcfb24b78898c8bdd56eeca575e4d4eae1b81a5de7473203d7d_Box3_Idle.png",
+          "name": "Box3_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Colored Confetti_Blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Colored Confetti_Blue.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/e323648e73761f9b81cffc728e01fc0baf61e8dfdb14e7dc42acd94c0b4ee3ac_Colored Confetti_Blue.png",
+          "name": "Colored Confetti_Blue.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Colored Confetti_Green.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Colored Confetti_Green.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/ec74871b200005ca4fd1e5c81c2fa0d63690f037b7f5a0ac77033fd21cf49445_Colored Confetti_Green.png",
+          "name": "Colored Confetti_Green.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Colored Confetti_Orange.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Colored Confetti_Orange.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/6fec305f58aac94cf12b1a2fe5d5d234bebd7893c55ea8a7c3fd523b8c7cdc2e_Colored Confetti_Orange.png",
+          "name": "Colored Confetti_Orange.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Colored Confetti_Pink.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Colored Confetti_Pink.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/0917d43e91d1dc35987d51594ecceb10dd7a222fab6061f74a4b419bc574e8de_Colored Confetti_Pink.png",
+          "name": "Colored Confetti_Pink.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Colored Confetti_Red.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Colored Confetti_Red.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/d11c4a76b8da82d457744b6cc92445c257798eee3b2a618b601fdd6d3019d8d5_Colored Confetti_Red.png",
+          "name": "Colored Confetti_Red.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Colored Confetti_Yellow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Colored Confetti_Yellow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/FX/630609decd39a51ab6b84a0a003e856c00a540bffcf7efcaa5d2b2b1577a63b3_Colored Confetti_Yellow.png",
+          "name": "Colored Confetti_Yellow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Falling Platform_Off.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Falling Platform_Off.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Falling Platform/d98daa9f98271b7598e9ccf3164a72faec8a67eab03154e0651840bf1a5794f8_Falling Platform_Off.png",
+          "name": "Falling Platform_Off.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Falling Platform_On_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Falling Platform_On_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Falling Platform/d98daa9f98271b7598e9ccf3164a72faec8a67eab03154e0651840bf1a5794f8_Falling Platform_On_1.png",
+          "name": "Falling Platform_On_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Falling Platform_On_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Falling Platform_On_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Falling Platform/e62dcedcb83cd8e1d19faf9d1fc862941ff0e0a2551585fc7209f8cc9c13a5ae_Falling Platform_On_2.png",
+          "name": "Falling Platform_On_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Falling Platform_On_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Falling Platform_On_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Falling Platform/271b0864faf4e4c9154cb131e041cf1be0551b90aa983f0be4acbe955f79755f_Falling Platform_On_3.png",
+          "name": "Falling Platform_On_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Falling Platform_On_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Falling Platform_On_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Falling Platform/02782ba3ef57baad42e930fdccb8534f27ac002180d8108b5073236b84759ffe_Falling Platform_On_4.png",
+          "name": "Falling Platform_On_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Blink_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Blink_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/4b4360bacdd6eea139d9a6c5891a97a14eb9d64af1cfc51b0e081a6f057e2800_Spike Head_Blink_1.png",
+          "name": "Spike Head_Blink_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Blink_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Blink_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/fcf5ffbb75574d6ae25558085e15f798602bf2c3df13949727e9a5fbd7c7230b_Spike Head_Blink_2.png",
+          "name": "Spike Head_Blink_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Blink_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Blink_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/4b4360bacdd6eea139d9a6c5891a97a14eb9d64af1cfc51b0e081a6f057e2800_Spike Head_Blink_3.png",
+          "name": "Spike Head_Blink_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Blink_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Blink_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/0570e1d8326689440aa90d536e72940777329c19512aea82ede7ff26e0e169aa_Spike Head_Blink_4.png",
+          "name": "Spike Head_Blink_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Bottom Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Bottom Hit_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/7cbb32480f547697d9453e16dd805e09a13c6cc6ca8252abc7faec325c5ccad9_Spike Head_Bottom Hit_1.png",
+          "name": "Spike Head_Bottom Hit_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Bottom Hit_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Bottom Hit_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/7cbb32480f547697d9453e16dd805e09a13c6cc6ca8252abc7faec325c5ccad9_Spike Head_Bottom Hit_2.png",
+          "name": "Spike Head_Bottom Hit_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Bottom Hit_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Bottom Hit_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/2437e5692189abcb18e60ff3c906c1a6e9538a40958ef400fed0c02108d526f8_Spike Head_Bottom Hit_3.png",
+          "name": "Spike Head_Bottom Hit_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Bottom Hit_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Bottom Hit_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/5f966c2cb6f9a535ac006402621707da6eeed14cd1948b3cbd0804d4c167328c_Spike Head_Bottom Hit_4.png",
+          "name": "Spike Head_Bottom Hit_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/8c518aba2c2123fc75478a8a5282703d234a5c4abed7cd2bfbb932a0547f396b_Spike Head_Idle.png",
+          "name": "Spike Head_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Left Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Left Hit_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/4c615602f31e08318a21ef0257c253426fb50035cbc91a5c8e5ca0e2730bf47e_Spike Head_Left Hit_1.png",
+          "name": "Spike Head_Left Hit_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Left Hit_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Left Hit_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/4c615602f31e08318a21ef0257c253426fb50035cbc91a5c8e5ca0e2730bf47e_Spike Head_Left Hit_2.png",
+          "name": "Spike Head_Left Hit_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Left Hit_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Left Hit_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/16747d13070e5e5dd654a2ba4ab127b6099832d882d3d1a80178fce274543761_Spike Head_Left Hit_3.png",
+          "name": "Spike Head_Left Hit_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Left Hit_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Left Hit_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/28a179da89e86aacf55df720a887772c8c64a10e7ba0bb171186ce57e5779bae_Spike Head_Left Hit_4.png",
+          "name": "Spike Head_Left Hit_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Right Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Right Hit_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/8316d1df1ba46eb66a7d1e480175ad2fb820dec4e60d9851a4e3206d767e0163_Spike Head_Right Hit_1.png",
+          "name": "Spike Head_Right Hit_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Right Hit_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Right Hit_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/8316d1df1ba46eb66a7d1e480175ad2fb820dec4e60d9851a4e3206d767e0163_Spike Head_Right Hit_2.png",
+          "name": "Spike Head_Right Hit_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Right Hit_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Right Hit_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/1b196bd474d51b3d7fee9d3a9ade98720fd86ea6387d7079ce22d8c7199b1ec4_Spike Head_Right Hit_3.png",
+          "name": "Spike Head_Right Hit_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Right Hit_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Right Hit_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/20e7a44dd7853e24757f506d49a9d405b7e9c3dea414dd2125a4fcb25690ecca_Spike Head_Right Hit_4.png",
+          "name": "Spike Head_Right Hit_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Top Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Top Hit_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/a78f31ddff225b160d20166db3a2d95c7ea5baf3e2b68953d33e6ddc65c42a84_Spike Head_Top Hit_1.png",
+          "name": "Spike Head_Top Hit_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Top Hit_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Top Hit_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/a78f31ddff225b160d20166db3a2d95c7ea5baf3e2b68953d33e6ddc65c42a84_Spike Head_Top Hit_2.png",
+          "name": "Spike Head_Top Hit_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Top Hit_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Top Hit_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/d05330bc6a721fe1235ee1dfe3404d57ee2dd9be5c44ae2fe4d82b3f604ad87b_Spike Head_Top Hit_3.png",
+          "name": "Spike Head_Top Hit_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spike Head_Top Hit_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spike Head_Top Hit_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spike Head/f5762f420e3e77e33ac930b21b61750231cde231a6dcd8b7962f74da707e1b16_Spike Head_Top Hit_4.png",
+          "name": "Spike Head_Top Hit_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spikes.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spikes.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spikes/9728e7ce3b9e8fc40dd7f91a8553a1d6818f5e4026cdbe05293716d4fc796b12_Spikes.png",
+          "name": "Spikes.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -11499,6 +12150,22 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/timedbackandforthmovement"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/rectanglemovement"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/rectangularmovement"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/platformercharacteranimator"
