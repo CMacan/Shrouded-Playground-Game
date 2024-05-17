@@ -18,11 +18,18 @@
     "gridColor": 12632256,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.20220707303603117,
+    "zoomFactor": 0.3797121001948168,
     "windowMask": false
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "TempSettings",
+      "type": "string",
+      "value": ""
+    }
+  ],
   "instances": [
     {
       "angle": 0,
@@ -1326,7 +1333,20 @@
       "name": "Play",
       "type": "BitmapText::BitmapTextObject",
       "variables": [],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "Outline",
+          "name": "Effect",
+          "doubleParameters": {
+            "padding": 4,
+            "thickness": 2
+          },
+          "stringParameters": {
+            "color": "109;175;253"
+          },
+          "booleanParameters": {}
+        }
+      ],
       "behaviors": [
         {
           "name": "ButtonFSM",
@@ -1356,7 +1376,20 @@
       "name": "Setting",
       "type": "BitmapText::BitmapTextObject",
       "variables": [],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "Outline",
+          "name": "Effect",
+          "doubleParameters": {
+            "padding": 4,
+            "thickness": 2
+          },
+          "stringParameters": {
+            "color": "109;175;253"
+          },
+          "booleanParameters": {}
+        }
+      ],
       "behaviors": [
         {
           "name": "ButtonFSM",
@@ -1386,7 +1419,20 @@
       "name": "Quit",
       "type": "BitmapText::BitmapTextObject",
       "variables": [],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "Outline",
+          "name": "Effect",
+          "doubleParameters": {
+            "padding": 4,
+            "thickness": 2
+          },
+          "stringParameters": {
+            "color": "109;175;253"
+          },
+          "booleanParameters": {}
+        }
+      ],
       "behaviors": [
         {
           "name": "ButtonFSM",
@@ -1762,7 +1808,20 @@
       "name": "Back",
       "type": "BitmapText::BitmapTextObject",
       "variables": [],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "Outline",
+          "name": "Effect",
+          "doubleParameters": {
+            "padding": 4,
+            "thickness": 2
+          },
+          "stringParameters": {
+            "color": "109;175;253"
+          },
+          "booleanParameters": {}
+        }
+      ],
       "behaviors": [
         {
           "name": "ButtonFSM",
@@ -4326,19 +4385,6 @@
         },
         {
           "type": {
-            "value": "PlaySoundCanal"
-          },
-          "parameters": [
-            "",
-            "JDSherbert - Ambiences Music Pack - The Blackpenny Pub.mp3",
-            "1",
-            "no",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
             "value": "OpacityCapability::OpacityBehavior::SetValue"
           },
           "parameters": [
@@ -4346,6 +4392,61 @@
             "Opacity",
             "=",
             "180"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "JDSherbert - Ambiences Music Pack - The Blackpenny Pub.mp3",
+            "2",
+            "",
+            "100",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "LireFichierTxt"
+          },
+          "parameters": [
+            "\"Settings\"",
+            "\"Settings\"",
+            "",
+            "TempSettings"
+          ]
+        },
+        {
+          "type": {
+            "value": "JSONToGlobalVariableStructure"
+          },
+          "parameters": [
+            "VariableString(TempSettings)",
+            "Settings"
+          ]
+        },
+        {
+          "type": {
+            "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+          },
+          "parameters": [
+            "SoundSlider",
+            "=",
+            "GlobalVariable(Settings.Sound)",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+          },
+          "parameters": [
+            "MusicSlider",
+            "=",
+            "GlobalVariable(Settings.Music)",
+            ""
           ]
         }
       ]
@@ -4370,17 +4471,6 @@
           },
           "parameters": [
             "Settings.Sound",
-            "=",
-            "SoundSlider.Value()"
-          ]
-        },
-        {
-          "type": {
-            "value": "ModVolumeSoundCanal"
-          },
-          "parameters": [
-            "",
-            "2",
             "=",
             "SoundSlider.Value()"
           ]
@@ -4413,11 +4503,11 @@
         },
         {
           "type": {
-            "value": "ModVolumeSoundCanal"
+            "value": "ModVolumeMusicCanal"
           },
           "parameters": [
             "",
-            "1",
+            "2",
             "=",
             "MusicSlider.Value()"
           ]
@@ -4445,9 +4535,9 @@
           "parameters": [
             "",
             "MI_SFX 03.mp3",
-            "2",
+            "1",
             "",
-            "SoundSlider.Value()",
+            "Settings.Sound",
             ""
           ]
         },
@@ -4509,9 +4599,9 @@
           "parameters": [
             "",
             "MI_SFX 03.mp3",
-            "2",
+            "1",
             "",
-            "SoundSlider.Value()",
+            "Settings.Sound",
             ""
           ]
         }
@@ -4553,10 +4643,20 @@
           "parameters": [
             "",
             "MI_SFX 03.mp3",
-            "2",
+            "1",
             "",
-            "SoundSlider.Value()",
+            "Settings.Sound",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "EcrireFichierTxt"
+          },
+          "parameters": [
+            "\"Settings\"",
+            "\"Settings\"",
+            "GlobalVarToJSON(Settings)"
           ]
         }
       ]
@@ -4583,9 +4683,9 @@
           "parameters": [
             "",
             "MI_SFX 03.mp3",
-            "2",
+            "1",
             "",
-            "SoundSlider.Value()",
+            "Settings.Sound",
             ""
           ]
         },
@@ -4594,6 +4694,63 @@
             "value": "Quit"
           },
           "parameters": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsHovered"
+          },
+          "parameters": [
+            "Buttons",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "EffectCapability::EffectBehavior::EnableEffect"
+          },
+          "parameters": [
+            "Buttons",
+            "Effect",
+            "\"Effect\"",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": true,
+            "value": "ButtonStates::ButtonFSM::IsHovered"
+          },
+          "parameters": [
+            "Buttons",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "EffectCapability::EffectBehavior::EnableEffect"
+          },
+          "parameters": [
+            "Buttons",
+            "Effect",
+            "\"Effect\"",
             ""
           ]
         }

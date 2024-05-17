@@ -7955,6 +7955,19 @@
                     "=",
                     "\"jump\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Retro Jump Classic 08.wav",
+                    "1",
+                    "",
+                    "Settings.Sound",
+                    ""
+                  ]
                 }
               ]
             }

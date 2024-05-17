@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.0615714305220185,
+    "zoomFactor": 1.3389693172845651,
     "windowMask": false
   },
   "objectsGroups": [
@@ -1277,8 +1277,8 @@
       "behaviors": [
         {
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "platformType": "NormalPlatform",
           "canBeGrabbed": false,
           "yGrabOffset": 0
         }
@@ -11978,9 +11978,9 @@
       "effects": [],
       "behaviors": [
         {
-          "extraBorder": 0,
           "name": "DestroyOutside",
-          "type": "DestroyOutsideBehavior::DestroyOutside"
+          "type": "DestroyOutsideBehavior::DestroyOutside",
+          "extraBorder": 0
         }
       ],
       "animations": [
@@ -12524,10 +12524,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "Jumpthru",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "Jumpthru",
           "yGrabOffset": 0
         }
       ],
@@ -15634,6 +15634,18 @@
                     "Animation",
                     "=",
                     "\"Jump\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Retro Jump Classic9.wav",
+                    "",
+                    "Settings.Sound",
+                    ""
                   ]
                 }
               ]
