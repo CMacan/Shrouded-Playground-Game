@@ -5613,6 +5613,17 @@
                 },
                 {
                   "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "Animation",
+                    "=",
+                    "\"Hit\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ToggleObjectVariableAsBoolean"
                   },
                   "parameters": [
@@ -5861,7 +5872,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "OFF SCREEN OF CHARACTER TRAPPING",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
