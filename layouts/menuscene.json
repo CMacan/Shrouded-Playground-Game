@@ -4373,6 +4373,17 @@
             "=",
             "SoundSlider.Value()"
           ]
+        },
+        {
+          "type": {
+            "value": "ModVolumeSoundCanal"
+          },
+          "parameters": [
+            "",
+            "2",
+            "=",
+            "SoundSlider.Value()"
+          ]
         }
       ]
     },
@@ -4429,24 +4440,25 @@
       "actions": [
         {
           "type": {
+            "value": "PlaySoundCanal"
+          },
+          "parameters": [
+            "",
+            "MI_SFX 03.mp3",
+            "2",
+            "",
+            "SoundSlider.Value()",
+            ""
+          ]
+        },
+        {
+          "type": {
             "value": "ModVarGlobalTxt"
           },
           "parameters": [
             "SceneTransition",
             "=",
             "\"FirstScene\""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlaySound"
-          },
-          "parameters": [
-            "",
-            "MI_SFX 03.mp3",
-            "",
-            "",
-            ""
           ]
         },
         {
@@ -4492,13 +4504,14 @@
         },
         {
           "type": {
-            "value": "PlaySound"
+            "value": "PlaySoundCanal"
           },
           "parameters": [
             "",
             "MI_SFX 03.mp3",
+            "2",
             "",
-            "",
+            "SoundSlider.Value()",
             ""
           ]
         }
@@ -4535,13 +4548,14 @@
         },
         {
           "type": {
-            "value": "PlaySound"
+            "value": "PlaySoundCanal"
           },
           "parameters": [
             "",
             "MI_SFX 03.mp3",
+            "2",
             "",
-            "",
+            "SoundSlider.Value()",
             ""
           ]
         }
@@ -4564,13 +4578,14 @@
       "actions": [
         {
           "type": {
-            "value": "PlaySound"
+            "value": "PlaySoundCanal"
           },
           "parameters": [
             "",
-            "MI_SFX 15.mp3",
+            "MI_SFX 03.mp3",
+            "2",
             "",
-            "",
+            "SoundSlider.Value()",
             ""
           ]
         },
