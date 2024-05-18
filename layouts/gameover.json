@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.4950840073748989,
+    "zoomFactor": 0.4057518905943907,
     "windowMask": false
   },
   "objectsGroups": [
@@ -14971,150 +14971,6 @@
         "align": "left",
         "wordWrap": true
       }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "Retry",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "ButtonFSM",
-          "type": "ButtonStates::ButtonFSM",
-          "ShouldCheckHovering": true,
-          "State": "Idle",
-          "TouchId": 0,
-          "TouchIsInside": false,
-          "MouseIsInside": false,
-          "Index": 2.0247e-320
-        }
-      ],
-      "animations": [
-        {
-          "name": "Sprite1",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Sprite2",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 14,
-                        "y": 0
-                      },
-                      {
-                        "x": 14,
-                        "y": 14
-                      },
-                      {
-                        "x": 0,
-                        "y": 14
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "Home",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "ButtonFSM",
-          "type": "ButtonStates::ButtonFSM",
-          "ShouldCheckHovering": true,
-          "State": "Idle",
-          "TouchId": 0,
-          "TouchIsInside": false,
-          "MouseIsInside": false,
-          "Index": 2.0247e-320
-        }
-      ],
-      "animations": [
-        {
-          "name": "Sprite0",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Sprite02",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 14,
-                        "y": 0
-                      },
-                      {
-                        "x": 14,
-                        "y": 14
-                      },
-                      {
-                        "x": 0,
-                        "y": 14
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ],
   "objectsFolderStructure": {
@@ -15248,12 +15104,6 @@
       },
       {
         "objectName": "GameOver"
-      },
-      {
-        "objectName": "Retry"
-      },
-      {
-        "objectName": "Home"
       }
     ]
   },
@@ -15292,6 +15142,16 @@
             "2",
             "",
             "GlobalVariable(Settings.Music)",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "PinkMan",
+            "PlatformerObject",
             ""
           ]
         }
