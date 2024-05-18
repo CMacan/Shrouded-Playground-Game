@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.8993607583666847,
+    "zoomFactor": 0.7370816317994217,
     "windowMask": false
   },
   "objectsGroups": [
@@ -10838,7 +10838,15 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "AnimatedBackAndForthMirroredMovement",
+          "type": "AnimatedBackAndForthMovement::AnimatedBackAndForthMirroredMovement",
+          "SpeedX": 100,
+          "DistanceX": 200,
+          "InitialX": 0
+        }
+      ],
       "animations": [
         {
           "name": "Idle",
@@ -16200,6 +16208,12 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -16316,6 +16330,23 @@
                 "Life",
                 "-",
                 "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Bat",
+                "Animation",
+                "=",
+                "\"Flying\""
               ]
             }
           ]
