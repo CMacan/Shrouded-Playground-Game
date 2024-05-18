@@ -4396,6 +4396,17 @@
         },
         {
           "type": {
+            "value": "LireFichierTxt"
+          },
+          "parameters": [
+            "\"Settings\"",
+            "\"Settings\"",
+            "",
+            "TempSettings"
+          ]
+        },
+        {
+          "type": {
             "value": "PlayMusicCanal"
           },
           "parameters": [
@@ -4405,17 +4416,6 @@
             "",
             "100",
             ""
-          ]
-        },
-        {
-          "type": {
-            "value": "LireFichierTxt"
-          },
-          "parameters": [
-            "\"Settings\"",
-            "\"Settings\"",
-            "",
-            "TempSettings"
           ]
         },
         {

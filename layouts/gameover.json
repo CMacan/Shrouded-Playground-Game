@@ -5,7 +5,7 @@
   "name": "GameOver",
   "r": 170,
   "standardSortMethod": true,
-  "stopSoundsOnStartup": true,
+  "stopSoundsOnStartup": false,
   "title": "",
   "v": 173,
   "uiSettings": {
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.4057518905943907,
+    "zoomFactor": 0.47893418845353436,
     "windowMask": false
   },
   "objectsGroups": [
@@ -15134,6 +15134,16 @@
         },
         {
           "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "PinkMan",
+            "PlatformerObject",
+            ""
+          ]
+        },
+        {
+          "type": {
             "value": "PlayMusicCanal"
           },
           "parameters": [
@@ -15144,18 +15154,13 @@
             "GlobalVariable(Settings.Music)",
             ""
           ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "PinkMan",
-            "PlatformerObject",
-            ""
-          ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     },
     {
       "colorB": 228,
@@ -16296,19 +16301,6 @@
                 "",
                 "1.5",
                 "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "JDSherbert - Ambiences Music Pack - Swamp of Digeridoos.mp3",
-                "2",
-                "yes",
-                "GlobalVariable(Settings.Music)",
                 ""
               ]
             }
