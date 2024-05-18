@@ -391,6 +391,10 @@
   ],
   "behaviorsSharedData": [
     {
+      "name": "Animation",
+      "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
       "name": "ButtonFSM",
       "type": "ButtonStates::ButtonFSM"
     },
