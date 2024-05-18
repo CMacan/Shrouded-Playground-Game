@@ -15720,6 +15720,18 @@
                     },
                     {
                       "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "Enemy 2.wav",
+                        "",
+                        "GlobalVariable(Settings.Sound)",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "ActivateBehavior"
                       },
                       "parameters": [
@@ -15844,6 +15856,18 @@
                     },
                     {
                       "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "Enemy 2.wav",
+                        "",
+                        "GlobalVariable(Settings.Sound)",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "PlatformBehavior::SimulateControl"
                       },
                       "parameters": [
@@ -15873,6 +15897,35 @@
                     }
                   ]
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "PinkMan",
+                "Laser",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Life",
+                "-",
+                "1"
               ]
             }
           ]
@@ -16276,6 +16329,16 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Life",
+                "-",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "MettreXY"

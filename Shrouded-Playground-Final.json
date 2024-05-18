@@ -14560,6 +14560,16 @@
         "name": "Retro.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "file": "Enemy 2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Enemy 2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
