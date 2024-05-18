@@ -12471,7 +12471,7 @@
         "alwaysLoaded": false,
         "file": "assets/Laser_Idle_7.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Laser_Idle_7.png\",\"extension\":\".png\"}",
         "name": "Laser_Idle_7.png",
         "smoothed": false,
         "userAdded": false,
@@ -14302,13 +14302,424 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Opening (46x56).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Opening (46x56).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/open.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "open",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Opening (46x56)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Opening (46x56)2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/open2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "open2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/open3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "open3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/open4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "open4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/open5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "open5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Closiong (46x56).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Closiong (46x56).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/close.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "close",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/close2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "close2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/close3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "close3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "Success 1.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Success 1.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "Retro Blop 07.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Retro Blop 07.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "Retro Blop 18.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Retro Blop 18.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "LevelComplete_Fullscreen.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"LevelComplete_Fullscreen.png\",\"extension\":\".png\"}",
+        "name": "LevelComplete_Fullscreen.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Star Gold.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "80254157b7c3e874fc5c872eac09af4a337ee1b92e48fe67421d354547a471fc_Star Gold.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Breakable Physics/Star/80254157b7c3e874fc5c872eac09af4a337ee1b92e48fe67421d354547a471fc_Star Gold.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gold star.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "d2c87a6e3ac348938548c317e0ef9609d267e8b4ddd1438cccedb4117b5862e0_Gold star.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/PNG/Power-ups/d2c87a6e3ac348938548c317e0ef9609d267e8b4ddd1438cccedb4117b5862e0_Gold star.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Star_Filled.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4cc60e720c2dda98acb50c579025e272cf6b2421f1b65b4029c36920135f1e83_Star_Filled.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Rolling Ball Pack/Interface/4cc60e720c2dda98acb50c579025e272cf6b2421f1b65b4029c36920135f1e83_Star_Filled.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprite2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprite2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sprite3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Tangerine-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "3c044e6b9e82a6725e40c74eda3bd2afaf9a37052629dc897dd34d97822c36bd_Tangerine-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/3c044e6b9e82a6725e40c74eda3bd2afaf9a37052629dc897dd34d97822c36bd_Tangerine-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Silkscreen-Bold.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "ecf7f6cb89e16c44e3b5a9c8abb703ba6cbc52eb8529353125f4f5caed404144_Silkscreen-Bold.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/ecf7f6cb89e16c44e3b5a9c8abb703ba6cbc52eb8529353125f4f5caed404144_Silkscreen-Bold.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "RetroGaming.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "RetroGaming.fnt",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RetroGaming.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RetroGaming.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "Retro.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Retro.fnt",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Retro.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Retro.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
   },
-  "objects": [],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Retry",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "Sprite1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Sprite2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 14
+                      },
+                      {
+                        "x": 0,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Home",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "Sprite0",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Sprite02",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 14
+                      },
+                      {
+                        "x": 0,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Retry"
+      },
+      {
+        "objectName": "Home"
+      }
+    ]
   },
   "objectsGroups": [
     {
@@ -14394,6 +14805,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/gameover"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/levelcomplete"
     }
   ],
   "externalEvents": [],
