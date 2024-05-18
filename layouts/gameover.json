@@ -1,24 +1,24 @@
 {
   "b": 173,
   "disableInputWhenNotFocused": true,
-  "mangledName": "FirstScene",
-  "name": "FirstScene",
+  "mangledName": "GameOver",
+  "name": "GameOver",
   "r": 170,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
   "title": "",
   "v": 173,
   "uiSettings": {
-    "grid": false,
+    "grid": true,
     "gridType": "rectangular",
-    "gridWidth": 32,
-    "gridHeight": 32,
+    "gridWidth": 40,
+    "gridHeight": 40,
     "gridOffsetX": 0,
     "gridOffsetY": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
-    "snap": false,
-    "zoomFactor": 0.2725359896772988,
+    "snap": true,
+    "zoomFactor": 0.4950840073748989,
     "windowMask": false
   },
   "objectsGroups": [
@@ -1236,6 +1236,73 @@
       "x": 844,
       "y": 403,
       "zOrder": 66,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 884,
+      "keepRatio": true,
+      "layer": "blur",
+      "name": "blur",
+      "persistentUuid": "85af7061-6ef7-432b-9057-2a8919be5f1f",
+      "width": 1470,
+      "x": -70,
+      "y": -84,
+      "zOrder": 78,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "blur",
+      "name": "GameOver",
+      "persistentUuid": "c7592466-a848-494e-acf0-e73493156935",
+      "width": 0,
+      "x": 409,
+      "y": 240,
+      "zOrder": 79,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 6.666666666666666,
+      "height": 100,
+      "keepRatio": true,
+      "layer": "blur",
+      "name": "Retry",
+      "persistentUuid": "baf7cc3d-39e1-47b8-9416-2e529bf76c90",
+      "width": 100,
+      "x": 466,
+      "y": 320,
+      "zOrder": 80,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "keepRatio": true,
+      "layer": "blur",
+      "name": "Home",
+      "persistentUuid": "a8d28e13-e987-4d27-a6ea-3675500728b1",
+      "width": 100,
+      "x": 628,
+      "y": 320,
+      "zOrder": 81,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -14874,6 +14941,180 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "blur",
+      "texture": "NewTiledSprite2",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "name": "GameOver",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Game Over",
+        "opacity": 255,
+        "scale": 1,
+        "fontSize": 20,
+        "tint": "0;153;219",
+        "bitmapFontResourceName": "Pixel2.fnt",
+        "textureAtlasResourceName": "Pixel3.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Retry",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "Sprite1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Sprite2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 14
+                      },
+                      {
+                        "x": 0,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Home",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "Sprite0",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Sprite02",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 14
+                      },
+                      {
+                        "x": 0,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -15001,10 +15242,169 @@
       },
       {
         "objectName": "Block"
+      },
+      {
+        "objectName": "blur"
+      },
+      {
+        "objectName": "GameOver"
+      },
+      {
+        "objectName": "Retry"
+      },
+      {
+        "objectName": "Home"
       }
     ]
   },
   "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "blur",
+            "Opacity",
+            "=",
+            "200"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "Game Over 1.wav",
+            "2",
+            "",
+            "GlobalVariable(Settings.Music)",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "GAME OVER BUTTONS",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Retry",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "MI_SFX 03.mp3",
+                "1",
+                "100",
+                "GlobalVariable(Settings.Sound)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"FirstScene\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Home",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "MI_SFX 03.mp3",
+                "1",
+                "100",
+                "GlobalVariable(Settings.Sound)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"MenuScene\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
     {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
@@ -15028,18 +15428,6 @@
             "SceneTransition",
             "=",
             "\"MenuScene\""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlaySound"
-          },
-          "parameters": [
-            "",
-            "MI_SFX 03.mp3",
-            "",
-            "GlobalVariable(Settings.Sound)",
-            ""
           ]
         },
         {
@@ -15092,17 +15480,6 @@
             },
             {
               "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "PinkMan",
-                "Animation",
-                "=",
-                "\"Hit\""
-              ]
-            },
-            {
-              "type": {
                 "value": "MettreXY"
               },
               "parameters": [
@@ -15132,17 +15509,6 @@
             }
           ],
           "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "PinkMan",
-                "Animation",
-                "=",
-                "\"Hit\""
-              ]
-            },
             {
               "type": {
                 "value": "MettreXY"
@@ -15182,17 +15548,6 @@
                 "Life",
                 "-",
                 "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "PinkMan",
-                "Animation",
-                "=",
-                "\"Hit\""
               ]
             },
             {
@@ -15921,7 +16276,7 @@
               },
               "parameters": [
                 "",
-                "Hit2.wav",
+                "Hit 1.wav",
                 "",
                 "GlobalVariable(Settings.Sound)",
                 ""
@@ -15975,7 +16330,7 @@
               },
               "parameters": [
                 "",
-                "Hit2.wav",
+                "Hit 1.wav",
                 "",
                 "GlobalVariable(Settings.Sound)",
                 ""
@@ -16029,7 +16384,7 @@
               },
               "parameters": [
                 "",
-                "Hit2.wav",
+                "Hit 1.wav",
                 "",
                 "GlobalVariable(Settings.Sound)",
                 ""
@@ -16044,16 +16399,6 @@
                 "Animation",
                 "=",
                 "\"Hit\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"GameOver\"",
-                ""
               ]
             }
           ]
@@ -16287,6 +16632,39 @@
       "isLightingLayer": false,
       "isLocked": false,
       "name": "Boundary",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "blur",
       "renderingType": "",
       "visibility": true,
       "cameras": [],

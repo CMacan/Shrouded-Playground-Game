@@ -14135,6 +14135,173 @@
         "name": "Floating Out Button Dark Blue_Idle.png2",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "file": "Retro PickUp Coin 07.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Retro PickUp Coin 07.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "JDSherbert - Ambiences Music Pack - Swamp of Digeridoos.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "JDSherbert - Ambiences Music Pack - Swamp of Digeridoos.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/blink.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "blink",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameOver_Fullscreen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameOver_Fullscreen.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Replay.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Replay.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Home.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Home.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprite-0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprite-0001.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sprite-0001.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Sprite-0001.png\"}",
+        "name": "Sprite-0001",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprite0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprite0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sprite0.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sprite0",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprite1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprite1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sprite1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sprite1",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sprite2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sprite02.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sprite02",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "Game Over 1.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Game Over 1.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "Hit 1.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hit 1.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "Hit2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hit2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -14158,6 +14325,9 @@
         },
         {
           "name": "Back"
+        },
+        {
+          "name": "ClickAnywhere"
         }
       ]
     }
@@ -14192,6 +14362,12 @@
       "name": "score",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "WasJumping",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -14214,6 +14390,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/secondscene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/gameover"
     }
   ],
   "externalEvents": [],

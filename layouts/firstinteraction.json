@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.4481978045410361,
+    "zoomFactor": 0.3553434558816989,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -26,33 +26,33 @@
   "instances": [
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 338,
-      "height": 802,
+      "customSize": false,
+      "height": 0,
       "keepRatio": true,
-      "layer": "",
-      "name": "FloatingOutButtonDarkBlue",
-      "persistentUuid": "2a7cdaa6-e22c-4442-bd5c-3a0d43c293b6",
-      "width": 1399,
-      "x": -46,
-      "y": -35,
-      "zOrder": 1,
+      "layer": "Front",
+      "name": "Click",
+      "persistentUuid": "48912761-166b-43b1-ad9a-3b59c2e15fd2",
+      "width": 0,
+      "x": 384,
+      "y": 351,
+      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 48,
+      "height": 798,
       "keepRatio": true,
-      "layer": "Text",
-      "name": "ClickAnywhere",
-      "persistentUuid": "48912761-166b-43b1-ad9a-3b59c2e15fd2",
-      "width": 0,
-      "x": 384,
-      "y": 351,
-      "zOrder": 2,
+      "layer": "",
+      "name": "FloatingOutButtonDarkBlue",
+      "persistentUuid": "e0b0b612-0965-4a8a-b342-0a5932f51f5e",
+      "width": 1367,
+      "x": -32,
+      "y": -32,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -144,11 +144,35 @@
     },
     {
       "assetStoreId": "",
-      "name": "ClickAnywhere",
+      "name": "Click",
       "type": "BitmapText::BitmapTextObject",
       "variables": [],
-      "effects": [],
-      "behaviors": [],
+      "effects": [
+        {
+          "effectType": "Outline",
+          "name": "Effect",
+          "doubleParameters": {
+            "padding": 4,
+            "thickness": 2
+          },
+          "stringParameters": {
+            "color": "109;175;253"
+          },
+          "booleanParameters": {}
+        }
+      ],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
       "content": {
         "text": "Click Anywhere to Start...",
         "opacity": 255,
@@ -169,7 +193,7 @@
         "objectName": "FloatingOutButtonDarkBlue"
       },
       {
-        "objectName": "ClickAnywhere"
+        "objectName": "Click"
       }
     ]
   },
@@ -206,6 +230,63 @@
             "",
             "\"TransitionScene\"",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsHovered"
+          },
+          "parameters": [
+            "Click",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "EffectCapability::EffectBehavior::EnableEffect"
+          },
+          "parameters": [
+            "Click",
+            "Effect",
+            "\"Effect\"",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": true,
+            "value": "ButtonStates::ButtonFSM::IsHovered"
+          },
+          "parameters": [
+            "Click",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "EffectCapability::EffectBehavior::EnableEffect"
+          },
+          "parameters": [
+            "Click",
+            "Effect",
+            "\"Effect\"",
+            "no"
           ]
         }
       ]
@@ -267,7 +348,7 @@
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "isLocked": false,
-      "name": "Text",
+      "name": "Front",
       "renderingType": "",
       "visibility": true,
       "cameras": [],
@@ -291,6 +372,10 @@
     }
   ],
   "behaviorsSharedData": [
+    {
+      "name": "ButtonFSM",
+      "type": "ButtonStates::ButtonFSM"
+    },
     {
       "name": "Effect",
       "type": "EffectCapability::EffectBehavior"
