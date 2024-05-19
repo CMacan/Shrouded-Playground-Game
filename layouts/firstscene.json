@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.384119804630731,
+    "zoomFactor": 1.0973679695629885,
     "windowMask": false
   },
   "objectsGroups": [
@@ -439,8 +439,8 @@
       "name": "OrangeGrass9patch",
       "persistentUuid": "9ee99c79-b0d4-44c3-8921-288d1d9d8603",
       "width": 117,
-      "x": 569,
-      "y": 424,
+      "x": 570,
+      "y": 425,
       "zOrder": 57,
       "numberProperties": [],
       "stringProperties": [],
@@ -18359,14 +18359,6 @@
               "actions": [
                 {
                   "type": {
-                    "value": "ToggleGlobalVariableAsBoolean"
-                  },
-                  "parameters": [
-                    "trap"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "MettreXY"
                   },
                   "parameters": [
@@ -18376,42 +18368,13 @@
                     "=",
                     "617"
                   ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "ObjectVariableAsBoolean"
-                  },
-                  "parameters": [
-                    "Checkpoint",
-                    "is_picked",
-                    "True"
-                  ]
-                }
-              ],
-              "actions": [
+                },
                 {
                   "type": {
                     "value": "ToggleGlobalVariableAsBoolean"
                   },
                   "parameters": [
                     "trap"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "PinkMan",
-                    "=",
-                    "534",
-                    "=",
-                    "194"
                   ]
                 }
               ]
@@ -18477,6 +18440,43 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Checkpoint",
+                    "is_picked",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "=",
+                    "534",
+                    "=",
+                    "194"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ToggleGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "trap"
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -18515,6 +18515,43 @@
             }
           ],
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Checkpoint",
+                    "is_picked",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "=",
+                    "534",
+                    "=",
+                    "194"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ToggleGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "trap"
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -18587,6 +18624,43 @@
                   "parameters": [
                     "Checkpoint",
                     "is_picked",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "=",
+                    "534",
+                    "=",
+                    "194"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ToggleGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "trap"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Checkpoint",
+                    "is_picked",
                     ""
                   ]
                 }
@@ -18639,6 +18713,43 @@
             }
           ],
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Checkpoint",
+                    "is_picked",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "=",
+                    "534",
+                    "=",
+                    "194"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ToggleGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "trap"
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -18711,6 +18822,43 @@
                   "parameters": [
                     "Checkpoint",
                     "is_picked",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "=",
+                    "534",
+                    "=",
+                    "194"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ToggleGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "trap"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Checkpoint",
+                    "is_picked",
                     ""
                   ]
                 }
@@ -18763,6 +18911,43 @@
             }
           ],
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Checkpoint",
+                    "is_picked",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "=",
+                    "534",
+                    "=",
+                    "194"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ToggleGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "trap"
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
