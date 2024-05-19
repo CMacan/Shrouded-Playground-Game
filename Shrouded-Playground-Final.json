@@ -15137,6 +15137,198 @@
         "name": "Activate64",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Heart.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Heart.png\",\"extension\":\".png\"}",
+        "name": "Heart.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Health Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health Bar.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Heart2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Heart2.png\",\"extension\":\".png\"}",
+        "name": "Heart2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Heart3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Heart3.png\",\"extension\":\".png\"}",
+        "name": "Heart3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_10.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_10.png\",\"extension\":\".png\"}",
+        "name": "da7f14e2f61de0a31589cc01088297544eb04e0755ff073f39033b588b9c4ce7_Checkpoint_Flag Idle_10.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/da7f14e2f61de0a31589cc01088297544eb04e0755ff073f39033b588b9c4ce7_Checkpoint_Flag Idle_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_1.png\",\"extension\":\".png\"}",
+        "name": "e9603a49186ca546adbd22049218a8ad1904a00eb03de273e1c4603ac73954f6_Checkpoint_Flag Idle_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/e9603a49186ca546adbd22049218a8ad1904a00eb03de273e1c4603ac73954f6_Checkpoint_Flag Idle_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_2.png\",\"extension\":\".png\"}",
+        "name": "ac49399c818106490a7c7798873a869c498526bed411177a93c0b9b98eea6e8c_Checkpoint_Flag Idle_2.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/ac49399c818106490a7c7798873a869c498526bed411177a93c0b9b98eea6e8c_Checkpoint_Flag Idle_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_3.png\",\"extension\":\".png\"}",
+        "name": "7ee7d4dab7349c54f93a0b00e38ba3d2750a2526578ea954ee12b9b62e4f4a8d_Checkpoint_Flag Idle_3.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/7ee7d4dab7349c54f93a0b00e38ba3d2750a2526578ea954ee12b9b62e4f4a8d_Checkpoint_Flag Idle_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_4.png\",\"extension\":\".png\"}",
+        "name": "7ee7d4dab7349c54f93a0b00e38ba3d2750a2526578ea954ee12b9b62e4f4a8d_Checkpoint_Flag Idle_4.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/7ee7d4dab7349c54f93a0b00e38ba3d2750a2526578ea954ee12b9b62e4f4a8d_Checkpoint_Flag Idle_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_5.png\",\"extension\":\".png\"}",
+        "name": "7a227de1baea3b5560bc92293742f97589895698913710ab9bd96ccda295a8b6_Checkpoint_Flag Idle_5.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/7a227de1baea3b5560bc92293742f97589895698913710ab9bd96ccda295a8b6_Checkpoint_Flag Idle_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_6.png\",\"extension\":\".png\"}",
+        "name": "7a227de1baea3b5560bc92293742f97589895698913710ab9bd96ccda295a8b6_Checkpoint_Flag Idle_6.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/7a227de1baea3b5560bc92293742f97589895698913710ab9bd96ccda295a8b6_Checkpoint_Flag Idle_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_7.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_7.png\",\"extension\":\".png\"}",
+        "name": "b47cdb8cadece4bb70574fedc267f2956b9742e43cefa54d6ba68e4ea5721ebe_Checkpoint_Flag Idle_7.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/b47cdb8cadece4bb70574fedc267f2956b9742e43cefa54d6ba68e4ea5721ebe_Checkpoint_Flag Idle_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_8.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_8.png\",\"extension\":\".png\"}",
+        "name": "b47cdb8cadece4bb70574fedc267f2956b9742e43cefa54d6ba68e4ea5721ebe_Checkpoint_Flag Idle_8.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/b47cdb8cadece4bb70574fedc267f2956b9742e43cefa54d6ba68e4ea5721ebe_Checkpoint_Flag Idle_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_9.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Idle_9.png\",\"extension\":\".png\"}",
+        "name": "da7f14e2f61de0a31589cc01088297544eb04e0755ff073f39033b588b9c4ce7_Checkpoint_Flag Idle_9.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/da7f14e2f61de0a31589cc01088297544eb04e0755ff073f39033b588b9c4ce7_Checkpoint_Flag Idle_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "c0850ce27c762a34cee3f329cac9c253b42fed395a352fe9be2f31fc28b7d25b_Checkpoint_Flag Out_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/c0850ce27c762a34cee3f329cac9c253b42fed395a352fe9be2f31fc28b7d25b_Checkpoint_Flag Out_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_8.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Checkpoint_Flag Out_8.png\",\"extension\":\".png\"}",
+        "name": "4bc4bb15d64f71d991a50ff1d55b337c9d73312b7f5348c94d67ba4b876e40c5_Checkpoint_Flag Out_8.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/4bc4bb15d64f71d991a50ff1d55b337c9d73312b7f5348c94d67ba4b876e40c5_Checkpoint_Flag Out_8.png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -15356,6 +15548,12 @@
       "name": "WasJumping",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "trap",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
