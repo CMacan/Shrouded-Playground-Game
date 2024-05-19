@@ -1266,7 +1266,7 @@
       "name": "GameOver",
       "persistentUuid": "c7592466-a848-494e-acf0-e73493156935",
       "width": 0,
-      "x": 409,
+      "x": 375,
       "y": 240,
       "zOrder": 79,
       "numberProperties": [],
@@ -1276,15 +1276,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 6.666666666666666,
+      "depth": 0,
       "height": 100,
       "keepRatio": true,
       "layer": "blur",
       "name": "Retry",
       "persistentUuid": "baf7cc3d-39e1-47b8-9416-2e529bf76c90",
       "width": 100,
-      "x": 466,
-      "y": 320,
+      "x": 520,
+      "y": 344,
       "zOrder": 80,
       "numberProperties": [],
       "stringProperties": [],
@@ -1300,8 +1300,8 @@
       "name": "Home",
       "persistentUuid": "a8d28e13-e987-4d27-a6ea-3675500728b1",
       "width": 100,
-      "x": 628,
-      "y": 320,
+      "x": 680,
+      "y": 344,
       "zOrder": 81,
       "numberProperties": [],
       "stringProperties": [],
@@ -14963,11 +14963,11 @@
       "content": {
         "text": "Game Over",
         "opacity": 255,
-        "scale": 1,
+        "scale": 1.2,
         "fontSize": 20,
         "tint": "0;153;219",
-        "bitmapFontResourceName": "Pixel2.fnt",
-        "textureAtlasResourceName": "Pixel3.png",
+        "bitmapFontResourceName": "pixel_new.fnt",
+        "textureAtlasResourceName": "pixel_new.png",
         "align": "left",
         "wordWrap": true
       }
@@ -15176,13 +15176,18 @@
           "conditions": [
             {
               "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Retry",
-                "ButtonFSM",
-                ""
+                "Button",
+                "True"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -15197,6 +15202,39 @@
                 "100",
                 "GlobalVariable(Settings.Sound)",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ToggleGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "Button"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Retry",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ToggleGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "Button"
               ]
             },
             {
@@ -15236,15 +15274,10 @@
           "actions": [
             {
               "type": {
-                "value": "PlaySoundCanal"
+                "value": "ToggleGlobalVariableAsBoolean"
               },
               "parameters": [
-                "",
-                "MI_SFX 03.mp3",
-                "1",
-                "100",
-                "GlobalVariable(Settings.Sound)",
-                ""
+                "Button"
               ]
             },
             {
@@ -15266,46 +15299,184 @@
               ]
             }
           ]
-        }
-      ],
-      "parameters": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
+        },
         {
-          "type": {
-            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-          },
-          "parameters": [
-            "SettingsBtn",
-            "ButtonFSM",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "ModVarGlobalTxt"
-          },
-          "parameters": [
-            "SceneTransition",
-            "=",
-            "\"MenuScene\""
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "Retry",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Retry",
+                "Effect",
+                "\"Effect\"",
+                "yes"
+              ]
+            }
           ]
         },
         {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"TransitionScene\"",
-            ""
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "Retry",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Retry",
+                "Effect",
+                "\"Effect\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "Home",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Home",
+                "Effect",
+                "\"Effect\"",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "Home",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Home",
+                "Effect",
+                "\"Effect\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "SettingsBtn",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarGlobalTxt"
+              },
+              "parameters": [
+                "SceneTransition",
+                "=",
+                "\"MenuScene\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"TransitionScene\"",
+                ""
+              ]
+            }
           ]
         }
-      ]
+      ],
+      "parameters": []
     },
     {
       "colorB": 228,

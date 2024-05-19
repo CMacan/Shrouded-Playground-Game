@@ -15329,6 +15329,22 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/4bc4bb15d64f71d991a50ff1d55b337c9d73312b7f5348c94d67ba4b876e40c5_Checkpoint_Flag Out_8.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "pixel_new.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "pixel_new.fnt",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixel_new.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel_new.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -15341,7 +15357,20 @@
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "Outline",
+          "name": "Effect",
+          "doubleParameters": {
+            "padding": 3,
+            "thickness": 2
+          },
+          "stringParameters": {
+            "color": "255;255;255"
+          },
+          "booleanParameters": {}
+        }
+      ],
       "behaviors": [
         {
           "name": "ButtonFSM",
@@ -15413,7 +15442,20 @@
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "Outline",
+          "name": "Effect",
+          "doubleParameters": {
+            "padding": 3,
+            "thickness": 2
+          },
+          "stringParameters": {
+            "color": "255;255;255"
+          },
+          "booleanParameters": {}
+        }
+      ],
       "behaviors": [
         {
           "name": "ButtonFSM",
@@ -15552,6 +15594,12 @@
     {
       "folded": true,
       "name": "trap",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "Button",
       "type": "boolean",
       "value": false
     }
