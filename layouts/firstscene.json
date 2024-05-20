@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.1726229638178056,
+    "zoomFactor": 0.6040838749989104,
     "windowMask": false
   },
   "objectsGroups": [
@@ -637,8 +637,8 @@
       "name": "GoldCoin",
       "persistentUuid": "eb1e467d-2ec0-47f2-99e7-5cff83aab194",
       "width": 0,
-      "x": 456,
-      "y": 269,
+      "x": 635,
+      "y": 158,
       "zOrder": 66,
       "numberProperties": [],
       "stringProperties": [],
@@ -653,8 +653,8 @@
       "name": "GoldCoin",
       "persistentUuid": "4334f17b-4f72-437e-9d56-06eb6d0d4804",
       "width": 0,
-      "x": 523,
-      "y": 269,
+      "x": 521,
+      "y": 267,
       "zOrder": 66,
       "numberProperties": [],
       "stringProperties": [],
@@ -669,8 +669,8 @@
       "name": "GoldCoin",
       "persistentUuid": "47e152fe-475c-4024-a915-2a5adf426623",
       "width": 0,
-      "x": 585,
-      "y": 269,
+      "x": 631,
+      "y": 389,
       "zOrder": 66,
       "numberProperties": [],
       "stringProperties": [],
@@ -1180,8 +1180,8 @@
       "name": "GoldCoin",
       "persistentUuid": "41195324-74f9-4f48-8dab-f0b1a5fea5d3",
       "width": 0,
-      "x": 734,
-      "y": 530,
+      "x": 957,
+      "y": 608,
       "zOrder": 66,
       "numberProperties": [],
       "stringProperties": [],
@@ -1365,8 +1365,8 @@
       "name": "Bat",
       "persistentUuid": "19eae6ff-b47a-450e-a8b1-e4cad6ad4fd7",
       "width": 41,
-      "x": 1181,
-      "y": 350,
+      "x": 923,
+      "y": 647,
       "zOrder": 71,
       "numberProperties": [],
       "stringProperties": [],
@@ -7431,7 +7431,14 @@
       "name": "FallingPlatform",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "play_sound",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "effects": [],
       "behaviors": [
         {
@@ -18364,6 +18371,18 @@
                 "=",
                 "\"picked\""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Retro PowerUP 23.wav",
+                "",
+                "GlobalVariable(Settings.Sound)",
+                ""
+              ]
             }
           ]
         },
@@ -19066,7 +19085,7 @@
             },
             {
               "type": {
-                "value": "ModVarScene"
+                "value": "ModVarGlobal"
               },
               "parameters": [
                 "score",
@@ -19100,7 +19119,7 @@
                 "ScoreText",
                 "Text",
                 "=",
-                "\"Score: \" + VariableString(score)"
+                "\"Score: \" + GlobalVariableString(score)"
               ]
             }
           ]
@@ -19406,13 +19425,35 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Life",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -20115,6 +20156,16 @@
             },
             {
               "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
@@ -20271,6 +20322,12 @@
                 "FallingPlatform",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -20330,6 +20387,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "LEVEL COMPLETE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -20402,6 +20460,14 @@
             },
             {
               "type": {
+                "value": "ToggleGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "level_complete"
+              ]
+            },
+            {
+              "type": {
                 "value": "Wait"
               },
               "parameters": [
@@ -20450,6 +20516,11 @@
         }
       ],
       "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [
