@@ -18353,16 +18353,6 @@
           "actions": [
             {
               "type": {
-                "value": "SetObjectVariableAsBoolean"
-              },
-              "parameters": [
-                "Checkpoint",
-                "is_picked",
-                "True"
-              ]
-            },
-            {
-              "type": {
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
@@ -18371,17 +18361,46 @@
                 "=",
                 "\"picked\""
               ]
-            },
+            }
+          ],
+          "events": [
             {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "Retro PowerUP 23.wav",
-                "",
-                "GlobalVariable(Settings.Sound)",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Checkpoint",
+                    "is_picked",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Retro PowerUP 23.wav",
+                    "",
+                    "GlobalVariable(Settings.Sound)",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Checkpoint",
+                    "is_picked",
+                    "True"
+                  ]
+                }
               ]
             }
           ]
@@ -19265,6 +19284,16 @@
                     "PinkMan",
                     "PlatformerObject"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    ">",
+                    "GloppySlime.CenterX()"
+                  ]
                 }
               ],
               "actions": [
@@ -19276,6 +19305,97 @@
                     "Life",
                     "-",
                     "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "600",
+                    "0",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.15"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "PinkMan"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "<",
+                    "GloppySlime.CenterX()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Life",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "-600",
+                    "0",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.15"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "PinkMan"
                   ]
                 }
               ]
@@ -20519,8 +20639,41 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
+      "conditions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "PinkMan",
+            "Animation",
+            "=",
+            "\"Hit\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+          },
+          "parameters": [
+            "PinkMan",
+            "Animation"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "PinkMan",
+            "Animation",
+            "=",
+            "\"Idle\""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
