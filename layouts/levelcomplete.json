@@ -2856,6 +2856,16 @@
                 "<=",
                 "7"
               ]
+            },
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "score",
+                ">",
+                "0"
+              ]
             }
           ],
           "actions": [

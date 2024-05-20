@@ -16982,6 +16982,43 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/159b51227e8aa6d37f3a01b5e5d00c6c020a20a4b78f1b84f0a0df88d6e4a35d_Trunk 1.png",
           "name": "Trunk 1.png"
         }
+      },
+      {
+        "file": "assets/Grass Leafs Large.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Grass Leafs Large.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Nature/Plant/c74057f1047f41683a98b4405c2b9fd033a88bb3cdbd85d5ba575a15d439a03b_Grass Leafs Large.glb",
+          "name": "Grass Leafs Large.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tree 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tree 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Background Element/Plant/dfa57489ad1dbb8ae7589165e7ee2bdd13997a866e9c329dc45b417dba23c17a_Tree 2.png",
+          "name": "Tree 2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Palm tree.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Palm tree.png\",\"extension\":\".png\"}",
+        "name": "Palm tree.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Plant/7aedb2f01f10626d3e50311155624125089de15d25c6beeb8892dd95f664343d_Palm tree.png",
+          "name": "Palm tree.png"
+        }
       }
     ],
     "resourceFolders": []

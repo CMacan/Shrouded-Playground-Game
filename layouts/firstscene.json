@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5468750000000322,
+    "zoomFactor": 0.604083874998924,
     "windowMask": false
   },
   "objectsGroups": [
@@ -424,7 +424,7 @@
       "width": 150,
       "x": 455,
       "y": 292,
-      "zOrder": 56,
+      "zOrder": 40,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -441,7 +441,7 @@
       "width": 117,
       "x": 570,
       "y": 425,
-      "zOrder": 57,
+      "zOrder": 59,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1804,23 +1804,6 @@
       "keepRatio": true,
       "layer": "",
       "name": "BushForeground",
-      "persistentUuid": "9b3c835e-20ba-4390-befe-3da3cac11e97",
-      "width": 64,
-      "x": 183,
-      "y": 622,
-      "zOrder": 33,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 33,
-      "keepRatio": true,
-      "layer": "",
-      "name": "BushForeground",
       "persistentUuid": "cd92c78d-0263-4cb2-9f9e-11ccaa352c64",
       "width": 64,
       "x": 231,
@@ -1909,38 +1892,6 @@
       "width": 0,
       "x": 181,
       "y": 630,
-      "zOrder": 86,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "GrassForeground",
-      "persistentUuid": "f6dfdad8-9077-4472-8e88-f9d166780eea",
-      "width": 0,
-      "x": 84,
-      "y": 631,
-      "zOrder": 86,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "GrassForeground",
-      "persistentUuid": "cc4b98ea-0b38-4f78-8cb2-f52503f94c66",
-      "width": 0,
-      "x": 62,
-      "y": 631,
       "zOrder": 86,
       "numberProperties": [],
       "stringProperties": [],
@@ -2051,43 +2002,11 @@
       "keepRatio": true,
       "layer": "",
       "name": "BushForeground",
-      "persistentUuid": "bf843406-0a68-4ec8-b823-ad76e800e9cc",
-      "width": 0,
-      "x": 892,
-      "y": 527,
-      "zOrder": 80,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "BushForeground",
       "persistentUuid": "740c17b6-283c-4ff1-8f42-53668612f56a",
       "width": 0,
       "x": 845,
       "y": 527,
       "zOrder": 89,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "GrassForeground",
-      "persistentUuid": "749530c3-7e22-4f7e-9c77-c7990ac1cfc4",
-      "width": 0,
-      "x": 880,
-      "y": 526,
-      "zOrder": 90,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2246,8 +2165,8 @@
       "name": "GrassForeground",
       "persistentUuid": "8dae4188-ac80-4ee1-8b16-96207bd8b2df",
       "width": 0,
-      "x": 13,
-      "y": 631,
+      "x": 52,
+      "y": 630,
       "zOrder": 86,
       "numberProperties": [],
       "stringProperties": [],
@@ -2708,22 +2627,6 @@
       "keepRatio": true,
       "layer": "",
       "name": "GrassForeground",
-      "persistentUuid": "3b5a9159-6a4f-467e-ab6b-c83d857ae7cb",
-      "width": 0,
-      "x": 765,
-      "y": 653,
-      "zOrder": 90,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "GrassForeground",
       "persistentUuid": "8ffc4ac3-1419-4691-8b20-4394cbe49d5b",
       "width": 0,
       "x": 780,
@@ -2753,32 +2656,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 17,
+      "height": 46,
       "keepRatio": true,
       "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "17435ffc-0d21-4a3e-9413-e63522e0cbd8",
-      "width": 16,
-      "x": 450,
-      "y": 397,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "783bc409-9089-4684-ae84-f4e1438486bd",
-      "width": 21,
+      "name": "OrangeGrass9patch",
+      "persistentUuid": "48f93ae5-0e57-4977-83ae-fba195ec1415",
+      "width": 142,
       "x": 455,
-      "y": 405,
-      "zOrder": 93,
+      "y": 674,
+      "zOrder": 58,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2787,423 +2673,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 19,
+      "height": 384,
       "keepRatio": true,
       "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "25e5d228-ab7d-42fe-9955-70c1fedcd2e9",
-      "width": 21,
-      "x": 462,
-      "y": 392,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "c5221fe3-54fd-4af0-aa52-e536d7bdc122",
-      "width": 21,
-      "x": 437,
-      "y": 382,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "36ec2542-4e89-44b5-8be8-dc50565a8fc8",
-      "width": 16,
-      "x": 430,
-      "y": 395,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "cb26675a-9cfc-48ce-a525-82bf5f9babcb",
-      "width": 16,
-      "x": 453,
-      "y": 374,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "2c45b9df-7b29-47a6-98fe-807f205040ac",
-      "width": 16,
-      "x": 475,
-      "y": 384,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "5ffec0c1-7cb2-49da-848b-b60b88496103",
-      "width": 16,
-      "x": 462,
-      "y": 383,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "a886fdff-aca9-4105-8c1e-c46c3d85e823",
-      "width": 16,
-      "x": 471,
-      "y": 418,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "ea8763be-1f34-4737-a844-3c2bcbaca340",
-      "width": 21,
-      "x": 458,
-      "y": 366,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "31ac5160-b21c-4211-b24b-8b3300060da7",
-      "width": 21,
-      "x": 475,
-      "y": 359,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "405c48d6-8d24-42a1-8663-a80703f48518",
-      "width": 21,
-      "x": 482,
-      "y": 370,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "a5d161c3-ba46-4629-a781-df12eb8b0f26",
-      "width": 21,
-      "x": 426,
-      "y": 368,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "08c5689a-5a5e-4acd-8560-539926f16a67",
-      "width": 16,
-      "x": 419,
-      "y": 361,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "89f108de-338b-44fc-913e-1e84ffb32d78",
-      "width": 16,
-      "x": 439,
-      "y": 355,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "c240fba1-796d-419b-a434-e2ca5a7fbf20",
-      "width": 16,
-      "x": 473,
-      "y": 348,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "9ecd087b-3aca-46b9-8a61-a4cba24482a7",
-      "width": 18,
-      "x": 418,
-      "y": 388,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "10f74157-2c84-4091-8ba0-6a05ad4d0aa2",
-      "width": 21,
-      "x": 437,
-      "y": 403,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "a072673d-7a58-4a4f-8206-a479ef97090c",
-      "width": 21,
-      "x": 482,
-      "y": 392,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "0d3ad842-5be7-4816-98b0-a2d43a5879f5",
-      "width": 21,
-      "x": 492,
-      "y": 358,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "d4e9f8d2-40cb-480a-b191-14d6a966626c",
-      "width": 16,
-      "x": 501,
-      "y": 352,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "9f4d6eec-18c8-4e1c-8b3b-6d52875d6f8f",
-      "width": 16,
-      "x": 515,
-      "y": 352,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 17,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Leaves9patch",
-      "persistentUuid": "70710852-9335-4eef-ab48-50815b90b9a7",
-      "width": 16,
-      "x": 523,
-      "y": 363,
-      "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 8,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewSprite8",
-      "persistentUuid": "6fc853d7-68ea-48cf-8724-1f57b9a0191f",
-      "width": 48,
-      "x": 485,
-      "y": 399,
-      "zOrder": 94,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 8,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewSprite8",
-      "persistentUuid": "8bf8ee72-aaf2-4fe5-9ebd-a6d563523e0d",
-      "width": 48,
-      "x": 409,
-      "y": 410,
-      "zOrder": 94,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 8,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewSprite8",
-      "persistentUuid": "8a4b7343-5f46-4301-a073-86cb6092607b",
-      "width": 48,
-      "x": 499,
-      "y": 373,
-      "zOrder": 94,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 314,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Trunk1",
-      "persistentUuid": "4662006c-4531-4307-848b-83a4f642effd",
-      "width": 55,
-      "x": 466,
-      "y": 385,
-      "zOrder": 70,
+      "name": "PalmTree",
+      "persistentUuid": "c2eb7991-3af6-42c5-ae12-40045d006717",
+      "width": 173,
+      "x": 391,
+      "y": 305,
+      "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -22357,25 +21835,9 @@
       ]
     },
     {
-      "assetStoreId": "001e8a2ceeb769fc7a3baa2fca55fa7062e3631619b291da4794954ec1835c2a",
-      "bottomMargin": 16,
-      "height": 48,
-      "leftMargin": 16,
-      "name": "Leaves9patch",
-      "rightMargin": 16,
-      "texture": "9patch_Leaves 9Patch_all_16.png",
-      "tiled": true,
-      "topMargin": 16,
-      "type": "PanelSpriteObject::PanelSprite",
-      "width": 48,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
       "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "33260f5e80b4ba782e672a548ebe3155d417fef6ec8ebc4191de0c9d07c27854",
-      "name": "Trunk1",
+      "assetStoreId": "38a0b0af0b8b89b92dc6ef7f132fadba67eadb1185172ab9daa04fea6718da35",
+      "name": "PalmTree",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -22383,16 +21845,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "Palm tree",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": true,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.025,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Trunk 1.png",
+                  "image": "Palm tree.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -22408,20 +21871,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
+                        "x": 1,
                         "y": 0
                       },
                       {
-                        "x": 82,
+                        "x": 400,
                         "y": 0
                       },
                       {
-                        "x": 82,
-                        "y": 275
+                        "x": 400,
+                        "y": 476
                       },
                       {
-                        "x": 0,
-                        "y": 275
+                        "x": 1,
+                        "y": 476
                       }
                     ]
                   ]
@@ -22611,10 +22074,7 @@
         "objectName": "GrassForeground"
       },
       {
-        "objectName": "Leaves9patch"
-      },
-      {
-        "objectName": "Trunk1"
+        "objectName": "PalmTree"
       }
     ]
   },
@@ -23031,6 +22491,27 @@
                 "-",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "ScoreText",
+                "Text",
+                "=",
+                "\"Score: \" + GlobalVariableString(score)"
+              ]
             }
           ],
           "events": [
@@ -23129,6 +22610,27 @@
                 "Life",
                 "-",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "ScoreText",
+                "Text",
+                "=",
+                "\"Score: \" + GlobalVariableString(score)"
               ]
             }
           ],
@@ -23229,6 +22731,27 @@
                 "-",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "ScoreText",
+                "Text",
+                "=",
+                "\"Score: \" + GlobalVariableString(score)"
+              ]
             }
           ],
           "events": [
@@ -23327,6 +22850,27 @@
                 "Life",
                 "-",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "ScoreText",
+                "Text",
+                "=",
+                "\"Score: \" + GlobalVariableString(score)"
               ]
             }
           ],
@@ -23427,6 +22971,27 @@
                 "-",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "ScoreText",
+                "Text",
+                "=",
+                "\"Score: \" + GlobalVariableString(score)"
+              ]
             }
           ],
           "events": [
@@ -23526,6 +23091,27 @@
                 "-",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "ScoreText",
+                "Text",
+                "=",
+                "\"Score: \" + GlobalVariableString(score)"
+              ]
             }
           ],
           "events": [
@@ -23601,7 +23187,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "COINS & SCORE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -23681,7 +23266,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "ENEMY",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -23840,6 +23424,27 @@
                 },
                 {
                   "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "score",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ScoreText",
+                    "Text",
+                    "=",
+                    "\"Score: \" + GlobalVariableString(score)"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AddForceXY"
                   },
                   "parameters": [
@@ -23900,6 +23505,27 @@
                     "Life",
                     "-",
                     "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "score",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ScoreText",
+                    "Text",
+                    "=",
+                    "\"Score: \" + GlobalVariableString(score)"
                   ]
                 },
                 {
@@ -24087,6 +23713,27 @@
                 },
                 {
                   "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "score",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ScoreText",
+                    "Text",
+                    "=",
+                    "\"Score: \" + GlobalVariableString(score)"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AddForceXY"
                   },
                   "parameters": [
@@ -24147,6 +23794,27 @@
                     "Life",
                     "-",
                     "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "score",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ScoreText",
+                    "Text",
+                    "=",
+                    "\"Score: \" + GlobalVariableString(score)"
                   ]
                 },
                 {
@@ -24326,6 +23994,27 @@
                 },
                 {
                   "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "score",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ScoreText",
+                    "Text",
+                    "=",
+                    "\"Score: \" + GlobalVariableString(score)"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AddForceXY"
                   },
                   "parameters": [
@@ -24386,6 +24075,27 @@
                     "Life",
                     "-",
                     "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "score",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ScoreText",
+                    "Text",
+                    "=",
+                    "\"Score: \" + GlobalVariableString(score)"
                   ]
                 },
                 {
@@ -25210,7 +24920,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "LEVEL COMPLETE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
