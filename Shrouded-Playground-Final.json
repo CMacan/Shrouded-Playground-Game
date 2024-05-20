@@ -11195,7 +11195,7 @@
         "alwaysLoaded": false,
         "file": "assets/Tile-Sets (64-64)2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Tile-Sets (64-64)2.png\"}",
         "name": "Tile-Sets (64-64)2",
         "smoothed": false,
         "userAdded": true
@@ -11249,7 +11249,7 @@
         "alwaysLoaded": false,
         "file": "assets/Tile-Sets (64-64)5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Tile-Sets (64-64)5.png\"}",
         "name": "Tile-Sets (64-64)5",
         "smoothed": false,
         "userAdded": true
@@ -11285,7 +11285,7 @@
         "alwaysLoaded": false,
         "file": "assets/Tile-Sets (64-64)7.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Tile-Sets (64-64)7.png\"}",
         "name": "Tile-Sets (64-64)7",
         "smoothed": false,
         "userAdded": true
@@ -17018,6 +17018,2297 @@
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Plant/7aedb2f01f10626d3e50311155624125089de15d25c6beeb8892dd95f664343d_Palm tree.png",
           "name": "Palm tree.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/95b1531ecafae6cb1d071d9925f236125f82294cc71935285914e1800a602413_Big Chain_1.png",
+          "name": "Big Chain_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/1d5888c3dee8b8ada6ec97003ec89161a8ff6023fd769c318125a235e344d57c_Big Chain_10.png",
+          "name": "Big Chain_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/95b1531ecafae6cb1d071d9925f236125f82294cc71935285914e1800a602413_Big Chain_2.png",
+          "name": "Big Chain_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2d291774b69890fa8f3b4962eaf2354e4f8b655b2d8dc6f690c339fa56ab45f9_Big Chain_3.png",
+          "name": "Big Chain_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2d291774b69890fa8f3b4962eaf2354e4f8b655b2d8dc6f690c339fa56ab45f9_Big Chain_4.png",
+          "name": "Big Chain_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/e58e03bc8f78d293efcb9554056ee20f93eb4a69ae2f841053437597db0fd8bf_Big Chain_5.png",
+          "name": "Big Chain_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/e58e03bc8f78d293efcb9554056ee20f93eb4a69ae2f841053437597db0fd8bf_Big Chain_6.png",
+          "name": "Big Chain_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2f11eda68fad54b1ce4e8bd727aba85741f480d19a4f8f771650c8c6de89d192_Big Chain_7.png",
+          "name": "Big Chain_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2f11eda68fad54b1ce4e8bd727aba85741f480d19a4f8f771650c8c6de89d192_Big Chain_8.png",
+          "name": "Big Chain_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/bea5dd095105762fb520967ee21bde95668d036aa3261f1415815bcea845b0c1_Big Chain_9.png",
+          "name": "Big Chain_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rolling Bush.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Rolling Bush.png\",\"extension\":\".png\"}",
+        "name": "Rolling Bush.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Background Element/49337862697dc565737044660e2a2df4114e15c113e94dab8a27ea2ad26a803f_Rolling Bush.png",
+          "name": "Rolling Bush.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Coin.png\",\"extension\":\".png\"}",
+        "name": "Coin.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Item/166c616408a9d1fea5a79bdd55a49c504470caace158a7a72798ce1ef883b5e2_Coin.png",
+          "name": "Coin.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dollars Bag.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dollars Bag.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/5b97bb7598949c80d5c5df9781df2ef3ce1e2184d5a85604470d0b3db6f8876a_Dollars Bag.png",
+          "name": "Dollars Bag.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wood Block 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wood Block 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/214244613116a7a14a16fecabfcdaed3e27429ea931484faa394c52427df384e_Wood Block 2.png",
+          "name": "Wood Block 2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Barrel.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Barrel.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Background Element/af67182712ce5c23242716c5b5ee94e8c8ba03c6089f727f12edf6b6a96c82cc_Barrel.png",
+          "name": "Barrel.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Barrel2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Barrel.png2",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Other Objects/a77f2271e254fbeb77686fc501ac144b09a26f76bd00d3cc513ba722e7492eb4_Barrel.png",
+          "name": "Barrel.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rolling Bush2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Rolling Bush",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rolling Bush2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Rolling Bush2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rolling Bush3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Rolling Bush3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rolling Bush4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Rolling Bush4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rolling Bush5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Rolling Bush5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rolling Bush6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Rolling Bush6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Coin2.png\"}",
+        "name": "Coin",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Coin2.png\"}",
+        "name": "Coin2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Coin3.png\"}",
+        "name": "Coin3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Coin4.png\"}",
+        "name": "Coin4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Coin5.png\"}",
+        "name": "Coin5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Coin6.png\"}",
+        "name": "Coin6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Coin10.png\"}",
+        "name": "Coin10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explosive Barrel.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Explosive Barrel.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Background Element/9291d537db71a161c3e39d2f25b83ff9417be66a190e032acbd60dd17420ab3a_Explosive Barrel.png",
+          "name": "Explosive Barrel.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/1c7a9353a7ff8721e616e81f316fa3dd3e559819ac12d8b38691059d32756f3f_Big Demon_Idle_1.png",
+          "name": "Big Demon_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/5e670f69aa969d6090e24967b50b9dc1fe87a79eb8e7eb92bd0c8d5e613eef5c_Big Demon_Idle_2.png",
+          "name": "Big Demon_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/a11294de6b23c3719da72d280274f42149202a359521f7aa24fc75bc28ce44eb_Big Demon_Idle_3.png",
+          "name": "Big Demon_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/ad5ee4693df1e15d6f28c2978f6587300ef8196de58dc22d4db1f688d1c4f998_Big Demon_Idle_4.png",
+          "name": "Big Demon_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/f417780f37536f392b71906f07e20813b3351812185e6663ac5bc4c73a57c0c0_Big Demon_Run_1.png",
+          "name": "Big Demon_Run_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/45c93661fc199e0f1edfc6f414e84dc91ec518929d702964e5e386848d809a94_Big Demon_Run_2.png",
+          "name": "Big Demon_Run_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/b53baca462c0f578ce7778f22e72642a33a2fe85298ddb769efffe21ebea1d86_Big Demon_Run_3.png",
+          "name": "Big Demon_Run_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/2c9cd80c50bc10a3d3665dbd15d040d35693f4f3f297b2a2a50919b9ca7623f0_Big Demon_Run_4.png",
+          "name": "Big Demon_Run_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Break_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Break_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/cc28fa46d80ceec4dcc6372720f25764b2688cfcafed1c8481c61239a3abf1d7_Box1_Break_1.png",
+          "name": "Box1_Break_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Break_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Break_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/5a21f6911635d5ae66e8cf1d5609f5f02b37c4d5ac7558927f34b3e36367c614_Box1_Break_2.png",
+          "name": "Box1_Break_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Break_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Break_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/78ca2bed59bc4fec28059a84edf77679f1904ed5b4058b98231eea80b17cc57f_Box1_Break_3.png",
+          "name": "Box1_Break_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Break_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Break_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/fc69a787d6976239500ebfe660aca06ae2b195002c930a839c55b0982c2bdd7a_Box1_Break_4.png",
+          "name": "Box1_Break_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Hit_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/dd7e194e9bb66c967296fdc6ed37f2424967becda48ffb67a580b74e779b484b_Box1_Hit_1.png",
+          "name": "Box1_Hit_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Hit_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Hit_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/0cdc61e72d326afd751e542c85dba70ccd735d43b713c2a68425e84776fd98df_Box1_Hit_2.png",
+          "name": "Box1_Hit_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Hit_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Hit_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/9d2f9b3a0b5a0f6746e1c4ea25e33a7e91882606130518a8bedcd683e9f40489_Box1_Hit_3.png",
+          "name": "Box1_Hit_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/d94e066248d975ded9ba373dcf8f4eacd3103b4bb8a00ac545ab67f6bcd11a18_Box1_Idle.png",
+          "name": "Box1_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Appear_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Appear_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/b586379c7f49258a7e66ce7e7c19a08c7220fdc24dc5a2c6d0eb1b12109d47d7_Ghost_Appear_1.png",
+          "name": "Ghost_Appear_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Appear_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Appear_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/9466a27abaf4fe14cdea52a91a7153773a56e1c90b99e773e630bcb5542aa4e5_Ghost_Appear_2.png",
+          "name": "Ghost_Appear_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Appear_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Appear_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/e7c834c8f710aa83f323b7ed9267ca4442ed353de7451d64c43d66b4c10dac41_Ghost_Appear_3.png",
+          "name": "Ghost_Appear_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Appear_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Appear_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/31de081f742c7fd49b71c40649df764e2838bbb7d1346a2d4aee0821e4657a75_Ghost_Appear_4.png",
+          "name": "Ghost_Appear_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Desappear_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Desappear_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/31de081f742c7fd49b71c40649df764e2838bbb7d1346a2d4aee0821e4657a75_Ghost_Desappear_1.png",
+          "name": "Ghost_Desappear_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Desappear_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Desappear_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/e7c834c8f710aa83f323b7ed9267ca4442ed353de7451d64c43d66b4c10dac41_Ghost_Desappear_2.png",
+          "name": "Ghost_Desappear_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Desappear_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Desappear_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/9466a27abaf4fe14cdea52a91a7153773a56e1c90b99e773e630bcb5542aa4e5_Ghost_Desappear_3.png",
+          "name": "Ghost_Desappear_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Desappear_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Desappear_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/b586379c7f49258a7e66ce7e7c19a08c7220fdc24dc5a2c6d0eb1b12109d47d7_Ghost_Desappear_4.png",
+          "name": "Ghost_Desappear_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Hit_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/ef6d1bb2732cd65deb652acea3bab2c9939db3ecdb335e8d3c1b80c58c4ffd3e_Ghost_Hit_1.png",
+          "name": "Ghost_Hit_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Hit_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Hit_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/ef6d1bb2732cd65deb652acea3bab2c9939db3ecdb335e8d3c1b80c58c4ffd3e_Ghost_Hit_2.png",
+          "name": "Ghost_Hit_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Hit_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Hit_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/336a0284dc8dcc4acfb718a513a85cd3d0fc6fbbab127c752c8c8e78ee15859e_Ghost_Hit_3.png",
+          "name": "Ghost_Hit_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Hit_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Hit_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/3c10e3206c5687d7126e446a45d4ac599438e93e2a4affd36c40f52a1ccb19a7_Ghost_Hit_4.png",
+          "name": "Ghost_Hit_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Hit_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Hit_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/22e9c7c16570a7dee04de144344a6ffd15929be5adce9578eed79646a8465e62_Ghost_Hit_5.png",
+          "name": "Ghost_Hit_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/ecd0e443c9103805d4396aab2ffac3c291a5035b84b2d5184471f41a2d87f7d3_Ghost_Idle_1.png",
+          "name": "Ghost_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/0f48e54bca2d4afe7ae3bd00700ef0c6de323cb8285378e91eb983b12bc94bef_Ghost_Idle_10.png",
+          "name": "Ghost_Idle_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/5b34717313a4df38239aee55de2396576bdfec4976aec724db8c9b16378d4140_Ghost_Idle_2.png",
+          "name": "Ghost_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/a40517090a20993ea35fc47c9e01ffb138fc440e0ce5820fcc669ec8d142d321_Ghost_Idle_3.png",
+          "name": "Ghost_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/a40517090a20993ea35fc47c9e01ffb138fc440e0ce5820fcc669ec8d142d321_Ghost_Idle_4.png",
+          "name": "Ghost_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/a40517090a20993ea35fc47c9e01ffb138fc440e0ce5820fcc669ec8d142d321_Ghost_Idle_5.png",
+          "name": "Ghost_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/5b34717313a4df38239aee55de2396576bdfec4976aec724db8c9b16378d4140_Ghost_Idle_6.png",
+          "name": "Ghost_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/c294adf582fd549968079fa028f797e8504dc7740edb6271af896a4b539a7aa9_Ghost_Idle_7.png",
+          "name": "Ghost_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/0f48e54bca2d4afe7ae3bd00700ef0c6de323cb8285378e91eb983b12bc94bef_Ghost_Idle_8.png",
+          "name": "Ghost_Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ghost_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ghost_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Ghost/0f48e54bca2d4afe7ae3bd00700ef0c6de323cb8285378e91eb983b12bc94bef_Ghost_Idle_9.png",
+          "name": "Ghost_Idle_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Hit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Hit.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/d8188501cdcaf13840ddde4cd6fe26f9667004aa60418ab6d93fe62bfc90126b_Rock1_Hit.png",
+          "name": "Rock1_Hit.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/6a529bbf8cb46a486d906ac17f2040b18dd12287c2ef52be657ade23084aa386_Rock1_Idle_1.png",
+          "name": "Rock1_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/2835458cd23bd30a3db27ad213985e3138953fbbce9b06c5f9c957d1ad785430_Rock1_Idle_10.png",
+          "name": "Rock1_Idle_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/258149837d1cc778f55ebb67569b62ea60d877e8e7aecffb77eedb25d4e5ceba_Rock1_Idle_11.png",
+          "name": "Rock1_Idle_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/9fe2b3ae8b41ae1666a76de638e740cee7c21505753ec38b533a0d4b04066a71_Rock1_Idle_12.png",
+          "name": "Rock1_Idle_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/9fe2b3ae8b41ae1666a76de638e740cee7c21505753ec38b533a0d4b04066a71_Rock1_Idle_13.png",
+          "name": "Rock1_Idle_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/60c5de9bef96d9b99a23a8dde322d0d8faf21bf7919e29ba69db68f4a6659764_Rock1_Idle_14.png",
+          "name": "Rock1_Idle_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/6a529bbf8cb46a486d906ac17f2040b18dd12287c2ef52be657ade23084aa386_Rock1_Idle_2.png",
+          "name": "Rock1_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/6a529bbf8cb46a486d906ac17f2040b18dd12287c2ef52be657ade23084aa386_Rock1_Idle_3.png",
+          "name": "Rock1_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/6a529bbf8cb46a486d906ac17f2040b18dd12287c2ef52be657ade23084aa386_Rock1_Idle_4.png",
+          "name": "Rock1_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/6a529bbf8cb46a486d906ac17f2040b18dd12287c2ef52be657ade23084aa386_Rock1_Idle_5.png",
+          "name": "Rock1_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/6a529bbf8cb46a486d906ac17f2040b18dd12287c2ef52be657ade23084aa386_Rock1_Idle_6.png",
+          "name": "Rock1_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/94c0394a23b384e9c14f936673593107edbd8cd8df9e4de8b860ce3b4fe430c9_Rock1_Idle_7.png",
+          "name": "Rock1_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/0c9021eb7fee15e4992bc564ceb1f8f3e3a0e6dcd2fb8d0c337301a91bd4806d_Rock1_Idle_8.png",
+          "name": "Rock1_Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/c48c746c738be50d518745279eda0b756a0947a4ad7c66a60240c7568e00143a_Rock1_Idle_9.png",
+          "name": "Rock1_Idle_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/ced6cc6598f7b43d615508f634163bb4900bf7f8561a69b7a9732c592c7c9292_Rock1_Run_1.png",
+          "name": "Rock1_Run_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/933409444e8749431f2ad8aa6c385ea3f43dc5f6ba53ddd0a20184e6e99f4d49_Rock1_Run_10.png",
+          "name": "Rock1_Run_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/034ae4a1d97cb52286db582e57fc62662fcb3105637ecd2c4d523bdd5c233306_Rock1_Run_11.png",
+          "name": "Rock1_Run_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/2ada7f60e633bda293d9075f8b0ea7569bd59430023db1023bcbc425cce06337_Rock1_Run_12.png",
+          "name": "Rock1_Run_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/e09b9aff0bb5a9261a3ea4bc8f9a7941abeb2fdef2c30b1e7b0a14f0dfbfa939_Rock1_Run_13.png",
+          "name": "Rock1_Run_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/e09b9aff0bb5a9261a3ea4bc8f9a7941abeb2fdef2c30b1e7b0a14f0dfbfa939_Rock1_Run_14.png",
+          "name": "Rock1_Run_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/6e3e42da0446978e9280279b7180ffa60bdfab507bf93ab4f30213eb106aa1e1_Rock1_Run_2.png",
+          "name": "Rock1_Run_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/6e3e42da0446978e9280279b7180ffa60bdfab507bf93ab4f30213eb106aa1e1_Rock1_Run_3.png",
+          "name": "Rock1_Run_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/4c3a5870a069cf4fcec2c82ba86ac62bcec939b869bce47ca1edf72014a618ee_Rock1_Run_4.png",
+          "name": "Rock1_Run_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/c82f728a3c7d5b0256160bc945d469944b7c315b98bbab3ce232ca89bf5e1a20_Rock1_Run_5.png",
+          "name": "Rock1_Run_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/6de7d6649c6688d5bf23b3adcc4db9f799ac82397be8baf8b472e4884028da56_Rock1_Run_6.png",
+          "name": "Rock1_Run_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/6de7d6649c6688d5bf23b3adcc4db9f799ac82397be8baf8b472e4884028da56_Rock1_Run_7.png",
+          "name": "Rock1_Run_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/bfcb323e0c72ec686b63431b0cba6897c317d77f36f64c08eae62bf3e73948b1_Rock1_Run_8.png",
+          "name": "Rock1_Run_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock1_Run_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rock1_Run_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Enemies/Rocks/Rock1/933409444e8749431f2ad8aa6c385ea3f43dc5f6ba53ddd0a20184e6e99f4d49_Rock1_Run_9.png",
+          "name": "Rock1_Run_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Blink.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Blink.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/9704362271b587adae4672bb96e283b09610699d56a985af2f42ff20f9396e4b_Orc_Blink.png",
+          "name": "Orc_Blink.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Falling.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Falling.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/1eecdc0ca68b93c209cadb418c05f368e18b93896953d2e7d480c8e9ea85c7f1_Orc_Falling.png",
+          "name": "Orc_Falling.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Hurt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/61b538b89fdaf30e5bd4c624eb2e02252f9ddd7e8e47d1ef6dbf4f75aae91b89_Orc_Hurt.png",
+          "name": "Orc_Hurt.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/2899f4bc6411d4f1d85da5e64ccb57fb045681abab10426b7f125f0b4c764080_Orc_Idle_1.png",
+          "name": "Orc_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/843d1b95b85547c062daa51f0182792de3994cc87d3f5e1dc953e62eb916df55_Orc_Idle_2.png",
+          "name": "Orc_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/bbf9f8c1b5a1869d1ce8fddff8fdb78b721259e7b02b240b446ffcb8d4793d69_Orc_Idle_3.png",
+          "name": "Orc_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/c187118d81014b7cebfb4ae08b6ac62c6993a6ff549de176734c3a974fa30dc9_Orc_Idle_4.png",
+          "name": "Orc_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/03a527d09807f51a85b49afd84cb7ef729328812105c6351d682ac28d6f1e588_Orc_Idle_5.png",
+          "name": "Orc_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/015fbd4724e86e24c4b29734a25e951a595ca41fb3ab69f18653470c3c0b07bd_Orc_Idle_6.png",
+          "name": "Orc_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/ff8c676a7a85b1de11fcf8cceb6e30ae6015dc151f7ea3527157a906943589fb_Orc_Idle_7.png",
+          "name": "Orc_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Spear Jab_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Spear Jab_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/943218632a95ce7e630ac4e4f2cdbb9d71b230dbf8b83766db3a6394ce02353a_Orc_Spear Jab_1.png",
+          "name": "Orc_Spear Jab_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Spear Jab_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Spear Jab_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/2aa08b7ffefd82daa2262f84bca08c20de660b21074370facd8abfa69f1299dc_Orc_Spear Jab_2.png",
+          "name": "Orc_Spear Jab_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Spear Jab_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Spear Jab_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/ce931ff0bd8a8a8e4b0dccc056258f74a4a527b3506c5bee9b9d2d987350bdcc_Orc_Spear Jab_3.png",
+          "name": "Orc_Spear Jab_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Spear Jab_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Spear Jab_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/865e3a5508d540e86de01ec0d1eadc254fe61e68fcecaf957978c85fbf6583be_Orc_Spear Jab_4.png",
+          "name": "Orc_Spear Jab_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Spear Jab_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Spear Jab_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/38f4200ca6f7b57ae08cbc4e998c937d4ee1cb525599e59539d844ad1cbbc5c2_Orc_Spear Jab_5.png",
+          "name": "Orc_Spear Jab_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Spear Jab_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Spear Jab_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/521e7ad48fcff20b4f100e29b39831a62d9730c09216d7eef02bbace23e75f94_Orc_Spear Jab_6.png",
+          "name": "Orc_Spear Jab_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Walking_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Walking_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/4e4c5642e80210eaffbab123ad92978fbe372770bc65b8cb81f3b25b863873aa_Orc_Walking_1.png",
+          "name": "Orc_Walking_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Walking_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Walking_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/26c097d1c05d04566150fe60e2c4d0dbc03cb4d4f3020219966766a7f38232d5_Orc_Walking_2.png",
+          "name": "Orc_Walking_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Walking_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Walking_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/fbb222ec74176831e3bc92a66b2e89e777dd0f25d96407551a983fe417024286_Orc_Walking_3.png",
+          "name": "Orc_Walking_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Walking_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Walking_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/949bcc9dfd35428e9ca69eb15e7cf8062cf47da805a0f324a854c1da27af01f1_Orc_Walking_4.png",
+          "name": "Orc_Walking_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Walking_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Walking_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/1c388378ce07e2dedcc80426eaaeaac7e72ca741fd796b97fba417ed393c0d6b_Orc_Walking_5.png",
+          "name": "Orc_Walking_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc_Walking_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc_Walking_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Orc/5916603736e31b2606a7df4ed112803ad1957f2d3cf00e9207d68c1fca783b30_Orc_Walking_6.png",
+          "name": "Orc_Walking_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/8c8077ad9f30b0d398ea49beae64b1fcca2137cf9d5f612ae9511968b07c05c1_Wall_Blades_1.png",
+          "name": "Wall_Blades_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4fc16f7fa54aa9879a2360e3bd0d9089069188fb52a11d8c7c619a7fc98d720c_Wall_Blades_10.png",
+          "name": "Wall_Blades_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4fc16f7fa54aa9879a2360e3bd0d9089069188fb52a11d8c7c619a7fc98d720c_Wall_Blades_11.png",
+          "name": "Wall_Blades_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4fc16f7fa54aa9879a2360e3bd0d9089069188fb52a11d8c7c619a7fc98d720c_Wall_Blades_12.png",
+          "name": "Wall_Blades_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4fc16f7fa54aa9879a2360e3bd0d9089069188fb52a11d8c7c619a7fc98d720c_Wall_Blades_13.png",
+          "name": "Wall_Blades_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/531fdd458b8ce76d0cbb5965546d4cc4d5b0aa3421ffba14743ec2407c8b24df_Wall_Blades_14.png",
+          "name": "Wall_Blades_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/531fdd458b8ce76d0cbb5965546d4cc4d5b0aa3421ffba14743ec2407c8b24df_Wall_Blades_15.png",
+          "name": "Wall_Blades_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4e087618d24378f42b1cb34e63f1bf345eecc659fcf2f4aaa7d82c7ea6fc6a64_Wall_Blades_16.png",
+          "name": "Wall_Blades_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4e087618d24378f42b1cb34e63f1bf345eecc659fcf2f4aaa7d82c7ea6fc6a64_Wall_Blades_17.png",
+          "name": "Wall_Blades_17.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/ef9241f328e50e8490ee49fd9e1890e4ee1d849a192ff9f93649f7a9f224abd6_Wall_Blades_18.png",
+          "name": "Wall_Blades_18.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/37dd4b2c5db674386b5eecc0cda4b465fab0a1c020603e325a91c1dad75ea7fa_Wall_Blades_19.png",
+          "name": "Wall_Blades_19.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/8c8077ad9f30b0d398ea49beae64b1fcca2137cf9d5f612ae9511968b07c05c1_Wall_Blades_2.png",
+          "name": "Wall_Blades_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/68f3e2fb842f593ece1563aadeb4ce60ac9876c12e990eb09e1de581fe1d4348_Wall_Blades_20.png",
+          "name": "Wall_Blades_20.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_21.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/234fda7a5be6d4efb4dd96e2ab664fcb770d6835d1e7a63d345b61414d610146_Wall_Blades_21.png",
+          "name": "Wall_Blades_21.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_22.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/efa8e6ae5a34176acea7a146c6fc629abcb77b3ea449d14aac37181e40b0dc37_Wall_Blades_22.png",
+          "name": "Wall_Blades_22.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_23.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/168b3d31e265252f93c28a4b02024cb7a4021b3cd19b2ad0e4496224f30d85b6_Wall_Blades_23.png",
+          "name": "Wall_Blades_23.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_24.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/502e992be34535507a82bc2a7672f6c2477e40b37072d539129d829bf4dcaf10_Wall_Blades_24.png",
+          "name": "Wall_Blades_24.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_25.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/68f3e2fb842f593ece1563aadeb4ce60ac9876c12e990eb09e1de581fe1d4348_Wall_Blades_25.png",
+          "name": "Wall_Blades_25.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_26.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/68f3e2fb842f593ece1563aadeb4ce60ac9876c12e990eb09e1de581fe1d4348_Wall_Blades_26.png",
+          "name": "Wall_Blades_26.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_27.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4e9d570c62cb54e7b97722ef912a510739ee4543356dc43a1bbda4ece0afa5ec_Wall_Blades_27.png",
+          "name": "Wall_Blades_27.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_28.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/8eae10a6dcef93598a1246173a7200c1d1d011116c46b050d67c26ca651b2cd7_Wall_Blades_28.png",
+          "name": "Wall_Blades_28.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_29.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4fc16f7fa54aa9879a2360e3bd0d9089069188fb52a11d8c7c619a7fc98d720c_Wall_Blades_29.png",
+          "name": "Wall_Blades_29.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/8c8077ad9f30b0d398ea49beae64b1fcca2137cf9d5f612ae9511968b07c05c1_Wall_Blades_3.png",
+          "name": "Wall_Blades_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/8c8077ad9f30b0d398ea49beae64b1fcca2137cf9d5f612ae9511968b07c05c1_Wall_Blades_4.png",
+          "name": "Wall_Blades_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/8c8077ad9f30b0d398ea49beae64b1fcca2137cf9d5f612ae9511968b07c05c1_Wall_Blades_5.png",
+          "name": "Wall_Blades_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/8c8077ad9f30b0d398ea49beae64b1fcca2137cf9d5f612ae9511968b07c05c1_Wall_Blades_6.png",
+          "name": "Wall_Blades_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4fc16f7fa54aa9879a2360e3bd0d9089069188fb52a11d8c7c619a7fc98d720c_Wall_Blades_7.png",
+          "name": "Wall_Blades_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4fc16f7fa54aa9879a2360e3bd0d9089069188fb52a11d8c7c619a7fc98d720c_Wall_Blades_8.png",
+          "name": "Wall_Blades_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall_Blades_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall_Blades_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/4fc16f7fa54aa9879a2360e3bd0d9089069188fb52a11d8c7c619a7fc98d720c_Wall_Blades_9.png",
+          "name": "Wall_Blades_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Trampoline_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trampoline_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Trampoline/5025e6560306eccf0e2e069f4211735de5432b50dec1802506316168f8e3eb9f_Trampoline_Idle.png",
+          "name": "Trampoline_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Trampoline_Jump_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trampoline_Jump_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Trampoline/24ee2a02904daa7d1a489902c2b22515e488ed8bdf4fdb7a7191dbe7a3743df9_Trampoline_Jump_1.png",
+          "name": "Trampoline_Jump_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Trampoline_Jump_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trampoline_Jump_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Trampoline/67d9f35ca90892ed80111923aaf28ad7119f56328a77360cb66740c505b5cb69_Trampoline_Jump_2.png",
+          "name": "Trampoline_Jump_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Trampoline_Jump_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trampoline_Jump_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Trampoline/18f668519d8d4c8f351b4ca7ba5ee2d43a484fd58ba42439377b8cb5b48d12b0_Trampoline_Jump_3.png",
+          "name": "Trampoline_Jump_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Trampoline_Jump_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trampoline_Jump_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Trampoline/684932acbbeb6a3cd96b48bcc8afff128409056df8bd1fb5600ba731bbad1336_Trampoline_Jump_4.png",
+          "name": "Trampoline_Jump_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Trampoline_Jump_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trampoline_Jump_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Trampoline/8bcb75d11852d43bf45a61df1bc2d7bda8aee472d4f65272877e60b08a120dc4_Trampoline_Jump_5.png",
+          "name": "Trampoline_Jump_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Trampoline_Jump_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trampoline_Jump_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Trampoline/c54d21e101299e2c503b7fd299d512708c7a1f36646e61d95f62117fb31a06c2_Trampoline_Jump_6.png",
+          "name": "Trampoline_Jump_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Trampoline_Jump_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trampoline_Jump_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Trampoline/c54d21e101299e2c503b7fd299d512708c7a1f36646e61d95f62117fb31a06c2_Trampoline_Jump_7.png",
+          "name": "Trampoline_Jump_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Trampoline_Jump_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trampoline_Jump_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Trampoline/9ccc5c48712bbbf098bf2384d0d1956f84fe645d1716a088acc823ea760b415c_Trampoline_Jump_8.png",
+          "name": "Trampoline_Jump_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closed.png",
+          "name": "Door_Closed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/6b88886449d1d6f007da76f35dde1a45f53cb3ed4976d3a7b623f2cfd3224d00_Door_Closing_1.png",
+          "name": "Door_Closing_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closing_2.png",
+          "name": "Door_Closing_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/c4a30378bfc85909f67651ac60bbabac6a4c62fa7bfde0c9366f0752c97eb4ca_Door_Closing_3.png",
+          "name": "Door_Closing_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/c4a30378bfc85909f67651ac60bbabac6a4c62fa7bfde0c9366f0752c97eb4ca_Door_Closing_4.png",
+          "name": "Door_Closing_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closing_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closing_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/cf63215d6e61ab39a3c0af84abdc9d74a21601c72078be57c1b74fa732d6d642_Door_Closing_5.png",
+          "name": "Door_Closing_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/872440f9321bc83d4317c3d70200b8b04da2bca3a574cd9c9d3aca27472b5785_Door_Opening_1.png",
+          "name": "Door_Opening_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/188b41d1cd7ba282fab20d4f32ae1c67dabcc5583a49061787b77d36a8601b5e_Door_Opening_2.png",
+          "name": "Door_Opening_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/2eeb688fb5c3da8ccb2576cdf2e426ae8b728a13e077b477b78de321659a57c6_Door_Opening_3.png",
+          "name": "Door_Opening_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/2eeb688fb5c3da8ccb2576cdf2e426ae8b728a13e077b477b78de321659a57c6_Door_Opening_4.png",
+          "name": "Door_Opening_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Opening_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Opening_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/188b41d1cd7ba282fab20d4f32ae1c67dabcc5583a49061787b77d36a8601b5e_Door_Opening_5.png",
+          "name": "Door_Opening_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Closed2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Closed.png2",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/969a8bbc5ec12ee51b641e4a7ac318f0312abf39ef72121da06507cc17e3f5bc_Door_Closed.png",
+          "name": "Door_Closed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door_Open.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door_Open.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/133dcc03f2e4b0ed976c8d7263fc8750e64727003c09878a546d937252a2ac95_Door_Open.png",
+          "name": "Door_Open.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door With Frame.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door With Frame.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/ebf5a6faac331368eb5d32375b50e8ee52c095a95326cc70db6e1413683036d8_Door With Frame.png",
+          "name": "Door With Frame.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door With Frame_Closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door With Frame_Closed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/b9627812567c6bda1c92b887facbddec9f82198cf42f9f0f41bbba4320bb49ff_Door With Frame_Closed.png",
+          "name": "Door With Frame_Closed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door With Frame_Open.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door With Frame_Open.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/a69e54aecf30566a9a5c1ae5a3ad81c9decc94cadf81b9565913254ee92024c4_Door With Frame_Open.png",
+          "name": "Door With Frame_Open.png"
         }
       }
     ],
