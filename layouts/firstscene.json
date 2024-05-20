@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.6040838749989104,
+    "zoomFactor": 0.5117784035210389,
     "windowMask": false
   },
   "objectsGroups": [
@@ -406,7 +406,7 @@
       "persistentUuid": "cc44221f-708e-414a-91d8-232de9021321",
       "width": 35,
       "x": 345,
-      "y": 492,
+      "y": 493,
       "zOrder": 55,
       "numberProperties": [],
       "stringProperties": [],
@@ -503,8 +503,8 @@
       "name": "GoldCoin",
       "persistentUuid": "4dbd9f01-2d95-422b-9b10-8d38b47e8d0b",
       "width": 0,
-      "x": 358,
-      "y": 467,
+      "x": 354,
+      "y": 463,
       "zOrder": 61,
       "numberProperties": [],
       "stringProperties": [],
@@ -907,8 +907,8 @@
       "name": "Bat",
       "persistentUuid": "edcd495e-7b04-47f4-82ee-0884a1a62af6",
       "width": 41,
-      "x": 870,
-      "y": 281,
+      "x": 1161,
+      "y": 382,
       "zOrder": 71,
       "numberProperties": [],
       "stringProperties": [],
@@ -1365,8 +1365,8 @@
       "name": "Bat",
       "persistentUuid": "19eae6ff-b47a-450e-a8b1-e4cad6ad4fd7",
       "width": 41,
-      "x": 923,
-      "y": 647,
+      "x": 946,
+      "y": 646,
       "zOrder": 71,
       "numberProperties": [],
       "stringProperties": [],
@@ -1554,6 +1554,46 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "ladder_top",
+      "persistentUuid": "cdcd09b2-4381-43d1-9be7-8298f384eb7f",
+      "width": 0,
+      "x": 339,
+      "y": 493,
+      "zOrder": 81,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 25,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Bat",
+      "persistentUuid": "01af55a8-9237-4040-a7cf-c45b34fab0b3",
+      "width": 41,
+      "x": 868,
+      "y": 280,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "Variable",
+          "type": "string",
+          "value": ""
+        }
+      ]
     }
   ],
   "objects": [
@@ -1592,8 +1632,8 @@
       "behaviors": [
         {
           "name": "Platform",
+          "platformType": "Jumpthru",
           "type": "PlatformBehavior::PlatformBehavior",
-          "platformType": "NormalPlatform",
           "canBeGrabbed": false,
           "yGrabOffset": 0
         }
@@ -18081,6 +18121,74 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "319522814a301a2649784df125b9fbe6104f7b11f7b81455995f2a38ac40c3dd",
+      "name": "ladder_top",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "platformType": "Jumpthru",
+          "canBeGrabbed": false,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Wood Platform.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 48,
+                        "y": 0
+                      },
+                      {
+                        "x": 48,
+                        "y": 5
+                      },
+                      {
+                        "x": 0,
+                        "y": 5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -18094,6 +18202,9 @@
           },
           {
             "objectName": "WoodPlatform"
+          },
+          {
+            "objectName": "ladder_top"
           },
           {
             "objectName": "Box2"
@@ -19531,6 +19642,16 @@
                     "PinkMan",
                     "PlatformerObject"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    ">",
+                    "GloppySlime2.CenterX()"
+                  ]
                 }
               ],
               "actions": [
@@ -19542,6 +19663,33 @@
                     "Life",
                     "-",
                     "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "600",
+                    "0",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.15"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "PinkMan"
                   ]
                 }
               ]
@@ -19558,6 +19706,16 @@
                     "PinkMan",
                     "PlatformerObject"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "<",
+                    "GloppySlime2.CenterX()"
+                  ]
                 }
               ],
               "actions": [
@@ -19569,6 +19727,33 @@
                     "Life",
                     "-",
                     "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "-600",
+                    "0",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.15"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "PinkMan"
                   ]
                 }
               ]
@@ -19696,6 +19881,16 @@
                     "PinkMan",
                     "PlatformerObject"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "<",
+                    "Bat.CenterX()"
+                  ]
                 }
               ],
               "actions": [
@@ -19707,6 +19902,97 @@
                     "Life",
                     "-",
                     "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "-600",
+                    "0",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.15"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "PinkMan"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    ">",
+                    "Bat.CenterX()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Life",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "PinkMan",
+                    "600",
+                    "0",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.15"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "PinkMan"
                   ]
                 }
               ]
@@ -20307,14 +20593,6 @@
             },
             {
               "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.3"
-              ]
-            },
-            {
-              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -20384,6 +20662,17 @@
                 "=",
                 "\"GoLeft\""
               ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "ladder_top",
+                "Opacity",
+                "=",
+                "0"
+              ]
             }
           ]
         },
@@ -20425,7 +20714,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "",
+      "name": "PLATFORMS",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
@@ -20498,6 +20787,42 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsObjectOnGivenFloor"
+              },
+              "parameters": [
+                "PinkMan",
+                "PlatformerObject",
+                "Ladder",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Up"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::SimulateUpKey"
+              },
+              "parameters": [
+                "PinkMan",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
@@ -20507,7 +20832,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "LEVEL COMPLETE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
