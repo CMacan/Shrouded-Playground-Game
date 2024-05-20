@@ -16930,6 +16930,58 @@
         "name": "bd0e738cad342617445442e3ce611ab87d36175ff2793af04b2e20450659f294_Message3",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bush foreground.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Bush foreground.png\",\"extension\":\".png\"}",
+        "name": "Bush foreground.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Plant/dc11dc67c2107cdfeabfe2391f8f3b78a86e0274e3497cc9e8181cc6df4c2897_Bush foreground.png",
+          "name": "Bush foreground.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grass foreground.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Grass foreground.png\",\"extension\":\".png\"}",
+        "name": "Grass foreground.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Plant/c1fc48dfdc40bfaf190264b48919dfdcd432269c29c4131092923a808132e380_Grass foreground.png",
+          "name": "Grass foreground.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Leaves 9Patch_all_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Leaves 9Patch_all_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/97c06143667dd091a9fd270eec0f17dce22326dbf6b74feb405cc8f943527106_9patch_Leaves 9Patch_all_16.png",
+          "name": "9patch_Leaves 9Patch_all_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Trunk 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trunk 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/159b51227e8aa6d37f3a01b5e5d00c6c020a20a4b78f1b84f0a0df88d6e4a35d_Trunk 1.png",
+          "name": "Trunk 1.png"
+        }
       }
     ],
     "resourceFolders": []
