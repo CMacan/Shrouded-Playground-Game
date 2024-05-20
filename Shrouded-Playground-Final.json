@@ -15937,6 +15937,999 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "242.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"242.png\",\"extension\":\".png\"}",
+        "name": "242.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "243.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"243.png\",\"extension\":\".png\"}",
+        "name": "243.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "244.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"244.png\",\"extension\":\".png\"}",
+        "name": "244.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "245.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"245.png\",\"extension\":\".png\"}",
+        "name": "245.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "246.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"246.png\",\"extension\":\".png\"}",
+        "name": "246.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "247.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"247.png\",\"extension\":\".png\"}",
+        "name": "247.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "248.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"248.png\",\"extension\":\".png\"}",
+        "name": "248.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "249.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"249.png\",\"extension\":\".png\"}",
+        "name": "249.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "250.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"250.png\",\"extension\":\".png\"}",
+        "name": "250.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "251.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"251.png\",\"extension\":\".png\"}",
+        "name": "251.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "252.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"252.png\",\"extension\":\".png\"}",
+        "name": "252.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "253.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"253.png\",\"extension\":\".png\"}",
+        "name": "253.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "254.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"254.png\",\"extension\":\".png\"}",
+        "name": "254.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "255.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"255.png\",\"extension\":\".png\"}",
+        "name": "255.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "256.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"256.png\",\"extension\":\".png\"}",
+        "name": "256.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "257.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"257.png\",\"extension\":\".png\"}",
+        "name": "257.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "258.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"258.png\",\"extension\":\".png\"}",
+        "name": "258.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "259.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"259.png\",\"extension\":\".png\"}",
+        "name": "259.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "260.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"260.png\",\"extension\":\".png\"}",
+        "name": "260.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "261.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"261.png\",\"extension\":\".png\"}",
+        "name": "261.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "262.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"262.png\",\"extension\":\".png\"}",
+        "name": "262.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "263.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"263.png\",\"extension\":\".png\"}",
+        "name": "263.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "264.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"264.png\",\"extension\":\".png\"}",
+        "name": "264.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "265.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"265.png\",\"extension\":\".png\"}",
+        "name": "265.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "266.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"266.png\",\"extension\":\".png\"}",
+        "name": "266.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "267.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"267.png\",\"extension\":\".png\"}",
+        "name": "267.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "268.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"268.png\",\"extension\":\".png\"}",
+        "name": "268.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "269.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"269.png\",\"extension\":\".png\"}",
+        "name": "269.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "270.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"270.png\",\"extension\":\".png\"}",
+        "name": "270.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "271.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"271.png\",\"extension\":\".png\"}",
+        "name": "271.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "272.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"272.png\",\"extension\":\".png\"}",
+        "name": "272.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "273.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"273.png\",\"extension\":\".png\"}",
+        "name": "273.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "274.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"274.png\",\"extension\":\".png\"}",
+        "name": "274.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "275.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"275.png\",\"extension\":\".png\"}",
+        "name": "275.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "276.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"276.png\",\"extension\":\".png\"}",
+        "name": "276.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "277.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"277.png\",\"extension\":\".png\"}",
+        "name": "277.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "278.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"278.png\",\"extension\":\".png\"}",
+        "name": "278.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "279.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"279.png\",\"extension\":\".png\"}",
+        "name": "279.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "280.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"280.png\",\"extension\":\".png\"}",
+        "name": "280.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "281.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"281.png\",\"extension\":\".png\"}",
+        "name": "281.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "282.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"282.png\",\"extension\":\".png\"}",
+        "name": "282.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "283.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"283.png\",\"extension\":\".png\"}",
+        "name": "283.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "284.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"284.png\",\"extension\":\".png\"}",
+        "name": "284.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "285.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"285.png\",\"extension\":\".png\"}",
+        "name": "285.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "286.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"286.png\",\"extension\":\".png\"}",
+        "name": "286.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "287.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"287.png\",\"extension\":\".png\"}",
+        "name": "287.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "288.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"288.png\",\"extension\":\".png\"}",
+        "name": "288.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "289.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"289.png\",\"extension\":\".png\"}",
+        "name": "289.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "290.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"290.png\",\"extension\":\".png\"}",
+        "name": "290.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "291.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"291.png\",\"extension\":\".png\"}",
+        "name": "291.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "292.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"292.png\",\"extension\":\".png\"}",
+        "name": "292.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "293.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"293.png\",\"extension\":\".png\"}",
+        "name": "293.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "294.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"294.png\",\"extension\":\".png\"}",
+        "name": "294.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "295.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"295.png\",\"extension\":\".png\"}",
+        "name": "295.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "296.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"296.png\",\"extension\":\".png\"}",
+        "name": "296.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "297.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"297.png\",\"extension\":\".png\"}",
+        "name": "297.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "298.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"298.png\",\"extension\":\".png\"}",
+        "name": "298.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "299.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"299.png\",\"extension\":\".png\"}",
+        "name": "299.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "300.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"300.png\",\"extension\":\".png\"}",
+        "name": "300.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "301.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"301.png\",\"extension\":\".png\"}",
+        "name": "301.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "302.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"302.png\",\"extension\":\".png\"}",
+        "name": "302.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "303.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"303.png\",\"extension\":\".png\"}",
+        "name": "303.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "304.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"304.png\",\"extension\":\".png\"}",
+        "name": "304.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "305.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"305.png\",\"extension\":\".png\"}",
+        "name": "305.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "306.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"306.png\",\"extension\":\".png\"}",
+        "name": "306.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "307.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"307.png\",\"extension\":\".png\"}",
+        "name": "307.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "308.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"308.png\",\"extension\":\".png\"}",
+        "name": "308.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "309.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"309.png\",\"extension\":\".png\"}",
+        "name": "309.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "310.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"310.png\",\"extension\":\".png\"}",
+        "name": "310.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "311.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"311.png\",\"extension\":\".png\"}",
+        "name": "311.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "312.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"312.png\",\"extension\":\".png\"}",
+        "name": "312.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "313.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"313.png\",\"extension\":\".png\"}",
+        "name": "313.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "314.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"314.png\",\"extension\":\".png\"}",
+        "name": "314.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "315.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"315.png\",\"extension\":\".png\"}",
+        "name": "315.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "316.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"316.png\",\"extension\":\".png\"}",
+        "name": "316.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "317.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"317.png\",\"extension\":\".png\"}",
+        "name": "317.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "318.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"318.png\",\"extension\":\".png\"}",
+        "name": "318.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "319.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"319.png\",\"extension\":\".png\"}",
+        "name": "319.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "320.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"320.png\",\"extension\":\".png\"}",
+        "name": "320.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "321.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"321.png\",\"extension\":\".png\"}",
+        "name": "321.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "322.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"322.png\",\"extension\":\".png\"}",
+        "name": "322.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "323.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"323.png\",\"extension\":\".png\"}",
+        "name": "323.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "324.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"324.png\",\"extension\":\".png\"}",
+        "name": "324.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "325.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"325.png\",\"extension\":\".png\"}",
+        "name": "325.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "326.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"326.png\",\"extension\":\".png\"}",
+        "name": "326.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "327.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"327.png\",\"extension\":\".png\"}",
+        "name": "327.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cave Background Hole2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "e892f2a9d2fca2c95c8f124cfd88d5dbd4f8357a0747e6a53f995f2f5d0ed47f_Cave Background Hole.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Misc/e892f2a9d2fca2c95c8f124cfd88d5dbd4f8357a0747e6a53f995f2f5d0ed47f_Cave Background Hole.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/House2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/House2.png\",\"extension\":\".png\"}",
+        "name": "25a026f33b5e093c8924530e3c5d5cb269192d57720b1ae766d8350f1d1f5667_House.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Building/25a026f33b5e093c8924530e3c5d5cb269192d57720b1ae766d8350f1d1f5667_House.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Redwood Background_all_64.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/9patch_Redwood Background_all_64.png\",\"extension\":\".png\"}",
+        "name": "28d2bd1335356fd7349d357600e2e02eb196d8f32fe8c7af27cf9499064e4b8a_9patch_Redwood Background_all_64.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Tile Sets/Redwood Background/28d2bd1335356fd7349d357600e2e02eb196d8f32fe8c7af27cf9499064e4b8a_9patch_Redwood Background_all_64.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Stone 9Patch_all_17.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/9patch_Stone 9Patch_all_17.png\",\"extension\":\".png\"}",
+        "name": "0d4e1fc25b009b7424360bba5f4cb126c82390b044aabce180aebf4806b9aff2_9patch_Stone 9Patch_all_16.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/0d4e1fc25b009b7424360bba5f4cb126c82390b044aabce180aebf4806b9aff2_9patch_Stone 9Patch_all_16.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Stone 9Patch_southwest.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "f8990ef4a1d00eb431113896c39cd15a1eab815d7838bed3d4bb71a033ead5e7_9patch_Stone 9Patch_southwest.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/f8990ef4a1d00eb431113896c39cd15a1eab815d7838bed3d4bb71a033ead5e7_9patch_Stone 9Patch_southwest.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Stone 9Patch_east.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "398925a9e242aa0317c193f71356617b67855fd6af00163c2de2547aa67a2319_9patch_Stone 9Patch_east.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/398925a9e242aa0317c193f71356617b67855fd6af00163c2de2547aa67a2319_9patch_Stone 9Patch_east.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Stone 9Patch_north.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cdd1f66ea5821d67d01078049f6607a13c28f9cc001a2bd5210204f88caad0a0_9patch_Stone 9Patch_north.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/cdd1f66ea5821d67d01078049f6607a13c28f9cc001a2bd5210204f88caad0a0_9patch_Stone 9Patch_north.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Stone 9Patch_northwest.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/9patch_Stone 9Patch_northwest.png\",\"extension\":\".png\"}",
+        "name": "dbe2e980223579c83ca3d79c9cf79eb8c413445bf81153c417bcca86429b18e1_9patch_Stone 9Patch_northwest.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/dbe2e980223579c83ca3d79c9cf79eb8c413445bf81153c417bcca86429b18e1_9patch_Stone 9Patch_northwest.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Stone 9Patch_southeast.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "e6d8f1a72decb9d1e8ef6c80108f1c49a7c300d3e9fea113bdf5d36ab718e837_9patch_Stone 9Patch_southeast.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/e6d8f1a72decb9d1e8ef6c80108f1c49a7c300d3e9fea113bdf5d36ab718e837_9patch_Stone 9Patch_southeast.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Leaves 9Patch_south.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/9patch_Leaves 9Patch_south.png\",\"extension\":\".png\"}",
+        "name": "d942f17e47d3f5f387ef311b58cc5fc97c42169b63406d4b9a9b1b259fcb00d9_9patch_Leaves 9Patch_south.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/d942f17e47d3f5f387ef311b58cc5fc97c42169b63406d4b9a9b1b259fcb00d9_9patch_Leaves 9Patch_south.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Terrain (16x16).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Terrain (16x16).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Terrain (16x16).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Terrain (16x16)",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Terrain (16x16)2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Terrain (16x16)2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Campfire_Shadow.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Campfire_Shadow.png\",\"extension\":\".png\"}",
+        "name": "e17db548309fb85a7be86018b4a7df7c5d34193efeb8ecf531bd44e5f238a001_Campfire_Shadow.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Non Combat Actions/e17db548309fb85a7be86018b4a7df7c5d34193efeb8ecf531bd44e5f238a001_Campfire_Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Campfire_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "e732df12dd7fbff850de517b7dfe4992008c68d9f6fa44812cb94a546381631f_Campfire_No Shadow.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Non Combat Actions/e732df12dd7fbff850de517b7dfe4992008c68d9f6fa44812cb94a546381631f_Campfire_No Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Stone Platform2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Stone Platform",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bd0e738cad342617445442e3ce611ab87d36175ff2793af04b2e20450659f294_Message2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "bd0e738cad342617445442e3ce611ab87d36175ff2793af04b2e20450659f294_Message2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bd0e738cad342617445442e3ce611ab87d36175ff2793af04b2e20450659f294_Message3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "bd0e738cad342617445442e3ce611ab87d36175ff2793af04b2e20450659f294_Message3",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
