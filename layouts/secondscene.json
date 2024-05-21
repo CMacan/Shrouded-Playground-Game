@@ -18,7 +18,7 @@
     "gridColor": 4670532,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.6897782140104511,
+    "zoomFactor": 0.7370816317994044,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -168,32 +168,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 2,
-      "height": 36,
+      "depth": 0.9999999999999998,
+      "height": 18.000000000000004,
       "keepRatio": true,
       "layer": "",
       "name": "hp_1",
       "persistentUuid": "4903f95b-a414-4412-83c9-24da5a6e3b9a",
-      "width": 40,
-      "x": 126,
-      "y": 15,
-      "zOrder": 112,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1.8181818181818183,
-      "height": 36.36363636363637,
-      "keepRatio": true,
-      "layer": "",
-      "name": "hp_2",
-      "persistentUuid": "006ee679-9841-412b-9cf0-0ad61594e660",
-      "width": 40,
-      "x": 167,
-      "y": 14,
+      "width": 20,
+      "x": 189,
+      "y": 32,
       "zOrder": 113,
       "numberProperties": [],
       "stringProperties": [],
@@ -202,15 +185,32 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1.8181818181818183,
-      "height": 36.36363636363637,
+      "depth": 1,
+      "height": 18,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hp_2",
+      "persistentUuid": "006ee679-9841-412b-9cf0-0ad61594e660",
+      "width": 20,
+      "x": 163,
+      "y": 32,
+      "zOrder": 113,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0.9090909090909093,
+      "height": 18.181818181818183,
       "keepRatio": true,
       "layer": "",
       "name": "hp_3",
       "persistentUuid": "e6bcb0d0-e870-4106-8df2-2de72ed09ee6",
-      "width": 40,
-      "x": 208,
-      "y": 14,
+      "width": 20,
+      "x": 215,
+      "y": 32,
       "zOrder": 114,
       "numberProperties": [],
       "stringProperties": [],
@@ -1662,6 +1662,22 @@
       "x": 1153,
       "y": 496,
       "zOrder": 89,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Healthbar",
+      "persistentUuid": "94f7fc33-8c4f-4a9e-9a8b-7cc40074b719",
+      "width": 0,
+      "x": 122,
+      "y": 10,
+      "zOrder": 101,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -8080,10 +8096,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -8279,10 +8295,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -8347,10 +8363,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -8484,10 +8500,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -8683,10 +8699,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "Ladder",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "Ladder",
           "yGrabOffset": 0
         }
       ],
@@ -9665,10 +9681,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": false,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": false,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -11990,8 +12006,8 @@
       "behaviors": [
         {
           "name": "Platform",
-          "platformType": "Jumpthru",
           "type": "PlatformBehavior::PlatformBehavior",
+          "platformType": "Jumpthru",
           "canBeGrabbed": true,
           "yGrabOffset": 0
         }
@@ -15239,6 +15255,66 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Healthbar",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Health Bar2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 154,
+                        "y": 0
+                      },
+                      {
+                        "x": 154,
+                        "y": 62
+                      },
+                      {
+                        "x": 0,
+                        "y": 62
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -15336,6 +15412,9 @@
       },
       {
         "objectName": "Door"
+      },
+      {
+        "objectName": "Healthbar"
       }
     ]
   },
