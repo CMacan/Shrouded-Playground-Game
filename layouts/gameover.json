@@ -9,7 +9,7 @@
   "title": "",
   "v": 173,
   "uiSettings": {
-    "grid": true,
+    "grid": false,
     "gridType": "rectangular",
     "gridWidth": 40,
     "gridHeight": 40,
@@ -17,8 +17,8 @@
     "gridOffsetY": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
-    "snap": true,
-    "zoomFactor": 0.47893418845353436,
+    "snap": false,
+    "zoomFactor": 0.27253598967729903,
     "windowMask": false
   },
   "objectsGroups": [
@@ -138,23 +138,6 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 25,
-      "height": 59,
-      "keepRatio": true,
-      "layer": "UI",
-      "name": "SettingsBtn",
-      "persistentUuid": "056567b9-4470-45f4-8a8b-9a583b6e21c3",
-      "width": 132,
-      "x": 33,
-      "y": 20,
-      "zOrder": 49,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "depth": 1.6216216216216217,
       "height": 24.324324324324323,
       "keepRatio": true,
@@ -162,8 +145,8 @@
       "name": "hp_1",
       "persistentUuid": "93d6d1a6-e3f2-4029-9908-041cd1470acb",
       "width": 30,
-      "x": 215,
-      "y": 35,
+      "x": 241,
+      "y": 43,
       "zOrder": 50,
       "numberProperties": [],
       "stringProperties": [],
@@ -179,8 +162,8 @@
       "name": "hp_2",
       "persistentUuid": "d1d1db60-0b2d-43b9-a76e-5afc3a49873c",
       "width": 30,
-      "x": 260,
-      "y": 35,
+      "x": 276,
+      "y": 42,
       "zOrder": 51,
       "numberProperties": [],
       "stringProperties": [],
@@ -196,8 +179,8 @@
       "name": "hp_3",
       "persistentUuid": "b6cab9d5-d056-4613-921d-9b1884dc7a9d",
       "width": 30,
-      "x": 305,
-      "y": 35,
+      "x": 310,
+      "y": 42,
       "zOrder": 52,
       "numberProperties": [],
       "stringProperties": [],
@@ -1250,8 +1233,8 @@
       "name": "blur",
       "persistentUuid": "85af7061-6ef7-432b-9057-2a8919be5f1f",
       "width": 1470,
-      "x": -70,
-      "y": -84,
+      "x": -91,
+      "y": -70,
       "zOrder": 78,
       "numberProperties": [],
       "stringProperties": [],
@@ -1303,6 +1286,40 @@
       "x": 680,
       "y": 344,
       "zOrder": 81,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 55,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "Menu",
+      "persistentUuid": "f8e48d01-608b-4f53-b19a-c75726c5f9a4",
+      "width": 55,
+      "x": 46,
+      "y": 23,
+      "zOrder": 94,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 80.11688311688312,
+      "keepRatio": true,
+      "layer": "",
+      "name": "health_bar",
+      "persistentUuid": "06be010d-0996-4f56-b49a-b2a74e6604bd",
+      "width": 199,
+      "x": 191,
+      "y": 14,
+      "zOrder": 95,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -5059,7 +5076,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Pixel Heart Sprite Sheet 32x32",
+                  "image": "Heart4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5169,7 +5186,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Pixel Heart Sprite Sheet 32x32",
+                  "image": "Heart5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5279,7 +5296,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Pixel Heart Sprite Sheet 32x32",
+                  "image": "Heart6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -14971,6 +14988,66 @@
         "align": "left",
         "wordWrap": true
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "health_bar",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Health Bar3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 154,
+                        "y": 0
+                      },
+                      {
+                        "x": 154,
+                        "y": 62
+                      },
+                      {
+                        "x": 0,
+                        "y": 62
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -15104,6 +15181,9 @@
       },
       {
         "objectName": "GameOver"
+      },
+      {
+        "objectName": "health_bar"
       }
     ]
   },
@@ -16766,6 +16846,10 @@
     {
       "name": "Text",
       "type": "TextContainerCapability::TextContainerBehavior"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
     }
   ]
 }

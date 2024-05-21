@@ -19409,6 +19409,60 @@
         "name": "unmute",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprite8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprite8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sprite8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Health Bar3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health Bar3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Heart4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Heart4.png\",\"extension\":\".png\"}",
+        "name": "Heart4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Heart5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Heart5.png\",\"extension\":\".png\"}",
+        "name": "Heart5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Heart6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Heart6.png\",\"extension\":\".png\"}",
+        "name": "Heart6.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -19768,7 +19822,14 @@
       "name": "Music",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "mute",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "effects": [
         {
           "effectType": "Outline",
@@ -19899,6 +19960,98 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Resume",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "sound",
+          "type": "boolean",
+          "value": false
+        }
+      ],
+      "effects": [
+        {
+          "effectType": "Outline",
+          "name": "Effect",
+          "doubleParameters": {
+            "padding": 4,
+            "thickness": 2
+          },
+          "stringParameters": {
+            "color": "255;255;255"
+          },
+          "booleanParameters": {}
+        }
+      ],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "Sprite8",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Sprite8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 0
+                      },
+                      {
+                        "x": 14,
+                        "y": 14
+                      },
+                      {
+                        "x": 0,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -19918,6 +20071,9 @@
       },
       {
         "objectName": "Music"
+      },
+      {
+        "objectName": "Resume"
       }
     ]
   },
@@ -20017,6 +20173,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/menuscene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/pausescene"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,

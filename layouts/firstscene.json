@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 2.130165915900412,
+    "zoomFactor": 1.0973679695630234,
     "windowMask": false
   },
   "objectsGroups": [
@@ -21649,6 +21649,15 @@
           "actions": [
             {
               "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "Button",
+                "True"
+              ]
+            },
+            {
+              "type": {
                 "value": "ToggleSceneVariableAsBoolean"
               },
               "parameters": [
@@ -21706,6 +21715,162 @@
                 "",
                 "\"TransitionScene\"",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Pause",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ToggleGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "Button"
+              ]
+            },
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"PauseScene\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Music",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ToggleGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "Button"
+              ]
+            },
+            {
+              "type": {
+                "value": "ToggleObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Music",
+                "mute"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Music",
+                "mute",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Music",
+                "Animation",
+                "=",
+                "\"unmute\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModGlobalVolume"
+              },
+              "parameters": [
+                "",
+                "=",
+                "100"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Music",
+                "mute",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Music",
+                "Animation",
+                "=",
+                "\"mute\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModGlobalVolume"
+              },
+              "parameters": [
+                "",
+                "=",
+                "0"
               ]
             }
           ]
