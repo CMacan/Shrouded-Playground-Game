@@ -15311,6 +15311,16 @@
           "actions": [
             {
               "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
                 "value": "ToggleGlobalVariableAsBoolean"
               },
               "parameters": [
@@ -15352,6 +15362,16 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "=",
+                "0"
+              ]
+            },
             {
               "type": {
                 "value": "ToggleGlobalVariableAsBoolean"
@@ -15517,43 +15537,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-              },
-              "parameters": [
-                "SettingsBtn",
-                "ButtonFSM",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "SceneTransition",
-                "=",
-                "\"MenuScene\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"TransitionScene\"",
-                ""
-              ]
-            }
-          ]
         }
       ],
       "parameters": []
@@ -15563,6 +15546,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "TRAPS",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -15688,6 +15672,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "COINS & SCORE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -15767,6 +15752,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "ENEMY",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -16020,6 +16006,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "PLAYER MOVEMENTS",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -16287,6 +16274,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "OFF SCREEN OF CHARACTER TRAPPING",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -16328,6 +16316,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "PLAYER LIFE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -16527,6 +16516,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "CAMERA",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -16595,6 +16585,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",

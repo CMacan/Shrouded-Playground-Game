@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.7370816317994568,
+    "zoomFactor": 3.067941434208794,
     "windowMask": false
   },
   "objectsGroups": [
@@ -61,6 +61,9 @@
         },
         {
           "name": "PinkMsg"
+        },
+        {
+          "name": "ClickToCont2"
         }
       ]
     }
@@ -225,22 +228,6 @@
       "x": 310,
       "y": 41,
       "zOrder": 52,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "UI",
-      "name": "ScoreText",
-      "persistentUuid": "68a757a7-7b28-4ff2-ba5c-48e70a09063d",
-      "width": 0,
-      "x": 1172,
-      "y": 22,
-      "zOrder": 53,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1753,31 +1740,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 68,
+      "height": 84,
       "keepRatio": true,
       "layer": "",
       "name": "appear_cue",
       "persistentUuid": "e14811f0-4eb1-470e-bd8e-4346522a96ba",
       "width": 8,
       "x": 1097,
-      "y": 598,
+      "y": 593,
       "zOrder": 84,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Block",
-      "persistentUuid": "463a65bd-dff5-4170-a50f-251980d547f8",
-      "width": 0,
-      "x": 1056,
-      "y": 659,
-      "zOrder": -5,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2025,7 +1996,7 @@
       "width": 0,
       "x": 388,
       "y": 469,
-      "zOrder": 91,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2234,7 +2205,7 @@
       "width": 0,
       "x": 105,
       "y": 469,
-      "zOrder": 92,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2727,15 +2698,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 22,
       "keepRatio": true,
       "layer": "",
       "name": "ZekeMsg",
       "persistentUuid": "d290672f-ce05-4679-96a3-8f07c31831f7",
-      "width": 0,
+      "width": 38,
       "x": 1120,
-      "y": 616,
+      "y": 612,
       "zOrder": 95,
       "numberProperties": [],
       "stringProperties": [],
@@ -2750,7 +2722,7 @@
       "name": "ClickToCont",
       "persistentUuid": "0901d8f1-6121-4dda-a4a7-a60e1e649c0f",
       "width": 0,
-      "x": 1116,
+      "x": 1117,
       "y": 601,
       "zOrder": 96,
       "numberProperties": [],
@@ -2803,6 +2775,54 @@
       "x": 1057,
       "y": 611,
       "zOrder": 98,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "ScoreText",
+      "persistentUuid": "ca55f223-b835-46fb-86d0-26b7805b80ba",
+      "width": 0,
+      "x": 1097,
+      "y": 21,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "ClickToCont2",
+      "persistentUuid": "bbeb7f1d-7899-4de9-9db0-2303675fd3e9",
+      "width": 0,
+      "x": 1043,
+      "y": 639,
+      "zOrder": 102,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Block",
+      "persistentUuid": "9761c369-4d21-400f-b197-da498e772b33",
+      "width": 0,
+      "x": 1050,
+      "y": 659,
+      "zOrder": -5,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -6727,54 +6747,6 @@
           ]
         }
       ]
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "ScoreText",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [
-        {
-          "folded": true,
-          "name": "ScoreText",
-          "type": "number",
-          "value": 0
-        }
-      ],
-      "effects": [],
-      "behaviors": [],
-      "string": "Score: 0",
-      "font": "Pixellari.ttf",
-      "textAlignment": "left",
-      "characterSize": 20,
-      "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "Score: 0",
-        "font": "Pixellari.ttf",
-        "textAlignment": "left",
-        "characterSize": 20,
-        "color": "0;0;0"
-      }
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -20931,8 +20903,25 @@
         {
           "folded": true,
           "name": "clicked",
-          "type": "number",
-          "value": 0
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "folded": true,
+          "name": "CB1",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "folded": true,
+          "name": "CB2",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "CB3",
+          "type": "boolean",
+          "value": false
         }
       ],
       "effects": [],
@@ -21191,13 +21180,13 @@
       "effects": [],
       "behaviors": [],
       "content": {
-        "text": "ARGHH! Who\ngoes there?",
+        "text": "ARGHHH! \nWho goes \nthere?",
         "opacity": 255,
         "scale": 0.08,
         "fontSize": 20,
         "tint": "255;255;255",
-        "bitmapFontResourceName": "onesize.fnt",
-        "textureAtlasResourceName": "onesize.png",
+        "bitmapFontResourceName": "roboto2.fnt",
+        "textureAtlasResourceName": "roboto2.png",
         "align": "left",
         "wordWrap": true
       }
@@ -21212,11 +21201,11 @@
       "content": {
         "text": "(click to continue)",
         "opacity": 255,
-        "scale": 0.05,
+        "scale": 0.06,
         "fontSize": 20,
         "tint": "255;255;255",
-        "bitmapFontResourceName": "minecraftia.fnt",
-        "textureAtlasResourceName": "minecraftia.png",
+        "bitmapFontResourceName": "roboto4.fnt",
+        "textureAtlasResourceName": "roboto4.png",
         "align": "left",
         "wordWrap": true
       }
@@ -21321,6 +21310,24 @@
           "name": "clicked",
           "type": "number",
           "value": 0
+        },
+        {
+          "folded": true,
+          "name": "CB1",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "folded": true,
+          "name": "CB2",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "folded": true,
+          "name": "CB3",
+          "type": "boolean",
+          "value": false
         }
       ],
       "effects": [],
@@ -21400,9 +21407,9 @@
         "opacity": 255,
         "scale": 0.08,
         "fontSize": 20,
-        "tint": "255;255;255",
-        "bitmapFontResourceName": "onesize.fnt",
-        "textureAtlasResourceName": "onesize.png",
+        "tint": "0;0;0",
+        "bitmapFontResourceName": "roboto.fnt",
+        "textureAtlasResourceName": "roboto.png",
         "align": "left",
         "wordWrap": true
       }
@@ -21428,19 +21435,38 @@
     },
     {
       "assetStoreId": "",
-      "name": "PinkMsg3",
+      "name": "ScoreText",
       "type": "BitmapText::BitmapTextObject",
       "variables": [],
       "effects": [],
       "behaviors": [],
       "content": {
-        "text": "Hey there! This \nplace looks like \na lot of fun and \neasy, doesn't it?",
+        "text": "Score: 0",
         "opacity": 255,
-        "scale": 0.08,
+        "scale": 0.5,
         "fontSize": 20,
         "tint": "255;255;255",
-        "bitmapFontResourceName": "onesize.fnt",
-        "textureAtlasResourceName": "onesize.png",
+        "bitmapFontResourceName": "Pixel5.fnt",
+        "textureAtlasResourceName": "Pixel6.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "ClickToCont2",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "(click to continue)",
+        "opacity": 255,
+        "scale": 0.06,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "roboto3.fnt",
+        "textureAtlasResourceName": "roboto3.png",
         "align": "left",
         "wordWrap": true
       }
@@ -21633,9 +21659,6 @@
         "objectName": "PinkMsg2"
       },
       {
-        "objectName": "PinkMsg3"
-      },
-      {
         "objectName": "ZekeMsg"
       },
       {
@@ -21643,6 +21666,9 @@
       },
       {
         "objectName": "ClickToCont"
+      },
+      {
+        "objectName": "ClickToCont2"
       },
       {
         "objectName": "wood"
@@ -21655,6 +21681,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "AT THE BEGINNING OF THE SCENE & BUTTONS",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -22121,7 +22148,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "0.5"
+                "0.15"
               ]
             },
             {
@@ -22720,17 +22747,6 @@
                 "-",
                 "1"
               ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "ScoreText",
-                "Text",
-                "=",
-                "\"Score: \" + GlobalVariableString(score)"
-              ]
             }
           ],
           "events": [
@@ -22839,17 +22855,6 @@
                 "score",
                 "-",
                 "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "ScoreText",
-                "Text",
-                "=",
-                "\"Score: \" + GlobalVariableString(score)"
               ]
             }
           ],
@@ -22960,17 +22965,6 @@
                 "-",
                 "1"
               ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "ScoreText",
-                "Text",
-                "=",
-                "\"Score: \" + GlobalVariableString(score)"
-              ]
             }
           ],
           "events": [
@@ -23079,17 +23073,6 @@
                 "score",
                 "-",
                 "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "ScoreText",
-                "Text",
-                "=",
-                "\"Score: \" + GlobalVariableString(score)"
               ]
             }
           ],
@@ -23200,17 +23183,6 @@
                 "-",
                 "1"
               ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "ScoreText",
-                "Text",
-                "=",
-                "\"Score: \" + GlobalVariableString(score)"
-              ]
             }
           ],
           "events": [
@@ -23319,17 +23291,6 @@
                 "score",
                 "-",
                 "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "ScoreText",
-                "Text",
-                "=",
-                "\"Score: \" + GlobalVariableString(score)"
               ]
             }
           ],
@@ -23655,17 +23616,6 @@
                 },
                 {
                   "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "ScoreText",
-                    "Text",
-                    "=",
-                    "\"Score: \" + GlobalVariableString(score)"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "AddForceXY"
                   },
                   "parameters": [
@@ -23736,17 +23686,6 @@
                     "score",
                     "-",
                     "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "ScoreText",
-                    "Text",
-                    "=",
-                    "\"Score: \" + GlobalVariableString(score)"
                   ]
                 },
                 {
@@ -23944,17 +23883,6 @@
                 },
                 {
                   "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "ScoreText",
-                    "Text",
-                    "=",
-                    "\"Score: \" + GlobalVariableString(score)"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "AddForceXY"
                   },
                   "parameters": [
@@ -24025,17 +23953,6 @@
                     "score",
                     "-",
                     "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "ScoreText",
-                    "Text",
-                    "=",
-                    "\"Score: \" + GlobalVariableString(score)"
                   ]
                 },
                 {
@@ -24225,17 +24142,6 @@
                 },
                 {
                   "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "ScoreText",
-                    "Text",
-                    "=",
-                    "\"Score: \" + GlobalVariableString(score)"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "AddForceXY"
                   },
                   "parameters": [
@@ -24306,17 +24212,6 @@
                     "score",
                     "-",
                     "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "ScoreText",
-                    "Text",
-                    "=",
-                    "\"Score: \" + GlobalVariableString(score)"
                   ]
                 },
                 {
@@ -24954,6 +24849,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "CAMERA",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -25170,6 +25066,28 @@
           "actions": [
             {
               "type": {
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "JDSherbert - Ambiences Music Pack - Cosmic Star2.mp3",
+                "2",
+                "",
+                "GlobalVariable(Settings.Music)",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "ToggleObjectVariableAsBoolean"
               },
               "parameters": [
@@ -25197,6 +25115,25 @@
             },
             {
               "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Zeke",
+                "Animation",
+                "=",
+                "\"pop out\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
+              ]
+            },
+            {
+              "type": {
                 "value": "PlaySound"
               },
               "parameters": [
@@ -25205,17 +25142,6 @@
                 "",
                 "GlobalVariable(Settings.Sound)",
                 "0.8"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Zeke",
-                "Animation",
-                "=",
-                "\"pop out\""
               ]
             },
             {
@@ -25242,7 +25168,7 @@
                 "value": "Montre"
               },
               "parameters": [
-                "ZekeChatbox",
+                "Zeke_CB1",
                 ""
               ]
             }
@@ -25393,6 +25319,16 @@
                 },
                 {
                   "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "ZekeChatbox",
+                    "clicked",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "BuiltinCommonInstructions::Once"
                   },
                   "parameters": []
@@ -25401,15 +25337,320 @@
               "actions": [
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "ZekeChatbox",
+                    "CB1",
+                    "True"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Zeke_CB1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
                   },
                   "parameters": [
                     "ZekeChatbox",
                     "clicked",
-                    "+",
+                    "True"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "ZekeChatbox",
+                    "CB1",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Pink_CB1",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "PinkChatbox",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "PinkMsg",
+                    "Text",
+                    "=",
+                    "\"and easy,\ndoesn't it?\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
                     "1"
                   ]
                 },
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "ZekeChatbox",
+                    "CB2",
+                    "True"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "ZekeChatbox",
+                    "CB2",
+                    "True"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "ZekeChatbox",
+                    "CB1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Pink_CB1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Zeke_CB1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "ClickToCont"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ZekeMsg",
+                    "Text",
+                    "=",
+                    "\"Oh, it may\nseem that \nway, but let\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ZekeMsg",
+                    "Text",
+                    "=",
+                    "\"me tell you, \nhidden within \nare levels of \nterror\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ZekeMsg",
+                    "Text",
+                    "=",
+                    "\"This is \njust the \nbeginning.\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ZekeMsg",
+                    "Text",
+                    "=",
+                    "\"I've been \ntrapped in \nthis loop \nfor 20 years,\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ZekeMsg",
+                    "Text",
+                    "=",
+                    "\"unable to \nbreak free.\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ZekeMsg",
+                    "Text",
+                    "=",
+                    "\"Are you sure \nyou want to \ncontinue?\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "ClickToCont",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "ZekeChatbox",
+                    "CB3",
+                    "True"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "ZekeChatbox",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "ZekeChatbox",
+                    "CB3",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
                 {
                   "type": {
                     "value": "ActivateBehavior"
@@ -25428,66 +25669,48 @@
                     "appear_cue",
                     ""
                   ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarObjet"
-              },
-              "parameters": [
-                "ZekeChatbox",
-                "clicked",
-                "=",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ZoomCamera"
-              },
-              "parameters": [
-                "",
-                "1.5",
-                "",
-                ""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetCameraCenterX"
-                  },
-                  "parameters": [
-                    "",
-                    "=",
-                    "lerp(CameraX(),PinkMan.X(),0.05)",
-                    "",
-                    ""
-                  ]
                 },
                 {
                   "type": {
-                    "value": "SetCameraCenterY"
+                    "value": "ZoomCamera"
                   },
                   "parameters": [
                     "",
-                    "=",
-                    "lerp(CameraY(),PinkMan.Y(),0.05)",
+                    "1.5",
                     "",
                     ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetCameraCenterX"
+                      },
+                      "parameters": [
+                        "",
+                        "=",
+                        "lerp(CameraX(),PinkMan.X(),0.05)",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetCameraCenterY"
+                      },
+                      "parameters": [
+                        "",
+                        "=",
+                        "lerp(CameraY(),PinkMan.Y(),0.05)",
+                        "",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]

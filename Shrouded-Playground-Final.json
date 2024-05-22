@@ -19552,6 +19552,106 @@
         "name": "3784ee7ff11f782003164a97976afa4be9e15386c92e5c4cba73174126e1ea6d_9patch_Wood 9Patch_west2",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "file": "Retro2.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Retro2.fnt",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Retro2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Retro2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "roboto.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "roboto.fnt",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "roboto.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "roboto.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "roboto2.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "roboto2.fnt",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "roboto2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "roboto2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "roboto3.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "roboto3.fnt",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "roboto3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "roboto3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "roboto4.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "roboto4.fnt",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "roboto4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "roboto4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "JDSherbert - Ambiences Music Pack - Cosmic Star.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "JDSherbert - Ambiences Music Pack - Cosmic Star.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "JDSherbert - Ambiences Music Pack - Cosmic Star2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "JDSherbert - Ambiences Music Pack - Cosmic Star2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
