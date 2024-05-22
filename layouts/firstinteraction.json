@@ -5,7 +5,7 @@
   "name": "FirstInteraction",
   "r": 32,
   "standardSortMethod": true,
-  "stopSoundsOnStartup": true,
+  "stopSoundsOnStartup": false,
   "title": "",
   "v": 32,
   "uiSettings": {

@@ -19463,6 +19463,95 @@
         "name": "Heart6.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mute.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mute",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "onesize.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "onesize.fnt",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "onesize.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "onesize.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "Minecraftia-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Minecraftia-Regular.ttf",
+        "userAdded": true
+      },
+      {
+        "file": "minecraftia.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "minecraftia.fnt",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "minecraftia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "minecraftia.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "Retro Blop StereoUP 04.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Retro Blop StereoUP 04.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Wood 9Patch_west.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3784ee7ff11f782003164a97976afa4be9e15386c92e5c4cba73174126e1ea6d_9patch_Wood 9Patch_west.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/3784ee7ff11f782003164a97976afa4be9e15386c92e5c4cba73174126e1ea6d_9patch_Wood 9Patch_west.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/3784ee7ff11f782003164a97976afa4be9e15386c92e5c4cba73174126e1ea6d_9patch_Wood 9Patch_west.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "3784ee7ff11f782003164a97976afa4be9e15386c92e5c4cba73174126e1ea6d_9patch_Wood 9Patch_west",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/3784ee7ff11f782003164a97976afa4be9e15386c92e5c4cba73174126e1ea6d_9patch_Wood 9Patch_west2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "3784ee7ff11f782003164a97976afa4be9e15386c92e5c4cba73174126e1ea6d_9patch_Wood 9Patch_west2",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -19921,7 +20010,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Sprite7",
+                  "image": "mute",
                   "points": [],
                   "originPoint": {
                     "name": "origine",

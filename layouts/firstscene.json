@@ -5,7 +5,7 @@
   "name": "FirstScene",
   "r": 170,
   "standardSortMethod": true,
-  "stopSoundsOnStartup": true,
+  "stopSoundsOnStartup": false,
   "title": "",
   "v": 173,
   "uiSettings": {
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.0973679695630234,
+    "zoomFactor": 1.0973679695630303,
     "windowMask": false
   },
   "objectsGroups": [
@@ -36,6 +36,31 @@
         },
         {
           "name": "BottomBoundary"
+        }
+      ]
+    },
+    {
+      "name": "Zeke_CB1",
+      "objects": [
+        {
+          "name": "ZekeChatbox"
+        },
+        {
+          "name": "ZekeMsg"
+        },
+        {
+          "name": "ClickToCont"
+        }
+      ]
+    },
+    {
+      "name": "Pink_CB1",
+      "objects": [
+        {
+          "name": "PinkChatbox"
+        },
+        {
+          "name": "PinkMsg"
         }
       ]
     }
@@ -76,6 +101,12 @@
       "name": "button_tween",
       "type": "boolean",
       "value": false
+    },
+    {
+      "folded": true,
+      "name": "camera_zoom",
+      "type": "number",
+      "value": 1.5
     }
   ],
   "instances": [
@@ -142,7 +173,7 @@
       "width": 31,
       "x": 11,
       "y": 624,
-      "zOrder": 48,
+      "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -516,23 +547,6 @@
       "initialVariables": []
     },
     {
-      "angle": 270,
-      "customSize": true,
-      "depth": 1,
-      "height": 110,
-      "keepRatio": true,
-      "layer": "",
-      "name": "WoodPlatform",
-      "persistentUuid": "2b4581fd-cebd-4f57-b31e-ac9db19b8a2e",
-      "width": 77,
-      "x": 70,
-      "y": 414,
-      "zOrder": 50,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
       "angle": 0,
       "customSize": true,
       "depth": 1,
@@ -542,7 +556,7 @@
       "name": "WoodPlatform",
       "persistentUuid": "e658217e-6d93-4265-8e5f-fdf9dbfa9d6c",
       "width": 93,
-      "x": 53,
+      "x": 50,
       "y": 425,
       "zOrder": 63,
       "numberProperties": [],
@@ -920,8 +934,8 @@
       "name": "StonePlatform",
       "persistentUuid": "5f9fde6b-876c-4a48-9062-b92b4983378d",
       "width": 50,
-      "x": 676,
-      "y": 340,
+      "x": 680,
+      "y": 338,
       "zOrder": 69,
       "numberProperties": [],
       "stringProperties": [],
@@ -1553,8 +1567,8 @@
       "name": "ladder_top",
       "persistentUuid": "cdcd09b2-4381-43d1-9be7-8298f384eb7f",
       "width": 0,
-      "x": 339,
-      "y": 493,
+      "x": 719,
+      "y": 338,
       "zOrder": 81,
       "numberProperties": [],
       "stringProperties": [],
@@ -1771,15 +1785,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 2,
-      "height": 25,
+      "depth": 3,
+      "height": 38,
       "keepRatio": true,
       "layer": "",
-      "name": "NewSprite7",
+      "name": "ZekeChatbox",
       "persistentUuid": "12fa6a21-8e85-4a5d-8ba5-4c8a70a7e148",
-      "width": 27,
-      "x": 1126,
-      "y": 620,
+      "width": 41,
+      "x": 1115,
+      "y": 607,
       "zOrder": 85,
       "numberProperties": [],
       "stringProperties": [],
@@ -2027,7 +2041,7 @@
       "width": 0,
       "x": 241,
       "y": 469,
-      "zOrder": 91,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2043,7 +2057,7 @@
       "width": 0,
       "x": 265,
       "y": 469,
-      "zOrder": 91,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2057,9 +2071,9 @@
       "name": "GrassForeground",
       "persistentUuid": "e9dd6e8b-140d-4b41-afa7-a7d37f8a60e5",
       "width": 0,
-      "x": 77,
-      "y": 402,
-      "zOrder": 91,
+      "x": 71,
+      "y": 401,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2075,7 +2089,7 @@
       "width": 0,
       "x": 115,
       "y": 402,
-      "zOrder": 91,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2123,7 +2137,7 @@
       "width": 0,
       "x": 218,
       "y": 469,
-      "zOrder": 91,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2204,7 +2218,7 @@
       "width": 0,
       "x": 122,
       "y": 469,
-      "zOrder": 92,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2236,7 +2250,7 @@
       "width": 0,
       "x": 94,
       "y": 469,
-      "zOrder": 92,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2519,22 +2533,6 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "GrassForeground",
-      "persistentUuid": "c6da742e-701e-4108-a2bd-68b5ba5b758c",
-      "width": 0,
-      "x": 687,
-      "y": 317,
-      "zOrder": 86,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
       "name": "BushForeground",
       "persistentUuid": "bea9d0e5-25fa-41d3-ae61-7772f7ea74f7",
       "width": 0,
@@ -2742,6 +2740,104 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "ladder_top",
+      "persistentUuid": "b4752a8a-6252-46b3-aa40-278f08e91654",
+      "width": 0,
+      "x": 339,
+      "y": 493,
+      "zOrder": 81,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "ZekeMsg",
+      "persistentUuid": "d290672f-ce05-4679-96a3-8f07c31831f7",
+      "width": 0,
+      "x": 1120,
+      "y": 616,
+      "zOrder": 95,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "ClickToCont",
+      "persistentUuid": "0901d8f1-6121-4dda-a4a7-a60e1e649c0f",
+      "width": 0,
+      "x": 1116,
+      "y": 601,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 90,
+      "keepRatio": true,
+      "layer": "",
+      "name": "wood",
+      "persistentUuid": "e24c298e-bb60-481a-b5ec-3a11a76b3a3b",
+      "width": 28,
+      "x": 50,
+      "y": 421,
+      "zOrder": 53,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3.2368421052631575,
+      "height": 37.76315789473684,
+      "keepRatio": true,
+      "layer": "",
+      "name": "PinkChatbox",
+      "persistentUuid": "bb3f19b2-f01c-4464-97fc-27e5b5bc6403",
+      "width": 41,
+      "x": 1050,
+      "y": 607,
+      "zOrder": 97,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "PinkMsg",
+      "persistentUuid": "97a59a0d-3cfe-4238-b77e-8c3238d9cf3f",
+      "width": 0,
+      "x": 1057,
+      "y": 611,
+      "zOrder": 98,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -2780,8 +2876,8 @@
       "behaviors": [
         {
           "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior",
           "platformType": "Jumpthru",
+          "type": "PlatformBehavior::PlatformBehavior",
           "canBeGrabbed": false,
           "yGrabOffset": 0
         }
@@ -20860,10 +20956,17 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "NewSprite7",
+      "name": "ZekeChatbox",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "clicked",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "effects": [],
       "behaviors": [
         {
@@ -21111,6 +21214,268 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "ZekeMsg",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "ARGHH! Who\ngoes there?",
+        "opacity": 255,
+        "scale": 0.08,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "onesize.fnt",
+        "textureAtlasResourceName": "onesize.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "ClickToCont",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "(click to continue)",
+        "opacity": 255,
+        "scale": 0.05,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "minecraftia.fnt",
+        "textureAtlasResourceName": "minecraftia.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "ZekeMsg2",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Oh, it may \nseem that \nway, but let \nme tell you, ",
+        "opacity": 255,
+        "scale": 0.08,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "onesize.fnt",
+        "textureAtlasResourceName": "onesize.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "wood",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": false,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "3784ee7ff11f782003164a97976afa4be9e15386c92e5c4cba73174126e1ea6d_9patch_Wood 9Patch_west",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "3784ee7ff11f782003164a97976afa4be9e15386c92e5c4cba73174126e1ea6d_9patch_Wood 9Patch_west2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 2
+                      },
+                      {
+                        "x": 9,
+                        "y": 2
+                      },
+                      {
+                        "x": 9,
+                        "y": 20
+                      },
+                      {
+                        "x": 0,
+                        "y": 20
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "PinkChatbox",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "clicked",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "bd0e738cad342617445442e3ce611ab87d36175ff2793af04b2e20450659f294_Message",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "bd0e738cad342617445442e3ce611ab87d36175ff2793af04b2e20450659f294_Message3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 15
+                      },
+                      {
+                        "x": 0,
+                        "y": 15
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "PinkMsg",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Hey there! \nThis place \nlooks like \na lot of fun \n",
+        "opacity": 255,
+        "scale": 0.08,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "onesize.fnt",
+        "textureAtlasResourceName": "onesize.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "PinkMsg2",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "and easy, \ndoesn't it?",
+        "opacity": 255,
+        "scale": 0.08,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "onesize.fnt",
+        "textureAtlasResourceName": "onesize.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "PinkMsg3",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Hey there! This \nplace looks like \na lot of fun and \neasy, doesn't it?",
+        "opacity": 255,
+        "scale": 0.08,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "onesize.fnt",
+        "textureAtlasResourceName": "onesize.png",
+        "align": "left",
+        "wordWrap": true
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -21279,7 +21644,10 @@
         "objectName": "appear_cue"
       },
       {
-        "objectName": "NewSprite7"
+        "objectName": "ZekeChatbox"
+      },
+      {
+        "objectName": "PinkChatbox"
       },
       {
         "objectName": "BushForeground"
@@ -21289,6 +21657,27 @@
       },
       {
         "objectName": "PalmTree"
+      },
+      {
+        "objectName": "PinkMsg"
+      },
+      {
+        "objectName": "PinkMsg2"
+      },
+      {
+        "objectName": "PinkMsg3"
+      },
+      {
+        "objectName": "ZekeMsg"
+      },
+      {
+        "objectName": "ZekeMsg2"
+      },
+      {
+        "objectName": "ClickToCont"
+      },
+      {
+        "objectName": "wood"
       }
     ]
   },
@@ -21385,7 +21774,15 @@
                 "value": "Cache"
               },
               "parameters": [
-                "NewSprite7"
+                "Zeke_CB1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Pink_CB1"
               ]
             }
           ]
@@ -21649,11 +22046,10 @@
           "actions": [
             {
               "type": {
-                "value": "SetGlobalVariableAsBoolean"
+                "value": "ToggleGlobalVariableAsBoolean"
               },
               "parameters": [
-                "Button",
-                "True"
+                "Button"
               ]
             },
             {
@@ -21709,6 +22105,16 @@
             },
             {
               "type": {
+                "value": "ModGlobalVolume"
+              },
+              "parameters": [
+                "",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -21740,6 +22146,14 @@
               },
               "parameters": [
                 "Button"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.5"
               ]
             },
             {
@@ -24572,7 +24986,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "CAMERA",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -24641,6 +25054,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "PLATFORMS",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -24759,7 +25173,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "LEVEL COMPLETE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -24816,6 +25229,18 @@
             },
             {
               "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Retro Blop StereoUP 04.wav",
+                "",
+                "GlobalVariable(Settings.Sound)",
+                "0.8"
+              ]
+            },
+            {
+              "type": {
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
@@ -24849,7 +25274,7 @@
                 "value": "Montre"
               },
               "parameters": [
-                "NewSprite7",
+                "ZekeChatbox",
                 ""
               ]
             }
@@ -24881,12 +25306,52 @@
           "actions": [
             {
               "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "Variable(camera_zoom)",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "ActivateBehavior"
               },
               "parameters": [
                 "PinkMan",
                 "PlatformerObject",
                 ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "camera_zoom",
+                    "<",
+                    "2.5"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "camera_zoom",
+                    "+",
+                    "0.1"
+                  ]
+                }
               ]
             }
           ]
@@ -24953,7 +25418,7 @@
                     "value": "ButtonStates::ButtonFSM::IsClicked"
                   },
                   "parameters": [
-                    "NewSprite7",
+                    "ZekeChatbox",
                     "ButtonFSM",
                     ""
                   ]
@@ -24966,6 +25431,17 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "ZekeChatbox",
+                    "clicked",
+                    "+",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "ActivateBehavior"
@@ -24982,6 +25458,67 @@
                   },
                   "parameters": [
                     "appear_cue",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "ZekeChatbox",
+                "clicked",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "1.5",
+                "",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetCameraCenterX"
+                  },
+                  "parameters": [
+                    "",
+                    "=",
+                    "lerp(CameraX(),PinkMan.X(),0.05)",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetCameraCenterY"
+                  },
+                  "parameters": [
+                    "",
+                    "=",
+                    "lerp(CameraY(),PinkMan.Y(),0.05)",
+                    "",
                     ""
                   ]
                 }

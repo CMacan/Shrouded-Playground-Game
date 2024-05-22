@@ -5,7 +5,7 @@
   "name": "PauseScene",
   "r": 32,
   "standardSortMethod": true,
-  "stopSoundsOnStartup": true,
+  "stopSoundsOnStartup": false,
   "title": "",
   "v": 32,
   "uiSettings": {
@@ -219,6 +219,30 @@
             "",
             "GlobalVariable(Settings.Sound)",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "RePlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "2"
           ]
         }
       ]
