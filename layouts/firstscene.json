@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.0973679695630303,
+    "zoomFactor": 0.7370816317994568,
     "windowMask": false
   },
   "objectsGroups": [
@@ -2009,7 +2009,7 @@
       "width": 0,
       "x": 845,
       "y": 527,
-      "zOrder": 89,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2266,39 +2266,7 @@
       "width": 0,
       "x": 994,
       "y": 526,
-      "zOrder": 90,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "GrassForeground",
-      "persistentUuid": "9b628430-14ad-48f2-85ba-01a5df1bf631",
-      "width": 0,
-      "x": 1042,
-      "y": 526,
-      "zOrder": 90,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "GrassForeground",
-      "persistentUuid": "88169c7d-0956-4d5c-9374-adaa95c584d0",
-      "width": 0,
-      "x": 1027,
-      "y": 527,
-      "zOrder": 90,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2314,7 +2282,7 @@
       "width": 0,
       "x": 1093,
       "y": 526,
-      "zOrder": 90,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2330,7 +2298,7 @@
       "width": 0,
       "x": 1052,
       "y": 527,
-      "zOrder": 80,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
