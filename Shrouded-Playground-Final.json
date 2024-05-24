@@ -10754,7 +10754,7 @@
         "alwaysLoaded": false,
         "file": "130.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"130.png\",\"extension\":\".png\"}",
         "name": "130.png",
         "smoothed": false,
         "userAdded": true
@@ -10763,7 +10763,7 @@
         "alwaysLoaded": false,
         "file": "131.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"131.png\",\"extension\":\".png\"}",
         "name": "131.png",
         "smoothed": false,
         "userAdded": true
@@ -10772,7 +10772,7 @@
         "alwaysLoaded": false,
         "file": "132.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"132.png\",\"extension\":\".png\"}",
         "name": "132.png",
         "smoothed": false,
         "userAdded": true
@@ -10781,7 +10781,7 @@
         "alwaysLoaded": false,
         "file": "133.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"133.png\",\"extension\":\".png\"}",
         "name": "133.png",
         "smoothed": false,
         "userAdded": false
@@ -10790,7 +10790,7 @@
         "alwaysLoaded": false,
         "file": "134.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"134.png\",\"extension\":\".png\"}",
         "name": "134.png",
         "smoothed": false,
         "userAdded": true
@@ -10799,7 +10799,7 @@
         "alwaysLoaded": false,
         "file": "135.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"135.png\",\"extension\":\".png\"}",
         "name": "135.png",
         "smoothed": false,
         "userAdded": true
@@ -10808,7 +10808,7 @@
         "alwaysLoaded": false,
         "file": "136.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"136.png\",\"extension\":\".png\"}",
         "name": "136.png",
         "smoothed": false,
         "userAdded": false
@@ -10817,7 +10817,7 @@
         "alwaysLoaded": false,
         "file": "137.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"137.png\",\"extension\":\".png\"}",
         "name": "137.png",
         "smoothed": false,
         "userAdded": true
@@ -10826,7 +10826,7 @@
         "alwaysLoaded": false,
         "file": "138.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"138.png\",\"extension\":\".png\"}",
         "name": "138.png",
         "smoothed": false,
         "userAdded": false
@@ -10835,7 +10835,7 @@
         "alwaysLoaded": false,
         "file": "139.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"139.png\",\"extension\":\".png\"}",
         "name": "139.png",
         "smoothed": false,
         "userAdded": true
@@ -10844,7 +10844,7 @@
         "alwaysLoaded": false,
         "file": "140.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"140.png\",\"extension\":\".png\"}",
         "name": "140.png",
         "smoothed": false,
         "userAdded": true
@@ -10853,7 +10853,7 @@
         "alwaysLoaded": false,
         "file": "141.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"141.png\",\"extension\":\".png\"}",
         "name": "141.png",
         "smoothed": false,
         "userAdded": true
@@ -10862,7 +10862,7 @@
         "alwaysLoaded": false,
         "file": "142.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"142.png\",\"extension\":\".png\"}",
         "name": "142.png",
         "smoothed": false,
         "userAdded": true
@@ -10871,7 +10871,7 @@
         "alwaysLoaded": false,
         "file": "143.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"143.png\",\"extension\":\".png\"}",
         "name": "143.png",
         "smoothed": false,
         "userAdded": true
@@ -10880,7 +10880,7 @@
         "alwaysLoaded": false,
         "file": "144.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"144.png\",\"extension\":\".png\"}",
         "name": "144.png",
         "smoothed": false,
         "userAdded": true
@@ -10889,7 +10889,7 @@
         "alwaysLoaded": false,
         "file": "145.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"145.png\",\"extension\":\".png\"}",
         "name": "145.png",
         "smoothed": false,
         "userAdded": true
@@ -10898,7 +10898,7 @@
         "alwaysLoaded": false,
         "file": "146.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"146.png\",\"extension\":\".png\"}",
         "name": "146.png",
         "smoothed": false,
         "userAdded": true
@@ -10907,7 +10907,7 @@
         "alwaysLoaded": false,
         "file": "147.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"147.png\",\"extension\":\".png\"}",
         "name": "147.png",
         "smoothed": false,
         "userAdded": true
@@ -10916,7 +10916,7 @@
         "alwaysLoaded": false,
         "file": "148.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"148.png\",\"extension\":\".png\"}",
         "name": "148.png",
         "smoothed": false,
         "userAdded": true
@@ -10925,7 +10925,7 @@
         "alwaysLoaded": false,
         "file": "149.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"149.png\",\"extension\":\".png\"}",
         "name": "149.png",
         "smoothed": false,
         "userAdded": true
@@ -10934,7 +10934,7 @@
         "alwaysLoaded": false,
         "file": "150.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"150.png\",\"extension\":\".png\"}",
         "name": "150.png",
         "smoothed": false,
         "userAdded": true
@@ -10943,7 +10943,7 @@
         "alwaysLoaded": false,
         "file": "151.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"151.png\",\"extension\":\".png\"}",
         "name": "151.png",
         "smoothed": false,
         "userAdded": true
@@ -10952,7 +10952,7 @@
         "alwaysLoaded": false,
         "file": "152.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"152.png\",\"extension\":\".png\"}",
         "name": "152.png",
         "smoothed": false,
         "userAdded": true
@@ -10961,7 +10961,7 @@
         "alwaysLoaded": false,
         "file": "153.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"153.png\",\"extension\":\".png\"}",
         "name": "153.png",
         "smoothed": false,
         "userAdded": true
@@ -10970,7 +10970,7 @@
         "alwaysLoaded": false,
         "file": "154.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"154.png\",\"extension\":\".png\"}",
         "name": "154.png",
         "smoothed": false,
         "userAdded": true
@@ -10979,7 +10979,7 @@
         "alwaysLoaded": false,
         "file": "155.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"155.png\",\"extension\":\".png\"}",
         "name": "155.png",
         "smoothed": false,
         "userAdded": false
@@ -10988,7 +10988,7 @@
         "alwaysLoaded": false,
         "file": "156.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"156.png\",\"extension\":\".png\"}",
         "name": "156.png",
         "smoothed": false,
         "userAdded": true
@@ -11069,7 +11069,7 @@
         "alwaysLoaded": false,
         "file": "165.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"165.png\",\"extension\":\".png\"}",
         "name": "165.png",
         "smoothed": false,
         "userAdded": false
@@ -11078,7 +11078,7 @@
         "alwaysLoaded": false,
         "file": "166.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"166.png\",\"extension\":\".png\"}",
         "name": "166.png",
         "smoothed": false,
         "userAdded": true
@@ -11087,7 +11087,7 @@
         "alwaysLoaded": false,
         "file": "167.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"167.png\",\"extension\":\".png\"}",
         "name": "167.png",
         "smoothed": false,
         "userAdded": true
@@ -11096,7 +11096,7 @@
         "alwaysLoaded": false,
         "file": "168.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"168.png\",\"extension\":\".png\"}",
         "name": "168.png",
         "smoothed": false,
         "userAdded": true
@@ -11105,7 +11105,7 @@
         "alwaysLoaded": false,
         "file": "169.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"169.png\",\"extension\":\".png\"}",
         "name": "169.png",
         "smoothed": false,
         "userAdded": true
@@ -11114,7 +11114,7 @@
         "alwaysLoaded": false,
         "file": "170.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"170.png\",\"extension\":\".png\"}",
         "name": "170.png",
         "smoothed": false,
         "userAdded": true
@@ -11123,7 +11123,7 @@
         "alwaysLoaded": false,
         "file": "171.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"171.png\",\"extension\":\".png\"}",
         "name": "171.png",
         "smoothed": false,
         "userAdded": true
@@ -11132,7 +11132,7 @@
         "alwaysLoaded": false,
         "file": "172.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"172.png\",\"extension\":\".png\"}",
         "name": "172.png",
         "smoothed": false,
         "userAdded": true
@@ -11141,7 +11141,7 @@
         "alwaysLoaded": false,
         "file": "173.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"173.png\",\"extension\":\".png\"}",
         "name": "173.png",
         "smoothed": false,
         "userAdded": true
@@ -11150,7 +11150,7 @@
         "alwaysLoaded": false,
         "file": "174.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"174.png\",\"extension\":\".png\"}",
         "name": "174.png",
         "smoothed": false,
         "userAdded": true
@@ -19860,6 +19860,15 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Idle (32x32)11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite.png\"}",
+        "name": "NewTiledSprite",
         "smoothed": false,
         "userAdded": true
       }
