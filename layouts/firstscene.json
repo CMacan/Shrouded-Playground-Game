@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.8416428125373727,
+    "zoomFactor": 0.8700232859857938,
     "windowMask": false
   },
   "objectsGroups": [
@@ -21681,7 +21681,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "AT THE BEGINNING OF THE SCENE & BUTTONS",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -25037,6 +25036,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "LEVEL COMPLETE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
