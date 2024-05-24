@@ -18,7 +18,7 @@
     "gridColor": 4670532,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.3841198046306984,
+    "zoomFactor": 0.6244537826600054,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -34,6 +34,12 @@
       "name": "button_tween",
       "type": "boolean",
       "value": false
+    },
+    {
+      "folded": true,
+      "name": "Running",
+      "type": "number",
+      "value": 0
     }
   ],
   "instances": [
@@ -1289,23 +1295,6 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 68,
-      "keepRatio": true,
-      "layer": "",
-      "name": "SpikeHead2",
-      "persistentUuid": "e596e545-138f-4d85-aef7-d39519c06855",
-      "width": 70,
-      "x": 78,
-      "y": 352,
-      "zOrder": 90,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
       "height": 53,
       "keepRatio": true,
       "layer": "",
@@ -1752,6 +1741,23 @@
       "x": 653,
       "y": 161,
       "zOrder": 150,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 76,
+      "keepRatio": true,
+      "layer": "",
+      "name": "SpikeHead",
+      "persistentUuid": "6676a9e8-6377-407a-a9d2-cf749dea6d91",
+      "width": 82,
+      "x": 69,
+      "y": 345,
+      "zOrder": 93,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -8705,9 +8711,9 @@
       "behaviors": [
         {
           "name": "Platform",
+          "platformType": "Jumpthru",
           "type": "PlatformBehavior::PlatformBehavior",
           "canBeGrabbed": false,
-          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -12052,7 +12058,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
               "timeBetweenFrames": 0.025,
               "sprites": [
                 {
@@ -13014,7 +13020,15 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "Blades",
@@ -14920,7 +14934,14 @@
       "name": "Door",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "door",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "effects": [],
       "behaviors": [],
       "animations": [
@@ -15713,16 +15734,16 @@
       "effects": [],
       "behaviors": [
         {
+          "acceleration": 500,
+          "deceleration": 2000,
+          "jumpSpeed": 470,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
-          "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
           "canGrabWithoutMoving": true,
-          "deceleration": 1500,
           "gravity": 1000,
           "ignoreDefaultControls": false,
-          "jumpSpeed": 600,
           "jumpSustainTime": 0.2,
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 700,
@@ -18431,7 +18452,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "BUTTONS",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -19544,7 +19564,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "PLAYER ATTACK",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -20493,7 +20512,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "PLAYER LIFE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -20712,6 +20730,18 @@
                 "\"TransitionScene\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "PinkMan",
+                "=",
+                "18",
+                "=",
+                "615"
+              ]
             }
           ]
         }
@@ -20723,7 +20753,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "COINS & SCORE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -20926,8 +20955,239 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "PinkMan",
+                "SpikeHead",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Life",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "PinkMan",
+                "=",
+                "18",
+                "=",
+                "615"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "LEVEL COMPLETE",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "PinkMan",
+                "Door",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Door",
+                "door",
+                "True"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Door",
+                "door",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "PinkMan",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Running",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Door",
+                "Animation",
+                "=",
+                "\"Opening\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "PinkMan",
+                "PlatformerObject",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "Success 1.wav",
+                "",
+                "GlobalVariable(Settings.Music)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ToggleGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "level_complete"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "Choose_Level",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"LevelComplete\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Running",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "PinkMan",
+                "Animation",
+                "=",
+                "\"Idle\""
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
