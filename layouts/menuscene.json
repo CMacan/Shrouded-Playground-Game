@@ -4407,19 +4407,6 @@
         },
         {
           "type": {
-            "value": "PlayMusicCanal"
-          },
-          "parameters": [
-            "",
-            "JDSherbert - Ambiences Music Pack - The Blackpenny Pub.mp3",
-            "2",
-            "",
-            "100",
-            ""
-          ]
-        },
-        {
-          "type": {
             "value": "JSONToGlobalVariableStructure"
           },
           "parameters": [
@@ -4445,6 +4432,19 @@
           "parameters": [
             "MusicSlider",
             "=",
+            "GlobalVariable(Settings.Music)",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "JDSherbert - Ambiences Music Pack - The Blackpenny Pub.mp3",
+            "2",
+            "yes",
             "GlobalVariable(Settings.Music)",
             ""
           ]
@@ -4568,6 +4568,15 @@
             "Play",
             "ButtonFSM"
           ]
+        },
+        {
+          "type": {
+            "value": "GlobalVariableAsBoolean"
+          },
+          "parameters": [
+            "Choose_Level",
+            ""
+          ]
         }
       ],
       "actions": [
@@ -4604,6 +4613,57 @@
           "parameters": [
             "",
             "\"TransitionScene\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "Play",
+            "ButtonFSM"
+          ]
+        },
+        {
+          "type": {
+            "value": "GlobalVariableAsBoolean"
+          },
+          "parameters": [
+            "Choose_Level",
+            "True"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ToggleGlobalVariableAsBoolean"
+          },
+          "parameters": [
+            "Button"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "0.5"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"LevelSelectionScene\"",
             ""
           ]
         }
