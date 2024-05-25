@@ -19889,6 +19889,26 @@
         "name": "Pixel12.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "file": "../Gdevelop Resources/SFX/FreeSFX/FreeSFX/Instruments/Retro Instrument - choir bass - C00.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\Gdevelop Resources\\SFX\\FreeSFX\\FreeSFX\\Instruments\\Retro Instrument - choir bass - C00.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "Pixel 2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Pixel 2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

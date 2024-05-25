@@ -18,7 +18,7 @@
     "gridColor": 4670532,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.8141881203710004,
+    "zoomFactor": 1.2530387740589986,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -204,7 +204,7 @@
       "name": "hp_3",
       "persistentUuid": "e6bcb0d0-e870-4106-8df2-2de72ed09ee6",
       "width": 25,
-      "x": 312,
+      "x": 311,
       "y": 42,
       "zOrder": 114,
       "numberProperties": [],
@@ -8774,10 +8774,10 @@
       "effects": [],
       "behaviors": [
         {
+          "canBeGrabbed": false,
           "name": "Platform",
+          "platformType": "Jumpthru",
           "type": "PlatformBehavior::PlatformBehavior",
-          "canBeGrabbed": true,
-          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -19008,6 +19008,19 @@
                 "in_second_scene",
                 "True"
               ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Pixel 2.mp3",
+                "2",
+                "",
+                "GlobalVariable(Settings.Music)",
+                ""
+              ]
             }
           ]
         }
@@ -21481,7 +21494,7 @@
               "parameters": [
                 "Life",
                 "=",
-                "1"
+                "2"
               ]
             },
             {
@@ -21497,7 +21510,7 @@
                 "value": "Cache"
               },
               "parameters": [
-                "hp_2"
+                "hp_3"
               ]
             },
             {
@@ -21535,7 +21548,7 @@
               "parameters": [
                 "Life",
                 "=",
-                "2"
+                "1"
               ]
             },
             {
@@ -21596,7 +21609,7 @@
               },
               "parameters": [
                 "Life",
-                "=",
+                "<=",
                 "0"
               ]
             },
@@ -21683,18 +21696,6 @@
                 "",
                 "\"TransitionScene\"",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "PinkMan",
-                "=",
-                "18",
-                "=",
-                "615"
               ]
             }
           ]
