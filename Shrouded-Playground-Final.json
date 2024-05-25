@@ -20612,6 +20612,12 @@
       "name": "Choose_Level",
       "type": "boolean",
       "value": false
+    },
+    {
+      "folded": true,
+      "name": "in_second_scene",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [

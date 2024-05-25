@@ -22604,6 +22604,16 @@
                 "GlobalVariable(Settings.Music)",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "=",
+                "0"
+              ]
             }
           ]
         }
@@ -23642,6 +23652,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "ENEMY",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
