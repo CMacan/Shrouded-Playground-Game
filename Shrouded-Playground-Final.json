@@ -19871,6 +19871,24 @@
         "name": "NewTiledSprite",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel12.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -20571,12 +20589,6 @@
     },
     {
       "folded": true,
-      "name": "knockback",
-      "type": "boolean",
-      "value": false
-    },
-    {
-      "folded": true,
       "name": "Choose_Level",
       "type": "boolean",
       "value": false
@@ -20610,6 +20622,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/gameover"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/gameoverlv-2"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,

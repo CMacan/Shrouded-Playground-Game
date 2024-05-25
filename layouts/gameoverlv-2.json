@@ -1,8 +1,8 @@
 {
   "b": 67,
   "disableInputWhenNotFocused": true,
-  "mangledName": "SecondScene",
-  "name": "SecondScene",
+  "mangledName": "GameOverLV_462",
+  "name": "GameOverLV.2",
   "r": 50,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -18,7 +18,7 @@
     "gridColor": 4670532,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.8141881203710004,
+    "zoomFactor": 0.3111974942445239,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1635,23 +1635,6 @@
       "height": 48,
       "keepRatio": true,
       "layer": "UI",
-      "name": "Home",
-      "persistentUuid": "f03226df-9a6c-41fa-b6b1-50677cc65cf0",
-      "width": 48,
-      "x": 50,
-      "y": 27,
-      "zOrder": 140,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 48,
-      "keepRatio": true,
-      "layer": "UI",
       "name": "Pause",
       "persistentUuid": "c2e55b67-919c-4a18-b9d7-acc31f69a811",
       "width": 48,
@@ -1775,6 +1758,74 @@
       "x": 1078,
       "y": 212,
       "zOrder": 94,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 953,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "blur",
+      "persistentUuid": "e5969ed6-83c3-40b3-a7d3-b0a15ecdd040",
+      "width": 1567,
+      "x": -204,
+      "y": -65,
+      "zOrder": 151,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "Retry",
+      "persistentUuid": "79c0a3d2-ac3b-44e4-a103-54f3b9581d00",
+      "width": 100,
+      "x": 523,
+      "y": 366,
+      "zOrder": 152,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "Home",
+      "persistentUuid": "909703e7-e69a-4b2d-ae97-922dda1fa23b",
+      "width": 100,
+      "x": 698,
+      "y": 366,
+      "zOrder": 153,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 92,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "NewBitmapText",
+      "persistentUuid": "81b336cc-b5c5-4dc4-97ba-e4062e90655c",
+      "width": 580,
+      "x": 417,
+      "y": 200,
+      "zOrder": 154,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -18859,6 +18910,36 @@
       "variables": [],
       "effects": [],
       "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "blur",
+      "texture": "NewTiledSprite4",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "name": "NewBitmapText",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Game Over",
+        "opacity": 255,
+        "scale": 1.2,
+        "fontSize": 20,
+        "tint": "0;153;219",
+        "bitmapFontResourceName": "Pixel9.fnt",
+        "textureAtlasResourceName": "Pixel12.png",
+        "align": "left",
+        "wordWrap": true
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -18974,6 +19055,12 @@
       },
       {
         "objectName": "PinkMan"
+      },
+      {
+        "objectName": "blur"
+      },
+      {
+        "objectName": "NewBitmapText"
       }
     ]
   },
@@ -19002,11 +19089,268 @@
           "actions": [
             {
               "type": {
-                "value": "SetGlobalVariableAsBoolean"
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "in_second_scene",
-                "True"
+                "blur",
+                "Opacity",
+                "=",
+                "200"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "PinkMan",
+                "PlatformerObject",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Game Over 1.wav",
+                "2",
+                "",
+                "GlobalVariable(Settings.Music)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Menu",
+                "ButtonFSM",
+                "no"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "GAMEOVER BTNS",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "Retry",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Retry",
+                "Effect",
+                "\"Effect\"",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "Retry",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Retry",
+                "Effect",
+                "\"Effect\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Retry",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "score",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ToggleGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "Button"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"SecondScene\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "Home",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Home",
+                "Effect",
+                "\"Effect\"",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "Home",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Home",
+                "Effect",
+                "\"Effect\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Home",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ToggleGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "Button"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"MenuScene\"",
+                ""
               ]
             }
           ]
@@ -19074,63 +19418,6 @@
               },
               "parameters": [
                 "Menu",
-                "Effect",
-                "\"Effect\"",
-                "no"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsHovered"
-              },
-              "parameters": [
-                "Home",
-                "ButtonFSM",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "EffectCapability::EffectBehavior::EnableEffect"
-              },
-              "parameters": [
-                "Home",
-                "Effect",
-                "\"Effect\"",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "ButtonStates::ButtonFSM::IsHovered"
-              },
-              "parameters": [
-                "Home",
-                "ButtonFSM",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "EffectCapability::EffectBehavior::EnableEffect"
-              },
-              "parameters": [
-                "Home",
                 "Effect",
                 "\"Effect\"",
                 "no"
@@ -19293,59 +19580,6 @@
                 "value": "ButtonStates::ButtonFSM::IsClicked"
               },
               "parameters": [
-                "Home",
-                "ButtonFSM",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ToggleGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "Button"
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.15"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModGlobalVolume"
-              },
-              "parameters": [
-                "",
-                "=",
-                "100"
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"MenuScene\"",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
                 "Pause",
                 "ButtonFSM",
                 ""
@@ -19371,11 +19605,12 @@
             },
             {
               "type": {
-                "value": "PushScene"
+                "value": "Scene"
               },
               "parameters": [
                 "",
-                "\"PauseScene\""
+                "\"PauseScene\"",
+                ""
               ]
             }
           ]
@@ -19563,21 +19798,6 @@
                 "value": "Tween::TweenBehavior::AddObjectPositionTween2"
               },
               "parameters": [
-                "Home",
-                "Tween",
-                "\"button_in\"",
-                "50",
-                "25",
-                "\"easeInOutQuad\"",
-                "1",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionTween2"
-              },
-              "parameters": [
                 "Pause",
                 "Tween",
                 "\"button_in\"",
@@ -19600,16 +19820,6 @@
                 "25",
                 "\"easeInOutQuad\"",
                 "1",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Home",
-                "ButtonFSM",
                 ""
               ]
             },
@@ -19660,21 +19870,6 @@
                 "value": "Tween::TweenBehavior::AddObjectPositionTween2"
               },
               "parameters": [
-                "Home",
-                "Tween",
-                "\"button_out\"",
-                "118",
-                "28",
-                "\"easeInOutQuad\"",
-                "1",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionTween2"
-              },
-              "parameters": [
                 "Pause",
                 "Tween",
                 "\"button_out\"",
@@ -19698,16 +19893,6 @@
                 "\"easeInOutQuad\"",
                 "1",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Home",
-                "ButtonFSM",
-                "yes"
               ]
             },
             {
@@ -21442,6 +21627,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "PLAYER LIFE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -21672,7 +21858,7 @@
               "parameters": [
                 "SceneTransition",
                 "=",
-                "\"GameOverLV.2\""
+                "\"GameOver\""
               ]
             },
             {

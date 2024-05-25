@@ -25037,6 +25037,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "LEVEL COMPLETE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
