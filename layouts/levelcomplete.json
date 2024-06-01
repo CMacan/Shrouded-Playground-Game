@@ -2839,15 +2839,6 @@
           "conditions": [
             {
               "type": {
-                "value": "GlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "level_complete",
-                "True"
-              ]
-            },
-            {
-              "type": {
                 "value": "VarGlobal"
               },
               "parameters": [
@@ -2865,6 +2856,12 @@
                 ">",
                 "11"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -2881,15 +2878,6 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
-            {
-              "type": {
-                "value": "GlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "level_complete",
-                "True"
-              ]
-            },
             {
               "type": {
                 "value": "VarGlobal"
@@ -2909,6 +2897,12 @@
                 ">",
                 "0"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
